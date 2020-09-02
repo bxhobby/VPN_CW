@@ -326,4 +326,14 @@ Public Class frmVPN
         lblStatus.BackColor = Color.Red
     End Sub
 
+    Private Sub FlatClose1_Click(sender As Object, e As EventArgs) Handles FlatClose1.Click
+        Dim message As String =
+        "Are you sure that you would like to close the form?"
+        Dim caption As String = "Form Closing"
+        Dim result = MessageBox.Show(message, caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+        ' If the no button was pressed ...
+        If (result = DialogResult.Yes) Then
+            Application.Exit()
+        End If
+    End Sub
 End Class

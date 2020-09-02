@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frmVPN
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class frmVPN
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmVPN))
@@ -45,6 +45,7 @@ Partial Class frmVPN
         Me.FlatLabel1 = New VPN_2.FlatLabel()
         Me.btnDisconnect = New VPN_2.FlatButton()
         Me.btnConnect = New VPN_2.FlatButton()
+        Me.FlatClose1 = New VPN_2.FlatClose()
         Me.frmVPNConnector.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -56,6 +57,7 @@ Partial Class frmVPN
         Me.frmVPNConnector.BackColor = System.Drawing.Color.White
         Me.frmVPNConnector.BaseColor = System.Drawing.Color.FromArgb(CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer))
         Me.frmVPNConnector.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(170, Byte), Integer), CType(CType(220, Byte), Integer))
+        Me.frmVPNConnector.Controls.Add(Me.FlatClose1)
         Me.frmVPNConnector.Controls.Add(Me.lblStatus)
         Me.frmVPNConnector.Controls.Add(Me.chkProgramStart)
         Me.frmVPNConnector.Controls.Add(Me.FlatMini1)
@@ -343,6 +345,19 @@ Partial Class frmVPN
         Me.btnConnect.Text = "Connect"
         Me.btnConnect.TextColor = System.Drawing.Color.FromArgb(CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer))
         '
+        'FlatClose1
+        '
+        Me.FlatClose1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.FlatClose1.BackColor = System.Drawing.Color.White
+        Me.FlatClose1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer))
+        Me.FlatClose1.Font = New System.Drawing.Font("Marlett", 12.0!)
+        Me.FlatClose1.Location = New System.Drawing.Point(491, 3)
+        Me.FlatClose1.Name = "FlatClose1"
+        Me.FlatClose1.Size = New System.Drawing.Size(18, 18)
+        Me.FlatClose1.TabIndex = 20
+        Me.FlatClose1.Text = "FlatClose1"
+        Me.FlatClose1.TextColor = System.Drawing.Color.FromArgb(CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer))
+        '
         'frmVPN
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -382,4 +397,5 @@ Partial Class frmVPN
     Friend WithEvents FlatMini1 As FlatMini
     Friend WithEvents chkProgramStart As FlatCheckBox
     Friend WithEvents lblStatus As FlatLabel
+    Friend WithEvents FlatClose1 As FlatClose
 End Class

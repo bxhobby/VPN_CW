@@ -1508,7 +1508,7 @@ End Class
 #Region " Variables"
 
     Private W, H As Integer
-    Private State As MouseState = MouseState.None
+    'Private State As MouseState = MouseState.None
     Private WithEvents TB As Windows.Forms.TextBox
 
 #End Region
@@ -1639,6 +1639,15 @@ End Class
             e.SuppressKeyPress = True
         End If
     End Sub
+    Private Sub OnBaseKeyPress(ByVal s As Object, ByVal e As KeyPressEventArgs)
+        If Not (Asc(e.KeyChar) = 8) Then
+            Dim allowedChars As String = "abcdefghijklmnopqrstuvwxyz0123456789."
+            If Not allowedChars.Contains(e.KeyChar.ToString.ToLower) Then
+                e.KeyChar = ChrW(0)
+                e.Handled = True
+            End If
+        End If
+    End Sub
     Protected Overrides Sub OnResize(ByVal e As EventArgs)
         TB.Location = New Point(5, 5)
         TB.Width = Width - 10
@@ -1679,22 +1688,22 @@ End Class
 
 #Region " Mouse States"
 
-    Protected Overrides Sub OnMouseDown(e As MouseEventArgs)
-        MyBase.OnMouseDown(e)
-        State = MouseState.Down : Invalidate()
-    End Sub
-    Protected Overrides Sub OnMouseUp(e As MouseEventArgs)
-        MyBase.OnMouseUp(e)
-        State = MouseState.Over : TB.Focus() : Invalidate()
-    End Sub
-    Protected Overrides Sub OnMouseEnter(e As EventArgs)
-        MyBase.OnMouseEnter(e)
-        State = MouseState.Over : TB.Focus() : Invalidate()
-    End Sub
-    Protected Overrides Sub OnMouseLeave(e As EventArgs)
-        MyBase.OnMouseLeave(e)
-        State = MouseState.None : Invalidate()
-    End Sub
+    'Protected Overrides Sub OnMouseDown(e As MouseEventArgs)
+    '    MyBase.OnMouseDown(e)
+    '    State = MouseState.Down : Invalidate()
+    'End Sub
+    'Protected Overrides Sub OnMouseUp(e As MouseEventArgs)
+    '    MyBase.OnMouseUp(e)
+    '    State = MouseState.Over : TB.Focus() : Invalidate()
+    'End Sub
+    'Protected Overrides Sub OnMouseEnter(e As EventArgs)
+    '    MyBase.OnMouseEnter(e)
+    '    State = MouseState.Over : TB.Focus() : Invalidate()
+    'End Sub
+    'Protected Overrides Sub OnMouseLeave(e As EventArgs)
+    '    MyBase.OnMouseLeave(e)
+    '    State = MouseState.None : Invalidate()
+    'End Sub
 
 #End Region
 
@@ -1739,6 +1748,7 @@ End Class
 
         AddHandler TB.TextChanged, AddressOf OnBaseTextChanged
         AddHandler TB.KeyDown, AddressOf OnBaseKeyDown
+        AddHandler TB.KeyPress, AddressOf OnBaseKeyPress
     End Sub
 
     Protected Overrides Sub OnPaint(e As PaintEventArgs)
