@@ -1,0 +1,3845 @@
+<----- SurfOpenly Logging ---->
+< To Clear log file, delete all text below this line. >
+2562/08/17 17:27:14  >>  SurfOpenly Application Initialized
+2562/08/17 17:29:21  >>  SurfOpenly Application Initialized
+2562/08/17 17:29:31  >>  SurfOpenly Application Initialized
+2562/08/17 17:29:50  >>  SurfOpenly Application Initialized
+2562/08/17 17:50:42  >>  SurfOpenly Application Initialized
+2562/08/17 17:51:43  >>  SurfOpenly Application Initialized
+2562/08/17 17:51:59  >>  SurfOpenly Application Initialized
+2562/08/17 18:26:21  >>  SurfOpenly Application Initialized
+2562/08/17 19:48:29  >>  SurfOpenly Application Initialized
+2562/08/17 19:48:55  >>  The caller does not have the required permission to perform the action requested.
+2562/08/19 09:37:16  >>  SurfOpenly Application Initialized
+2562/08/19 09:37:26  >>  The caller does not have the required permission to perform the action requested.
+2562/08/19 09:44:34  >>  SurfOpenly Application Initialized
+2562/08/19 09:44:56  >>  Successfully diconnected live connection
+2562/08/19 09:48:56  >>  Connection  interrupted and disconnected externally
+2562/08/19 09:49:29  >>  Successfully diconnected live connection
+2562/08/19 09:53:27  >>  SurfOpenly Application Initialized
+2562/08/19 09:53:46  >>  Successfully diconnected live connection
+2562/08/19 09:54:19  >>  Successfully diconnected live connection
+2562/08/19 09:54:45  >>  SurfOpenly Application Initialized
+2562/08/19 09:57:55  >>  SurfOpenly Application Initialized
+2562/08/19 10:00:40  >>  SurfOpenly Application Initialized
+2562/08/19 10:01:37  >>  OpenPort
+2562/08/19 10:04:48  >>  SurfOpenly Application Initialized
+2562/08/19 10:09:51  >>  SurfOpenly Application Initialized
+2562/08/19 10:10:02  >>  Cannot delete a connection while it is connected.
+2562/08/19 10:10:31  >>  SurfOpenly Application Initialized
+2562/08/19 10:10:49  >>  Cannot delete a connection while it is connected.
+2562/08/19 10:11:39  >>  SurfOpenly Application Initialized
+2562/08/19 10:13:38  >>  OpenPort
+2562/08/19 10:15:06  >>  PortOpened
+2562/08/19 10:20:09  >>  SurfOpenly Application Initialized
+2562/08/19 10:20:24  >>  OpenPort
+2562/08/19 10:20:24  >>  PortOpened
+2562/08/19 10:20:24  >>  ConnectDevice
+2562/08/19 10:20:24  >>  DeviceConnected
+2562/08/19 10:20:24  >>  AllDevicesConnected
+2562/08/19 10:20:24  >>  Authenticate
+2562/08/19 10:20:24  >>  AuthNotify
+2562/08/19 10:20:24  >>  AuthProject
+2562/08/19 10:20:24  >>  AuthNotify
+2562/08/19 10:20:24  >>  Projected
+2562/08/19 10:20:25  >>  AuthNotify
+2562/08/19 10:20:25  >>  Authenticated
+2562/08/19 10:20:25  >>  ApplySettings
+2562/08/19 10:20:25  >>  Connected
+2562/08/19 10:20:25  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 10:21:11  >>  SurfOpenly Application Initialized
+2562/08/19 10:21:53  >>  SurfOpenly Application Initialized
+2562/08/19 10:29:59  >>  SurfOpenly Application Initialized
+2562/08/19 10:30:03  >>  The caller does not have the required permission to perform the action requested.
+2562/08/19 10:36:34  >>  SurfOpenly Application Initialized
+2562/08/19 10:36:37  >>  OpenPort
+2562/08/19 10:36:37  >>  PortOpened
+2562/08/19 10:36:37  >>  ConnectDevice
+2562/08/19 10:36:37  >>  DeviceConnected
+2562/08/19 10:36:37  >>  AllDevicesConnected
+2562/08/19 10:36:37  >>  Authenticate
+2562/08/19 10:36:37  >>  AuthNotify
+2562/08/19 10:36:37  >>  AuthProject
+2562/08/19 10:36:37  >>  AuthNotify
+2562/08/19 10:36:37  >>  Projected
+2562/08/19 10:36:37  >>  AuthNotify
+2562/08/19 10:36:37  >>  Authenticated
+2562/08/19 10:36:37  >>  ApplySettings
+2562/08/19 10:36:38  >>  Connected
+2562/08/19 10:36:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 10:36:57  >>  SurfOpenly Application Initialized
+2562/08/19 10:37:00  >>  OpenPort
+2562/08/19 10:37:00  >>  PortOpened
+2562/08/19 10:37:00  >>  ConnectDevice
+2562/08/19 10:37:00  >>  DeviceConnected
+2562/08/19 10:37:00  >>  AllDevicesConnected
+2562/08/19 10:37:00  >>  Authenticate
+2562/08/19 10:37:00  >>  AuthNotify
+2562/08/19 10:37:00  >>  AuthProject
+2562/08/19 10:37:00  >>  AuthNotify
+2562/08/19 10:37:00  >>  Projected
+2562/08/19 10:37:00  >>  AuthNotify
+2562/08/19 10:37:00  >>  Authenticated
+2562/08/19 10:37:00  >>  ApplySettings
+2562/08/19 10:37:00  >>  Connected
+2562/08/19 10:37:00  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 10:41:15  >>  SurfOpenly Application Initialized
+2562/08/19 10:41:19  >>  OpenPort
+2562/08/19 10:41:19  >>  PortOpened
+2562/08/19 10:41:19  >>  ConnectDevice
+2562/08/19 10:41:19  >>  DeviceConnected
+2562/08/19 10:41:19  >>  AllDevicesConnected
+2562/08/19 10:41:19  >>  Authenticate
+2562/08/19 10:41:19  >>  AuthNotify
+2562/08/19 10:41:19  >>  AuthProject
+2562/08/19 10:41:19  >>  AuthNotify
+2562/08/19 10:41:19  >>  Projected
+2562/08/19 10:41:19  >>  AuthNotify
+2562/08/19 10:41:19  >>  Authenticated
+2562/08/19 10:41:19  >>  ApplySettings
+2562/08/19 10:41:19  >>  Connected
+2562/08/19 10:41:19  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 10:48:44  >>  SurfOpenly Application Initialized
+2562/08/19 10:55:48  >>  SurfOpenly Application Initialized
+2562/08/19 11:09:14  >>  SurfOpenly Application Initialized
+2562/08/19 11:25:26  >>  SurfOpenly Application Initialized
+2562/08/19 11:25:32  >>  OpenPort
+2562/08/19 11:25:32  >>  PortOpened
+2562/08/19 11:25:32  >>  ConnectDevice
+2562/08/19 11:25:32  >>  DeviceConnected
+2562/08/19 11:25:32  >>  AllDevicesConnected
+2562/08/19 11:25:32  >>  Authenticate
+2562/08/19 11:25:32  >>  AuthNotify
+2562/08/19 11:25:32  >>  AuthProject
+2562/08/19 11:25:33  >>  AuthNotify
+2562/08/19 11:25:33  >>  Projected
+2562/08/19 11:25:33  >>  AuthNotify
+2562/08/19 11:25:33  >>  Authenticated
+2562/08/19 11:25:33  >>  ApplySettings
+2562/08/19 11:25:33  >>  Connected
+2562/08/19 11:25:33  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 11:29:45  >>  SurfOpenly Application Initialized
+2562/08/19 12:06:31  >>  SurfOpenly Application Initialized
+2562/08/19 12:06:40  >>  Cannot delete a connection while it is connected.
+2562/08/19 12:07:04  >>  Connection  interrupted and disconnected externally
+2562/08/19 12:07:07  >>  OpenPort
+2562/08/19 12:07:07  >>  OpenPort
+2562/08/19 12:07:07  >>  PortOpened
+2562/08/19 12:07:07  >>  PortOpened
+2562/08/19 12:07:07  >>  ConnectDevice
+2562/08/19 12:07:07  >>  ConnectDevice
+2562/08/19 12:07:07  >>  DeviceConnected
+2562/08/19 12:07:07  >>  DeviceConnected
+2562/08/19 12:07:07  >>  AllDevicesConnected
+2562/08/19 12:07:07  >>  AllDevicesConnected
+2562/08/19 12:07:07  >>  Authenticate
+2562/08/19 12:07:07  >>  Authenticate
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  AuthProject
+2562/08/19 12:07:07  >>  AuthProject
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  Projected
+2562/08/19 12:07:07  >>  Projected
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  AuthNotify
+2562/08/19 12:07:07  >>  Authenticated
+2562/08/19 12:07:07  >>  Authenticated
+2562/08/19 12:07:07  >>  ApplySettings
+2562/08/19 12:07:07  >>  ApplySettings
+2562/08/19 12:07:07  >>  Connected
+2562/08/19 12:07:07  >>  Connected
+2562/08/19 12:07:07  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 12:07:08  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 12:08:09  >>  Cannot delete a connection while it is connected.
+2562/08/19 12:09:49  >>  Connection  interrupted and disconnected externally
+2562/08/19 12:09:49  >>  Connection  interrupted and disconnected externally
+2562/08/19 12:09:49  >>  Connection  interrupted and disconnected externally
+2562/08/19 12:22:12  >>  SurfOpenly Application Initialized
+2562/08/19 12:22:15  >>  OpenPort
+2562/08/19 12:22:15  >>  PortOpened
+2562/08/19 12:22:15  >>  ConnectDevice
+2562/08/19 12:22:15  >>  DeviceConnected
+2562/08/19 12:22:15  >>  AllDevicesConnected
+2562/08/19 12:22:15  >>  Authenticate
+2562/08/19 12:22:15  >>  AuthNotify
+2562/08/19 12:22:15  >>  AuthProject
+2562/08/19 12:22:16  >>  AuthNotify
+2562/08/19 12:22:16  >>  Projected
+2562/08/19 12:22:16  >>  AuthNotify
+2562/08/19 12:22:16  >>  Authenticated
+2562/08/19 12:22:16  >>  ApplySettings
+2562/08/19 12:22:16  >>  Connected
+2562/08/19 12:22:16  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 12:22:39  >>  Connection  interrupted and disconnected externally
+2562/08/19 12:23:28  >>  OpenPort
+2562/08/19 12:23:28  >>  OpenPort
+2562/08/19 12:23:28  >>  PortOpened
+2562/08/19 12:23:28  >>  PortOpened
+2562/08/19 12:23:28  >>  ConnectDevice
+2562/08/19 12:23:28  >>  ConnectDevice
+2562/08/19 12:23:28  >>  DeviceConnected
+2562/08/19 12:23:28  >>  DeviceConnected
+2562/08/19 12:23:28  >>  AllDevicesConnected
+2562/08/19 12:23:28  >>  AllDevicesConnected
+2562/08/19 12:23:28  >>  Authenticate
+2562/08/19 12:23:28  >>  Authenticate
+2562/08/19 12:23:28  >>  AuthNotify
+2562/08/19 12:23:28  >>  AuthNotify
+2562/08/19 12:23:29  >>  AuthProject
+2562/08/19 12:23:29  >>  AuthProject
+2562/08/19 12:23:29  >>  AuthNotify
+2562/08/19 12:23:29  >>  AuthNotify
+2562/08/19 12:23:29  >>  Projected
+2562/08/19 12:23:29  >>  Projected
+2562/08/19 12:23:29  >>  AuthNotify
+2562/08/19 12:23:29  >>  AuthNotify
+2562/08/19 12:23:29  >>  Authenticated
+2562/08/19 12:23:29  >>  Authenticated
+2562/08/19 12:23:29  >>  ApplySettings
+2562/08/19 12:23:29  >>  ApplySettings
+2562/08/19 12:23:29  >>  Connected
+2562/08/19 12:23:29  >>  Connected
+2562/08/19 12:23:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 12:23:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 14:13:02  >>  SurfOpenly Application Initialized
+2562/08/19 14:13:55  >>  OpenPort
+2562/08/19 14:13:55  >>  PortOpened
+2562/08/19 14:13:55  >>  ConnectDevice
+2562/08/19 14:13:55  >>  DeviceConnected
+2562/08/19 14:13:55  >>  AllDevicesConnected
+2562/08/19 14:13:55  >>  Authenticate
+2562/08/19 14:13:55  >>  AuthNotify
+2562/08/19 14:13:55  >>  AuthProject
+2562/08/19 14:13:56  >>  AuthNotify
+2562/08/19 14:13:56  >>  Projected
+2562/08/19 14:13:56  >>  AuthNotify
+2562/08/19 14:13:56  >>  Authenticated
+2562/08/19 14:13:56  >>  ApplySettings
+2562/08/19 14:13:56  >>  Connected
+2562/08/19 14:13:56  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 14:14:14  >>  Connection  interrupted and disconnected externally
+2562/08/19 14:29:15  >>  SurfOpenly Application Initialized
+2562/08/19 14:29:20  >>  OpenPort
+2562/08/19 14:29:20  >>  PortOpened
+2562/08/19 14:29:20  >>  ConnectDevice
+2562/08/19 14:29:20  >>  DeviceConnected
+2562/08/19 14:29:20  >>  AllDevicesConnected
+2562/08/19 14:29:20  >>  Authenticate
+2562/08/19 14:29:20  >>  AuthNotify
+2562/08/19 14:29:20  >>  AuthProject
+2562/08/19 14:29:21  >>  AuthNotify
+2562/08/19 14:29:21  >>  Projected
+2562/08/19 14:29:21  >>  AuthNotify
+2562/08/19 14:29:21  >>  Authenticated
+2562/08/19 14:29:21  >>  ApplySettings
+2562/08/19 14:29:22  >>  Connected
+2562/08/19 14:29:22  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 14:29:26  >>  Trying to disconnect a connection
+2562/08/19 14:29:27  >>  Successfully diconnected live connection
+2562/08/19 14:34:34  >>  SurfOpenly Application Initialized
+2562/08/19 14:34:37  >>  OpenPort
+2562/08/19 14:34:37  >>  PortOpened
+2562/08/19 14:34:37  >>  ConnectDevice
+2562/08/19 14:34:37  >>  DeviceConnected
+2562/08/19 14:34:37  >>  AllDevicesConnected
+2562/08/19 14:34:37  >>  Authenticate
+2562/08/19 14:34:37  >>  AuthNotify
+2562/08/19 14:34:37  >>  AuthProject
+2562/08/19 14:34:38  >>  AuthNotify
+2562/08/19 14:34:38  >>  Projected
+2562/08/19 14:34:38  >>  AuthNotify
+2562/08/19 14:34:38  >>  Authenticated
+2562/08/19 14:34:38  >>  ApplySettings
+2562/08/19 14:34:38  >>  Connected
+2562/08/19 14:34:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 14:34:42  >>  Trying to disconnect a connection
+2562/08/19 14:34:45  >>  Successfully diconnected live connection
+2562/08/19 14:44:07  >>  SurfOpenly Application Initialized
+2562/08/19 14:44:12  >>  OpenPort
+2562/08/19 14:44:12  >>  PortOpened
+2562/08/19 14:44:12  >>  ConnectDevice
+2562/08/19 14:44:12  >>  DeviceConnected
+2562/08/19 14:44:12  >>  AllDevicesConnected
+2562/08/19 14:44:12  >>  Authenticate
+2562/08/19 14:44:12  >>  AuthNotify
+2562/08/19 14:44:12  >>  AuthProject
+2562/08/19 14:44:12  >>  AuthNotify
+2562/08/19 14:44:12  >>  Projected
+2562/08/19 14:44:12  >>  AuthNotify
+2562/08/19 14:44:12  >>  Authenticated
+2562/08/19 14:44:12  >>  ApplySettings
+2562/08/19 14:44:12  >>  Connected
+2562/08/19 14:44:12  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 15:04:09  >>  SurfOpenly Application Initialized
+2562/08/19 15:04:11  >>  OpenPort
+2562/08/19 15:04:11  >>  PortOpened
+2562/08/19 15:04:11  >>  ConnectDevice
+2562/08/19 15:04:11  >>  DeviceConnected
+2562/08/19 15:04:11  >>  AllDevicesConnected
+2562/08/19 15:04:11  >>  Authenticate
+2562/08/19 15:04:11  >>  AuthNotify
+2562/08/19 15:04:12  >>  AuthProject
+2562/08/19 15:04:12  >>  AuthNotify
+2562/08/19 15:04:12  >>  Projected
+2562/08/19 15:04:12  >>  AuthNotify
+2562/08/19 15:04:12  >>  Authenticated
+2562/08/19 15:04:12  >>  ApplySettings
+2562/08/19 15:04:12  >>  Connected
+2562/08/19 15:04:12  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 15:04:22  >>  Connection  interrupted and disconnected externally
+2562/08/19 15:10:08  >>  SurfOpenly Application Initialized
+2562/08/19 15:10:12  >>  OpenPort
+2562/08/19 15:10:12  >>  PortOpened
+2562/08/19 15:10:12  >>  ConnectDevice
+2562/08/19 15:10:12  >>  DeviceConnected
+2562/08/19 15:10:12  >>  AllDevicesConnected
+2562/08/19 15:10:12  >>  Authenticate
+2562/08/19 15:10:12  >>  AuthNotify
+2562/08/19 15:10:12  >>  AuthProject
+2562/08/19 15:10:13  >>  AuthNotify
+2562/08/19 15:10:13  >>  Projected
+2562/08/19 15:10:13  >>  AuthNotify
+2562/08/19 15:10:13  >>  Authenticated
+2562/08/19 15:10:13  >>  ApplySettings
+2562/08/19 15:10:13  >>  Connected
+2562/08/19 15:10:13  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 15:10:18  >>  Trying to disconnect a connection
+2562/08/19 15:10:19  >>  Successfully diconnected live connection
+2562/08/19 15:12:15  >>  SurfOpenly Application Initialized
+2562/08/19 16:12:31  >>  OpenPort
+2562/08/19 16:12:31  >>  PortOpened
+2562/08/19 16:12:31  >>  ConnectDevice
+2562/08/19 16:12:31  >>  DeviceConnected
+2562/08/19 16:12:31  >>  AllDevicesConnected
+2562/08/19 16:12:31  >>  Authenticate
+2562/08/19 16:12:31  >>  AuthNotify
+2562/08/19 16:12:31  >>  AuthProject
+2562/08/19 16:12:31  >>  AuthNotify
+2562/08/19 16:12:31  >>  Projected
+2562/08/19 16:12:32  >>  AuthNotify
+2562/08/19 16:12:32  >>  Authenticated
+2562/08/19 16:12:32  >>  ApplySettings
+2562/08/19 16:12:32  >>  Connected
+2562/08/19 16:12:32  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:12:37  >>  Trying to disconnect a connection
+2562/08/19 16:12:45  >>  Successfully diconnected live connection
+2562/08/19 16:14:54  >>  SurfOpenly Application Initialized
+2562/08/19 16:14:56  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2562/08/19 16:15:13  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2562/08/19 16:17:18  >>  OpenPort
+2562/08/19 16:17:18  >>  PortOpened
+2562/08/19 16:17:18  >>  ConnectDevice
+2562/08/19 16:17:18  >>  DeviceConnected
+2562/08/19 16:17:18  >>  AllDevicesConnected
+2562/08/19 16:17:18  >>  Authenticate
+2562/08/19 16:17:18  >>  AuthNotify
+2562/08/19 16:17:18  >>  AuthProject
+2562/08/19 16:17:18  >>  AuthNotify
+2562/08/19 16:17:18  >>  Projected
+2562/08/19 16:17:19  >>  AuthNotify
+2562/08/19 16:17:19  >>  Authenticated
+2562/08/19 16:17:19  >>  ApplySettings
+2562/08/19 16:17:19  >>  Connected
+2562/08/19 16:17:19  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:17:44  >>  Connection  interrupted and disconnected externally
+2562/08/19 16:26:31  >>  SurfOpenly Application Initialized
+2562/08/19 16:26:34  >>  OpenPort
+2562/08/19 16:26:34  >>  PortOpened
+2562/08/19 16:26:34  >>  ConnectDevice
+2562/08/19 16:26:34  >>  DeviceConnected
+2562/08/19 16:26:34  >>  AllDevicesConnected
+2562/08/19 16:26:34  >>  Authenticate
+2562/08/19 16:26:34  >>  AuthNotify
+2562/08/19 16:26:34  >>  AuthProject
+2562/08/19 16:26:35  >>  AuthNotify
+2562/08/19 16:26:35  >>  Projected
+2562/08/19 16:26:35  >>  AuthNotify
+2562/08/19 16:26:35  >>  Authenticated
+2562/08/19 16:26:35  >>  ApplySettings
+2562/08/19 16:26:35  >>  Connected
+2562/08/19 16:26:35  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:26:41  >>  Connection  interrupted and disconnected externally
+2562/08/19 16:26:46  >>  OpenPort
+2562/08/19 16:26:46  >>  OpenPort
+2562/08/19 16:26:46  >>  PortOpened
+2562/08/19 16:26:46  >>  PortOpened
+2562/08/19 16:26:46  >>  ConnectDevice
+2562/08/19 16:26:46  >>  ConnectDevice
+2562/08/19 16:26:46  >>  DeviceConnected
+2562/08/19 16:26:46  >>  DeviceConnected
+2562/08/19 16:26:46  >>  AllDevicesConnected
+2562/08/19 16:26:46  >>  AllDevicesConnected
+2562/08/19 16:26:46  >>  Authenticate
+2562/08/19 16:26:46  >>  Authenticate
+2562/08/19 16:26:46  >>  AuthNotify
+2562/08/19 16:26:46  >>  AuthNotify
+2562/08/19 16:26:47  >>  AuthProject
+2562/08/19 16:26:47  >>  AuthProject
+2562/08/19 16:26:47  >>  AuthNotify
+2562/08/19 16:26:47  >>  AuthNotify
+2562/08/19 16:26:47  >>  Projected
+2562/08/19 16:26:47  >>  Projected
+2562/08/19 16:26:47  >>  AuthNotify
+2562/08/19 16:26:47  >>  AuthNotify
+2562/08/19 16:26:47  >>  Authenticated
+2562/08/19 16:26:47  >>  Authenticated
+2562/08/19 16:26:47  >>  ApplySettings
+2562/08/19 16:26:47  >>  ApplySettings
+2562/08/19 16:26:47  >>  Connected
+2562/08/19 16:26:47  >>  Connected
+2562/08/19 16:26:47  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:26:47  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:26:50  >>  Trying to disconnect a connection
+2562/08/19 16:26:53  >>  Successfully diconnected live connection
+2562/08/19 16:32:52  >>  SurfOpenly Application Initialized
+2562/08/19 16:39:40  >>  SurfOpenly Application Initialized
+2562/08/19 16:39:44  >>  OpenPort
+2562/08/19 16:39:44  >>  PortOpened
+2562/08/19 16:39:44  >>  ConnectDevice
+2562/08/19 16:39:44  >>  DeviceConnected
+2562/08/19 16:39:44  >>  AllDevicesConnected
+2562/08/19 16:39:44  >>  Authenticate
+2562/08/19 16:39:44  >>  AuthNotify
+2562/08/19 16:39:44  >>  AuthProject
+2562/08/19 16:39:45  >>  AuthNotify
+2562/08/19 16:39:45  >>  Projected
+2562/08/19 16:39:45  >>  AuthNotify
+2562/08/19 16:39:45  >>  Authenticated
+2562/08/19 16:39:45  >>  ApplySettings
+2562/08/19 16:39:45  >>  Connected
+2562/08/19 16:39:45  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:39:50  >>  Trying to disconnect a connection
+2562/08/19 16:39:51  >>  Successfully diconnected live connection
+2562/08/19 16:39:59  >>  SurfOpenly Application Initialized
+2562/08/19 16:40:04  >>  OpenPort
+2562/08/19 16:40:04  >>  PortOpened
+2562/08/19 16:40:04  >>  ConnectDevice
+2562/08/19 16:40:04  >>  DeviceConnected
+2562/08/19 16:40:04  >>  AllDevicesConnected
+2562/08/19 16:40:04  >>  Authenticate
+2562/08/19 16:40:04  >>  AuthNotify
+2562/08/19 16:40:04  >>  AuthProject
+2562/08/19 16:40:04  >>  AuthNotify
+2562/08/19 16:40:04  >>  Projected
+2562/08/19 16:40:04  >>  AuthNotify
+2562/08/19 16:40:04  >>  Authenticated
+2562/08/19 16:40:04  >>  ApplySettings
+2562/08/19 16:40:05  >>  Connected
+2562/08/19 16:40:05  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 16:40:10  >>  Trying to disconnect a connection
+2562/08/19 16:40:11  >>  Successfully diconnected live connection
+2562/08/19 16:40:33  >>  SurfOpenly Application Initialized
+2562/08/19 16:46:11  >>  SurfOpenly Application Initialized
+2562/08/19 16:46:21  >>  OpenPort
+2562/08/19 16:46:21  >>  PortOpened
+2562/08/19 16:46:21  >>  ConnectDevice
+2562/08/19 16:46:21  >>  DeviceConnected
+2562/08/19 16:46:21  >>  AllDevicesConnected
+2562/08/19 16:46:21  >>  Authenticate
+2562/08/19 16:46:21  >>  AuthNotify
+2562/08/19 16:46:21  >>  AuthProject
+2562/08/19 16:46:21  >>  AuthNotify
+2562/08/19 16:46:21  >>  Projected
+2562/08/19 16:46:21  >>  AuthNotify
+2562/08/19 16:46:21  >>  Authenticated
+2562/08/19 16:46:21  >>  ApplySettings
+2562/08/19 16:46:21  >>  Connected
+2562/08/19 16:46:21  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 17:06:58  >>  SurfOpenly Application Initialized
+2562/08/19 17:09:56  >>  SurfOpenly Application Initialized
+2562/08/19 17:11:47  >>  SurfOpenly Application Initialized
+2562/08/19 17:12:02  >>  SurfOpenly Application Initialized
+2562/08/19 17:12:59  >>  SurfOpenly Application Initialized
+2562/08/19 17:13:14  >>  OpenPort
+2562/08/19 17:13:14  >>  PortOpened
+2562/08/19 17:13:14  >>  ConnectDevice
+2562/08/19 17:13:14  >>  DeviceConnected
+2562/08/19 17:13:14  >>  AllDevicesConnected
+2562/08/19 17:13:14  >>  Authenticate
+2562/08/19 17:13:14  >>  AuthNotify
+2562/08/19 17:13:14  >>  AuthProject
+2562/08/19 17:13:15  >>  AuthNotify
+2562/08/19 17:13:15  >>  Projected
+2562/08/19 17:13:15  >>  AuthNotify
+2562/08/19 17:13:15  >>  Authenticated
+2562/08/19 17:13:15  >>  ApplySettings
+2562/08/19 17:13:15  >>  Connected
+2562/08/19 17:13:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 17:38:29  >>  SurfOpenly Application Initialized
+2562/08/19 17:42:36  >>  SurfOpenly Application Initialized
+2562/08/19 17:47:17  >>  SurfOpenly Application Initialized
+2562/08/19 17:48:32  >>  SurfOpenly Application Initialized
+2562/08/19 17:48:47  >>  SurfOpenly Application Initialized
+2562/08/19 17:53:13  >>  SurfOpenly Application Initialized
+2562/08/19 17:53:16  >>  OpenPort
+2562/08/19 17:53:16  >>  PortOpened
+2562/08/19 17:53:16  >>  ConnectDevice
+2562/08/19 17:53:16  >>  DeviceConnected
+2562/08/19 17:53:16  >>  AllDevicesConnected
+2562/08/19 17:53:16  >>  Authenticate
+2562/08/19 17:53:16  >>  AuthNotify
+2562/08/19 17:53:16  >>  AuthProject
+2562/08/19 17:53:17  >>  AuthNotify
+2562/08/19 17:53:17  >>  Projected
+2562/08/19 17:53:17  >>  AuthNotify
+2562/08/19 17:53:17  >>  Authenticated
+2562/08/19 17:53:17  >>  ApplySettings
+2562/08/19 17:53:17  >>  Connected
+2562/08/19 17:53:17  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 17:53:27  >>  Connection  interrupted and disconnected externally
+2562/08/19 17:53:29  >>  Successfully disconnected live connection
+2562/08/19 17:53:29  >>  SurfOpenly Application Closing
+2562/08/19 17:53:36  >>  SurfOpenly Application Initialized
+2562/08/19 17:53:40  >>  OpenPort
+2562/08/19 17:53:40  >>  PortOpened
+2562/08/19 17:53:40  >>  ConnectDevice
+2562/08/19 17:53:40  >>  DeviceConnected
+2562/08/19 17:53:40  >>  AllDevicesConnected
+2562/08/19 17:53:40  >>  Authenticate
+2562/08/19 17:53:40  >>  AuthNotify
+2562/08/19 17:53:40  >>  AuthProject
+2562/08/19 17:53:40  >>  AuthNotify
+2562/08/19 17:53:40  >>  Projected
+2562/08/19 17:53:40  >>  AuthNotify
+2562/08/19 17:53:40  >>  Authenticated
+2562/08/19 17:53:40  >>  ApplySettings
+2562/08/19 17:53:41  >>  Connected
+2562/08/19 17:53:41  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 17:54:15  >>  SurfOpenly Application Initialized
+2562/08/19 18:09:28  >>  SurfOpenly Application Initialized
+2562/08/19 18:09:45  >>  SurfOpenly Application Closing
+2562/08/19 18:10:18  >>  SurfOpenly Application Initialized
+2562/08/19 18:10:51  >>  SurfOpenly Application Closing
+2562/08/19 18:12:13  >>  SurfOpenly Application Initialized
+2562/08/19 18:25:01  >>  SurfOpenly Application Initialized
+2562/08/19 18:25:02  >>  OpenPort
+2562/08/19 18:25:02  >>  PortOpened
+2562/08/19 18:25:02  >>  ConnectDevice
+2562/08/19 18:25:02  >>  DeviceConnected
+2562/08/19 18:25:02  >>  AllDevicesConnected
+2562/08/19 18:25:02  >>  Authenticate
+2562/08/19 18:25:02  >>  AuthNotify
+2562/08/19 18:25:02  >>  AuthProject
+2562/08/19 18:25:03  >>  AuthNotify
+2562/08/19 18:25:03  >>  Projected
+2562/08/19 18:25:03  >>  AuthNotify
+2562/08/19 18:25:03  >>  Authenticated
+2562/08/19 18:25:03  >>  ApplySettings
+2562/08/19 18:25:03  >>  Connected
+2562/08/19 18:25:03  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:25:54  >>  Trying to disconnect a connection
+2562/08/19 18:25:55  >>  Successfully diconnected live connection
+2562/08/19 18:27:32  >>  SurfOpenly Application Initialized
+2562/08/19 18:27:33  >>  OpenPort
+2562/08/19 18:27:33  >>  PortOpened
+2562/08/19 18:27:33  >>  ConnectDevice
+2562/08/19 18:27:33  >>  DeviceConnected
+2562/08/19 18:27:33  >>  AllDevicesConnected
+2562/08/19 18:27:33  >>  Authenticate
+2562/08/19 18:27:34  >>  AuthNotify
+2562/08/19 18:27:34  >>  AuthProject
+2562/08/19 18:27:34  >>  AuthNotify
+2562/08/19 18:27:34  >>  Projected
+2562/08/19 18:27:34  >>  AuthNotify
+2562/08/19 18:27:34  >>  Authenticated
+2562/08/19 18:27:34  >>  ApplySettings
+2562/08/19 18:27:35  >>  Connected
+2562/08/19 18:27:35  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:27:43  >>  Trying to disconnect a connection
+2562/08/19 18:27:45  >>  Successfully diconnected live connection
+2562/08/19 18:29:26  >>  SurfOpenly Application Initialized
+2562/08/19 18:29:27  >>  OpenPort
+2562/08/19 18:29:27  >>  PortOpened
+2562/08/19 18:29:27  >>  ConnectDevice
+2562/08/19 18:29:27  >>  DeviceConnected
+2562/08/19 18:29:27  >>  AllDevicesConnected
+2562/08/19 18:29:27  >>  Authenticate
+2562/08/19 18:29:27  >>  AuthNotify
+2562/08/19 18:29:27  >>  AuthProject
+2562/08/19 18:29:27  >>  AuthNotify
+2562/08/19 18:29:27  >>  Projected
+2562/08/19 18:29:28  >>  AuthNotify
+2562/08/19 18:29:28  >>  Authenticated
+2562/08/19 18:29:28  >>  ApplySettings
+2562/08/19 18:29:28  >>  Connected
+2562/08/19 18:29:28  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:29:37  >>  Trying to disconnect a connection
+2562/08/19 18:29:39  >>  Successfully diconnected live connection
+2562/08/19 18:29:47  >>  OpenPort
+2562/08/19 18:29:47  >>  OpenPort
+2562/08/19 18:29:47  >>  PortOpened
+2562/08/19 18:29:47  >>  PortOpened
+2562/08/19 18:29:47  >>  ConnectDevice
+2562/08/19 18:29:47  >>  ConnectDevice
+2562/08/19 18:29:47  >>  DeviceConnected
+2562/08/19 18:29:47  >>  DeviceConnected
+2562/08/19 18:29:47  >>  AllDevicesConnected
+2562/08/19 18:29:47  >>  AllDevicesConnected
+2562/08/19 18:29:47  >>  Authenticate
+2562/08/19 18:29:47  >>  Authenticate
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  AuthProject
+2562/08/19 18:29:48  >>  AuthProject
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  Projected
+2562/08/19 18:29:48  >>  Projected
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  AuthNotify
+2562/08/19 18:29:48  >>  Authenticated
+2562/08/19 18:29:48  >>  Authenticated
+2562/08/19 18:29:48  >>  ApplySettings
+2562/08/19 18:29:48  >>  ApplySettings
+2562/08/19 18:29:48  >>  Connected
+2562/08/19 18:29:48  >>  Connected
+2562/08/19 18:29:48  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:29:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:30:06  >>  Trying to disconnect a connection
+2562/08/19 18:30:07  >>  Successfully diconnected live connection
+2562/08/19 18:30:12  >>  OpenPort
+2562/08/19 18:30:12  >>  OpenPort
+2562/08/19 18:30:12  >>  OpenPort
+2562/08/19 18:30:12  >>  PortOpened
+2562/08/19 18:30:12  >>  PortOpened
+2562/08/19 18:30:12  >>  PortOpened
+2562/08/19 18:30:12  >>  ConnectDevice
+2562/08/19 18:30:12  >>  ConnectDevice
+2562/08/19 18:30:12  >>  ConnectDevice
+2562/08/19 18:30:12  >>  DeviceConnected
+2562/08/19 18:30:12  >>  DeviceConnected
+2562/08/19 18:30:12  >>  DeviceConnected
+2562/08/19 18:30:12  >>  AllDevicesConnected
+2562/08/19 18:30:12  >>  AllDevicesConnected
+2562/08/19 18:30:12  >>  AllDevicesConnected
+2562/08/19 18:30:12  >>  Authenticate
+2562/08/19 18:30:12  >>  Authenticate
+2562/08/19 18:30:12  >>  Authenticate
+2562/08/19 18:30:12  >>  AuthNotify
+2562/08/19 18:30:12  >>  AuthNotify
+2562/08/19 18:30:12  >>  AuthNotify
+2562/08/19 18:30:12  >>  AuthProject
+2562/08/19 18:30:12  >>  AuthProject
+2562/08/19 18:30:12  >>  AuthProject
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  Projected
+2562/08/19 18:30:13  >>  Projected
+2562/08/19 18:30:13  >>  Projected
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  AuthNotify
+2562/08/19 18:30:13  >>  Authenticated
+2562/08/19 18:30:13  >>  Authenticated
+2562/08/19 18:30:13  >>  Authenticated
+2562/08/19 18:30:13  >>  ApplySettings
+2562/08/19 18:30:13  >>  ApplySettings
+2562/08/19 18:30:13  >>  ApplySettings
+2562/08/19 18:30:13  >>  Connected
+2562/08/19 18:30:13  >>  Connected
+2562/08/19 18:30:13  >>  Connected
+2562/08/19 18:30:13  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:30:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:30:16  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:30:26  >>  Trying to disconnect a connection
+2562/08/19 18:30:28  >>  Successfully diconnected live connection
+2562/08/19 18:31:41  >>  SurfOpenly Application Initialized
+2562/08/19 18:32:30  >>  OpenPort
+2562/08/19 18:32:30  >>  PortOpened
+2562/08/19 18:32:30  >>  ConnectDevice
+2562/08/19 18:32:30  >>  DeviceConnected
+2562/08/19 18:32:30  >>  AllDevicesConnected
+2562/08/19 18:32:30  >>  Authenticate
+2562/08/19 18:32:30  >>  AuthNotify
+2562/08/19 18:32:30  >>  AuthProject
+2562/08/19 18:32:31  >>  AuthNotify
+2562/08/19 18:32:31  >>  Projected
+2562/08/19 18:32:31  >>  AuthNotify
+2562/08/19 18:32:31  >>  Authenticated
+2562/08/19 18:32:31  >>  ApplySettings
+2562/08/19 18:32:31  >>  Connected
+2562/08/19 18:32:31  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:32:44  >>  Trying to disconnect a connection
+2562/08/19 18:32:45  >>  Successfully diconnected live connection
+2562/08/19 18:32:50  >>  OpenPort
+2562/08/19 18:32:50  >>  OpenPort
+2562/08/19 18:32:50  >>  PortOpened
+2562/08/19 18:32:50  >>  PortOpened
+2562/08/19 18:32:51  >>  ConnectDevice
+2562/08/19 18:32:51  >>  ConnectDevice
+2562/08/19 18:32:51  >>  DeviceConnected
+2562/08/19 18:32:51  >>  DeviceConnected
+2562/08/19 18:32:51  >>  AllDevicesConnected
+2562/08/19 18:32:51  >>  AllDevicesConnected
+2562/08/19 18:32:51  >>  Authenticate
+2562/08/19 18:32:51  >>  Authenticate
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  AuthProject
+2562/08/19 18:32:51  >>  AuthProject
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  Projected
+2562/08/19 18:32:51  >>  Projected
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  AuthNotify
+2562/08/19 18:32:51  >>  Authenticated
+2562/08/19 18:32:51  >>  Authenticated
+2562/08/19 18:32:51  >>  ApplySettings
+2562/08/19 18:32:51  >>  ApplySettings
+2562/08/19 18:32:51  >>  Connected
+2562/08/19 18:32:51  >>  Connected
+2562/08/19 18:32:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:32:53  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:05  >>  Trying to disconnect a connection
+2562/08/19 18:33:07  >>  Successfully diconnected live connection
+2562/08/19 18:33:10  >>  OpenPort
+2562/08/19 18:33:10  >>  OpenPort
+2562/08/19 18:33:10  >>  OpenPort
+2562/08/19 18:33:10  >>  PortOpened
+2562/08/19 18:33:10  >>  PortOpened
+2562/08/19 18:33:10  >>  PortOpened
+2562/08/19 18:33:10  >>  ConnectDevice
+2562/08/19 18:33:11  >>  ConnectDevice
+2562/08/19 18:33:11  >>  ConnectDevice
+2562/08/19 18:33:11  >>  DeviceConnected
+2562/08/19 18:33:11  >>  DeviceConnected
+2562/08/19 18:33:11  >>  DeviceConnected
+2562/08/19 18:33:11  >>  AllDevicesConnected
+2562/08/19 18:33:11  >>  AllDevicesConnected
+2562/08/19 18:33:11  >>  AllDevicesConnected
+2562/08/19 18:33:11  >>  Authenticate
+2562/08/19 18:33:11  >>  Authenticate
+2562/08/19 18:33:11  >>  Authenticate
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthProject
+2562/08/19 18:33:11  >>  AuthProject
+2562/08/19 18:33:11  >>  AuthProject
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  Projected
+2562/08/19 18:33:11  >>  Projected
+2562/08/19 18:33:11  >>  Projected
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  AuthNotify
+2562/08/19 18:33:11  >>  Authenticated
+2562/08/19 18:33:11  >>  Authenticated
+2562/08/19 18:33:11  >>  Authenticated
+2562/08/19 18:33:11  >>  ApplySettings
+2562/08/19 18:33:11  >>  ApplySettings
+2562/08/19 18:33:11  >>  ApplySettings
+2562/08/19 18:33:11  >>  Connected
+2562/08/19 18:33:11  >>  Connected
+2562/08/19 18:33:11  >>  Connected
+2562/08/19 18:33:12  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:12  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:13  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:16  >>  Trying to disconnect a connection
+2562/08/19 18:33:18  >>  Successfully diconnected live connection
+2562/08/19 18:33:22  >>  OpenPort
+2562/08/19 18:33:22  >>  OpenPort
+2562/08/19 18:33:22  >>  OpenPort
+2562/08/19 18:33:22  >>  OpenPort
+2562/08/19 18:33:22  >>  PortOpened
+2562/08/19 18:33:22  >>  PortOpened
+2562/08/19 18:33:22  >>  PortOpened
+2562/08/19 18:33:22  >>  PortOpened
+2562/08/19 18:33:22  >>  ConnectDevice
+2562/08/19 18:33:22  >>  ConnectDevice
+2562/08/19 18:33:22  >>  ConnectDevice
+2562/08/19 18:33:22  >>  ConnectDevice
+2562/08/19 18:33:22  >>  DeviceConnected
+2562/08/19 18:33:22  >>  DeviceConnected
+2562/08/19 18:33:22  >>  DeviceConnected
+2562/08/19 18:33:22  >>  DeviceConnected
+2562/08/19 18:33:22  >>  AllDevicesConnected
+2562/08/19 18:33:22  >>  AllDevicesConnected
+2562/08/19 18:33:22  >>  AllDevicesConnected
+2562/08/19 18:33:22  >>  AllDevicesConnected
+2562/08/19 18:33:22  >>  Authenticate
+2562/08/19 18:33:22  >>  Authenticate
+2562/08/19 18:33:22  >>  Authenticate
+2562/08/19 18:33:22  >>  Authenticate
+2562/08/19 18:33:22  >>  AuthNotify
+2562/08/19 18:33:22  >>  AuthNotify
+2562/08/19 18:33:22  >>  AuthNotify
+2562/08/19 18:33:22  >>  AuthNotify
+2562/08/19 18:33:22  >>  AuthProject
+2562/08/19 18:33:22  >>  AuthProject
+2562/08/19 18:33:22  >>  AuthProject
+2562/08/19 18:33:22  >>  AuthProject
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  Projected
+2562/08/19 18:33:23  >>  Projected
+2562/08/19 18:33:23  >>  Projected
+2562/08/19 18:33:23  >>  Projected
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  AuthNotify
+2562/08/19 18:33:23  >>  Authenticated
+2562/08/19 18:33:23  >>  Authenticated
+2562/08/19 18:33:23  >>  Authenticated
+2562/08/19 18:33:23  >>  Authenticated
+2562/08/19 18:33:23  >>  ApplySettings
+2562/08/19 18:33:23  >>  ApplySettings
+2562/08/19 18:33:23  >>  ApplySettings
+2562/08/19 18:33:23  >>  ApplySettings
+2562/08/19 18:33:23  >>  Connected
+2562/08/19 18:33:23  >>  Connected
+2562/08/19 18:33:23  >>  Connected
+2562/08/19 18:33:23  >>  Connected
+2562/08/19 18:33:23  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:24  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:25  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:25  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:33:27  >>  Trying to disconnect a connection
+2562/08/19 18:33:29  >>  Successfully diconnected live connection
+2562/08/19 18:42:14  >>  SurfOpenly Application Initialized
+2562/08/19 18:42:17  >>  OpenPort
+2562/08/19 18:42:17  >>  PortOpened
+2562/08/19 18:42:17  >>  ConnectDevice
+2562/08/19 18:42:17  >>  DeviceConnected
+2562/08/19 18:42:17  >>  AllDevicesConnected
+2562/08/19 18:42:17  >>  Authenticate
+2562/08/19 18:42:17  >>  AuthNotify
+2562/08/19 18:42:17  >>  AuthProject
+2562/08/19 18:42:17  >>  AuthNotify
+2562/08/19 18:42:17  >>  Projected
+2562/08/19 18:42:17  >>  AuthNotify
+2562/08/19 18:42:17  >>  Authenticated
+2562/08/19 18:42:17  >>  ApplySettings
+2562/08/19 18:42:18  >>  Connected
+2562/08/19 18:42:18  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:42:21  >>  Trying to disconnect a connection
+2562/08/19 18:42:22  >>  Successfully diconnected live connection
+2562/08/19 18:42:25  >>  OpenPort
+2562/08/19 18:42:25  >>  OpenPort
+2562/08/19 18:42:25  >>  PortOpened
+2562/08/19 18:42:25  >>  PortOpened
+2562/08/19 18:42:25  >>  ConnectDevice
+2562/08/19 18:42:25  >>  ConnectDevice
+2562/08/19 18:42:25  >>  DeviceConnected
+2562/08/19 18:42:25  >>  DeviceConnected
+2562/08/19 18:42:25  >>  AllDevicesConnected
+2562/08/19 18:42:25  >>  AllDevicesConnected
+2562/08/19 18:42:25  >>  Authenticate
+2562/08/19 18:42:25  >>  Authenticate
+2562/08/19 18:42:25  >>  AuthNotify
+2562/08/19 18:42:25  >>  AuthNotify
+2562/08/19 18:42:25  >>  AuthProject
+2562/08/19 18:42:26  >>  AuthProject
+2562/08/19 18:42:26  >>  AuthNotify
+2562/08/19 18:42:26  >>  AuthNotify
+2562/08/19 18:42:26  >>  Projected
+2562/08/19 18:42:26  >>  Projected
+2562/08/19 18:42:26  >>  AuthNotify
+2562/08/19 18:42:26  >>  AuthNotify
+2562/08/19 18:42:26  >>  Authenticated
+2562/08/19 18:42:26  >>  Authenticated
+2562/08/19 18:42:26  >>  ApplySettings
+2562/08/19 18:42:26  >>  ApplySettings
+2562/08/19 18:42:26  >>  Connected
+2562/08/19 18:42:26  >>  Connected
+2562/08/19 18:42:26  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:42:27  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:42:40  >>  Trying to disconnect a connection
+2562/08/19 18:42:41  >>  Successfully diconnected live connection
+2562/08/19 18:43:03  >>  SurfOpenly Application Initialized
+2562/08/19 18:43:07  >>  OpenPort
+2562/08/19 18:43:07  >>  PortOpened
+2562/08/19 18:43:07  >>  ConnectDevice
+2562/08/19 18:43:07  >>  DeviceConnected
+2562/08/19 18:43:07  >>  AllDevicesConnected
+2562/08/19 18:43:07  >>  Authenticate
+2562/08/19 18:43:07  >>  AuthNotify
+2562/08/19 18:43:07  >>  AuthProject
+2562/08/19 18:43:08  >>  AuthNotify
+2562/08/19 18:43:08  >>  Projected
+2562/08/19 18:43:08  >>  AuthNotify
+2562/08/19 18:43:08  >>  Authenticated
+2562/08/19 18:43:08  >>  ApplySettings
+2562/08/19 18:43:08  >>  Connected
+2562/08/19 18:43:08  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:43:11  >>  Trying to disconnect a connection
+2562/08/19 18:43:12  >>  Successfully diconnected live connection
+2562/08/19 18:43:14  >>  OpenPort
+2562/08/19 18:43:14  >>  OpenPort
+2562/08/19 18:43:14  >>  PortOpened
+2562/08/19 18:43:14  >>  PortOpened
+2562/08/19 18:43:14  >>  ConnectDevice
+2562/08/19 18:43:14  >>  ConnectDevice
+2562/08/19 18:43:14  >>  DeviceConnected
+2562/08/19 18:43:14  >>  DeviceConnected
+2562/08/19 18:43:14  >>  AllDevicesConnected
+2562/08/19 18:43:14  >>  AllDevicesConnected
+2562/08/19 18:43:14  >>  Authenticate
+2562/08/19 18:43:14  >>  Authenticate
+2562/08/19 18:43:14  >>  AuthNotify
+2562/08/19 18:43:14  >>  AuthNotify
+2562/08/19 18:43:15  >>  AuthProject
+2562/08/19 18:43:15  >>  AuthProject
+2562/08/19 18:43:15  >>  AuthNotify
+2562/08/19 18:43:15  >>  AuthNotify
+2562/08/19 18:43:15  >>  Projected
+2562/08/19 18:43:16  >>  Projected
+2562/08/19 18:43:16  >>  AuthNotify
+2562/08/19 18:43:16  >>  AuthNotify
+2562/08/19 18:43:16  >>  Authenticated
+2562/08/19 18:43:16  >>  Authenticated
+2562/08/19 18:43:16  >>  ApplySettings
+2562/08/19 18:43:16  >>  ApplySettings
+2562/08/19 18:43:16  >>  Connected
+2562/08/19 18:43:16  >>  Connected
+2562/08/19 18:43:16  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:43:17  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:49:25  >>  SurfOpenly Application Initialized
+2562/08/19 18:49:45  >>  OpenPort
+2562/08/19 18:49:45  >>  PortOpened
+2562/08/19 18:49:45  >>  ConnectDevice
+2562/08/19 18:49:45  >>  DeviceConnected
+2562/08/19 18:49:45  >>  AllDevicesConnected
+2562/08/19 18:49:45  >>  Authenticate
+2562/08/19 18:49:45  >>  AuthNotify
+2562/08/19 18:49:45  >>  AuthProject
+2562/08/19 18:49:45  >>  AuthNotify
+2562/08/19 18:49:45  >>  Projected
+2562/08/19 18:49:45  >>  AuthNotify
+2562/08/19 18:49:45  >>  Authenticated
+2562/08/19 18:49:45  >>  ApplySettings
+2562/08/19 18:49:46  >>  Connected
+2562/08/19 18:49:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:49:55  >>  Trying to disconnect a connection
+2562/08/19 18:49:58  >>  Successfully diconnected live connection
+2562/08/19 18:50:02  >>  OpenPort
+2562/08/19 18:50:02  >>  OpenPort
+2562/08/19 18:50:02  >>  PortOpened
+2562/08/19 18:50:02  >>  PortOpened
+2562/08/19 18:50:02  >>  ConnectDevice
+2562/08/19 18:50:02  >>  ConnectDevice
+2562/08/19 18:50:02  >>  DeviceConnected
+2562/08/19 18:50:02  >>  DeviceConnected
+2562/08/19 18:50:02  >>  AllDevicesConnected
+2562/08/19 18:50:02  >>  AllDevicesConnected
+2562/08/19 18:50:02  >>  Authenticate
+2562/08/19 18:50:02  >>  Authenticate
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  AuthProject
+2562/08/19 18:50:02  >>  AuthProject
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  Projected
+2562/08/19 18:50:02  >>  Projected
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  AuthNotify
+2562/08/19 18:50:02  >>  Authenticated
+2562/08/19 18:50:02  >>  Authenticated
+2562/08/19 18:50:02  >>  ApplySettings
+2562/08/19 18:50:03  >>  ApplySettings
+2562/08/19 18:50:03  >>  Connected
+2562/08/19 18:50:03  >>  Connected
+2562/08/19 18:50:08  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:51:39  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:51:42  >>  Trying to disconnect a connection
+2562/08/19 18:51:44  >>  Successfully diconnected live connection
+2562/08/19 18:51:50  >>  OpenPort
+2562/08/19 18:51:50  >>  OpenPort
+2562/08/19 18:51:50  >>  OpenPort
+2562/08/19 18:51:50  >>  PortOpened
+2562/08/19 18:51:50  >>  PortOpened
+2562/08/19 18:51:50  >>  PortOpened
+2562/08/19 18:51:50  >>  ConnectDevice
+2562/08/19 18:51:50  >>  ConnectDevice
+2562/08/19 18:51:50  >>  ConnectDevice
+2562/08/19 18:51:50  >>  DeviceConnected
+2562/08/19 18:51:50  >>  DeviceConnected
+2562/08/19 18:51:50  >>  DeviceConnected
+2562/08/19 18:51:50  >>  AllDevicesConnected
+2562/08/19 18:51:50  >>  AllDevicesConnected
+2562/08/19 18:51:51  >>  AllDevicesConnected
+2562/08/19 18:51:51  >>  Authenticate
+2562/08/19 18:51:51  >>  Authenticate
+2562/08/19 18:51:51  >>  Authenticate
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthProject
+2562/08/19 18:51:51  >>  AuthProject
+2562/08/19 18:51:51  >>  AuthProject
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  Projected
+2562/08/19 18:51:51  >>  Projected
+2562/08/19 18:51:51  >>  Projected
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  AuthNotify
+2562/08/19 18:51:51  >>  Authenticated
+2562/08/19 18:51:51  >>  Authenticated
+2562/08/19 18:51:51  >>  Authenticated
+2562/08/19 18:51:51  >>  ApplySettings
+2562/08/19 18:51:51  >>  ApplySettings
+2562/08/19 18:51:51  >>  ApplySettings
+2562/08/19 18:51:52  >>  Connected
+2562/08/19 18:51:52  >>  Connected
+2562/08/19 18:51:52  >>  Connected
+2562/08/19 18:51:59  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:52:02  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:52:04  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:52:25  >>  Trying to disconnect a connection
+2562/08/19 18:52:26  >>  Successfully diconnected live connection
+2562/08/19 18:57:41  >>  SurfOpenly Application Initialized
+2562/08/19 18:57:49  >>  OpenPort
+2562/08/19 18:57:49  >>  PortOpened
+2562/08/19 18:57:49  >>  ConnectDevice
+2562/08/19 18:57:49  >>  DeviceConnected
+2562/08/19 18:57:49  >>  AllDevicesConnected
+2562/08/19 18:57:49  >>  Authenticate
+2562/08/19 18:57:49  >>  AuthNotify
+2562/08/19 18:57:49  >>  AuthProject
+2562/08/19 18:57:50  >>  AuthNotify
+2562/08/19 18:57:50  >>  Projected
+2562/08/19 18:57:50  >>  AuthNotify
+2562/08/19 18:57:50  >>  Authenticated
+2562/08/19 18:57:50  >>  ApplySettings
+2562/08/19 18:57:50  >>  Connected
+2562/08/19 18:57:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:58:06  >>  Trying to disconnect a connection
+2562/08/19 18:58:08  >>  Successfully diconnected live connection
+2562/08/19 18:58:13  >>  OpenPort
+2562/08/19 18:58:13  >>  OpenPort
+2562/08/19 18:58:13  >>  PortOpened
+2562/08/19 18:58:13  >>  PortOpened
+2562/08/19 18:58:13  >>  ConnectDevice
+2562/08/19 18:58:13  >>  ConnectDevice
+2562/08/19 18:58:13  >>  DeviceConnected
+2562/08/19 18:58:13  >>  DeviceConnected
+2562/08/19 18:58:13  >>  AllDevicesConnected
+2562/08/19 18:58:13  >>  AllDevicesConnected
+2562/08/19 18:58:13  >>  Authenticate
+2562/08/19 18:58:13  >>  Authenticate
+2562/08/19 18:58:13  >>  AuthNotify
+2562/08/19 18:58:13  >>  AuthNotify
+2562/08/19 18:58:13  >>  AuthProject
+2562/08/19 18:58:13  >>  AuthProject
+2562/08/19 18:58:14  >>  AuthNotify
+2562/08/19 18:58:14  >>  AuthNotify
+2562/08/19 18:58:14  >>  Projected
+2562/08/19 18:58:14  >>  Projected
+2562/08/19 18:58:14  >>  AuthNotify
+2562/08/19 18:58:14  >>  AuthNotify
+2562/08/19 18:58:14  >>  Authenticated
+2562/08/19 18:58:14  >>  Authenticated
+2562/08/19 18:58:14  >>  ApplySettings
+2562/08/19 18:58:14  >>  ApplySettings
+2562/08/19 18:58:14  >>  Connected
+2562/08/19 18:58:14  >>  Connected
+2562/08/19 18:58:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:58:16  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:58:40  >>  Trying to disconnect a connection
+2562/08/19 18:58:42  >>  Successfully diconnected live connection
+2562/08/19 18:59:37  >>  SurfOpenly Application Initialized
+2562/08/19 18:59:40  >>  OpenPort
+2562/08/19 18:59:40  >>  PortOpened
+2562/08/19 18:59:40  >>  ConnectDevice
+2562/08/19 18:59:40  >>  DeviceConnected
+2562/08/19 18:59:40  >>  AllDevicesConnected
+2562/08/19 18:59:40  >>  Authenticate
+2562/08/19 18:59:40  >>  AuthNotify
+2562/08/19 18:59:40  >>  AuthProject
+2562/08/19 18:59:41  >>  AuthNotify
+2562/08/19 18:59:41  >>  Projected
+2562/08/19 18:59:41  >>  AuthNotify
+2562/08/19 18:59:41  >>  Authenticated
+2562/08/19 18:59:41  >>  ApplySettings
+2562/08/19 18:59:41  >>  Connected
+2562/08/19 18:59:41  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:59:48  >>  Connection  interrupted and disconnected externally
+2562/08/19 18:59:51  >>  OpenPort
+2562/08/19 18:59:51  >>  OpenPort
+2562/08/19 18:59:51  >>  PortOpened
+2562/08/19 18:59:51  >>  PortOpened
+2562/08/19 18:59:52  >>  ConnectDevice
+2562/08/19 18:59:52  >>  ConnectDevice
+2562/08/19 18:59:52  >>  DeviceConnected
+2562/08/19 18:59:52  >>  DeviceConnected
+2562/08/19 18:59:52  >>  AllDevicesConnected
+2562/08/19 18:59:52  >>  AllDevicesConnected
+2562/08/19 18:59:52  >>  Authenticate
+2562/08/19 18:59:52  >>  Authenticate
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  AuthProject
+2562/08/19 18:59:52  >>  AuthProject
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  Projected
+2562/08/19 18:59:52  >>  Projected
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  AuthNotify
+2562/08/19 18:59:52  >>  Authenticated
+2562/08/19 18:59:52  >>  Authenticated
+2562/08/19 18:59:52  >>  ApplySettings
+2562/08/19 18:59:52  >>  ApplySettings
+2562/08/19 18:59:52  >>  Connected
+2562/08/19 18:59:52  >>  Connected
+2562/08/19 18:59:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 18:59:54  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:00:00  >>  Trying to disconnect a connection
+2562/08/19 19:00:02  >>  Successfully diconnected live connection
+2562/08/19 19:02:08  >>  SurfOpenly Application Initialized
+2562/08/19 19:02:12  >>  OpenPort
+2562/08/19 19:02:12  >>  PortOpened
+2562/08/19 19:02:12  >>  ConnectDevice
+2562/08/19 19:02:12  >>  DeviceConnected
+2562/08/19 19:02:12  >>  AllDevicesConnected
+2562/08/19 19:02:12  >>  Authenticate
+2562/08/19 19:02:12  >>  AuthNotify
+2562/08/19 19:02:12  >>  AuthProject
+2562/08/19 19:02:12  >>  AuthNotify
+2562/08/19 19:02:12  >>  Projected
+2562/08/19 19:02:12  >>  AuthNotify
+2562/08/19 19:02:12  >>  Authenticated
+2562/08/19 19:02:12  >>  ApplySettings
+2562/08/19 19:02:13  >>  Connected
+2562/08/19 19:02:13  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:03:05  >>  Trying to disconnect a connection
+2562/08/19 19:03:08  >>  Successfully diconnected live connection
+2562/08/19 19:09:22  >>  SurfOpenly Application Initialized
+2562/08/19 19:09:28  >>  OpenPort
+2562/08/19 19:09:28  >>  PortOpened
+2562/08/19 19:09:28  >>  ConnectDevice
+2562/08/19 19:09:28  >>  DeviceConnected
+2562/08/19 19:09:28  >>  AllDevicesConnected
+2562/08/19 19:09:28  >>  Authenticate
+2562/08/19 19:09:28  >>  AuthNotify
+2562/08/19 19:09:28  >>  AuthProject
+2562/08/19 19:09:28  >>  AuthNotify
+2562/08/19 19:09:28  >>  Projected
+2562/08/19 19:09:28  >>  AuthNotify
+2562/08/19 19:09:28  >>  Authenticated
+2562/08/19 19:09:28  >>  ApplySettings
+2562/08/19 19:09:29  >>  Connected
+2562/08/19 19:09:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:09:37  >>  Connection  interrupted and disconnected externally
+2562/08/19 19:10:17  >>  Trying to disconnect a connection
+2562/08/19 19:10:17  >>  Successfully diconnected live connection
+2562/08/19 19:25:54  >>  SurfOpenly Application Initialized
+2562/08/19 19:25:57  >>  OpenPort
+2562/08/19 19:25:57  >>  PortOpened
+2562/08/19 19:25:57  >>  ConnectDevice
+2562/08/19 19:25:57  >>  DeviceConnected
+2562/08/19 19:25:57  >>  AllDevicesConnected
+2562/08/19 19:25:57  >>  Authenticate
+2562/08/19 19:25:57  >>  AuthNotify
+2562/08/19 19:25:57  >>  AuthProject
+2562/08/19 19:25:58  >>  AuthNotify
+2562/08/19 19:25:58  >>  Projected
+2562/08/19 19:25:58  >>  AuthNotify
+2562/08/19 19:25:58  >>  Authenticated
+2562/08/19 19:25:58  >>  ApplySettings
+2562/08/19 19:25:58  >>  Connected
+2562/08/19 19:25:58  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:26:07  >>  Connection  interrupted and disconnected externally
+2562/08/19 19:26:43  >>  Trying to disconnect a connection
+2562/08/19 19:26:43  >>  Successfully diconnected live connection
+2562/08/19 19:38:05  >>  SurfOpenly Application Initialized
+2562/08/19 19:38:08  >>  OpenPort
+2562/08/19 19:38:08  >>  PortOpened
+2562/08/19 19:38:08  >>  ConnectDevice
+2562/08/19 19:38:08  >>  DeviceConnected
+2562/08/19 19:38:08  >>  AllDevicesConnected
+2562/08/19 19:38:08  >>  Authenticate
+2562/08/19 19:38:08  >>  AuthNotify
+2562/08/19 19:38:08  >>  AuthProject
+2562/08/19 19:38:09  >>  AuthNotify
+2562/08/19 19:38:09  >>  Projected
+2562/08/19 19:38:09  >>  AuthNotify
+2562/08/19 19:38:09  >>  Authenticated
+2562/08/19 19:38:09  >>  ApplySettings
+2562/08/19 19:38:09  >>  Connected
+2562/08/19 19:38:09  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:38:21  >>  Connection  interrupted and disconnected externally
+2562/08/19 19:38:49  >>  OpenPort
+2562/08/19 19:38:49  >>  OpenPort
+2562/08/19 19:38:49  >>  PortOpened
+2562/08/19 19:38:49  >>  PortOpened
+2562/08/19 19:38:49  >>  ConnectDevice
+2562/08/19 19:38:49  >>  ConnectDevice
+2562/08/19 19:38:49  >>  DeviceConnected
+2562/08/19 19:38:49  >>  DeviceConnected
+2562/08/19 19:38:49  >>  AllDevicesConnected
+2562/08/19 19:38:49  >>  AllDevicesConnected
+2562/08/19 19:38:49  >>  Authenticate
+2562/08/19 19:38:49  >>  Authenticate
+2562/08/19 19:38:49  >>  AuthNotify
+2562/08/19 19:38:49  >>  AuthNotify
+2562/08/19 19:38:49  >>  AuthProject
+2562/08/19 19:38:49  >>  AuthProject
+2562/08/19 19:38:50  >>  AuthNotify
+2562/08/19 19:38:50  >>  AuthNotify
+2562/08/19 19:38:50  >>  Projected
+2562/08/19 19:38:50  >>  Projected
+2562/08/19 19:38:50  >>  AuthNotify
+2562/08/19 19:38:50  >>  AuthNotify
+2562/08/19 19:38:50  >>  Authenticated
+2562/08/19 19:38:50  >>  Authenticated
+2562/08/19 19:38:50  >>  ApplySettings
+2562/08/19 19:38:50  >>  ApplySettings
+2562/08/19 19:38:50  >>  Connected
+2562/08/19 19:38:50  >>  Connected
+2562/08/19 19:38:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:39:08  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:39:12  >>  Trying to disconnect a connection
+2562/08/19 19:39:14  >>  Successfully diconnected live connection
+2562/08/19 19:58:01  >>  SurfOpenly Application Initialized
+2562/08/19 19:58:04  >>  OpenPort
+2562/08/19 19:58:04  >>  PortOpened
+2562/08/19 19:58:04  >>  ConnectDevice
+2562/08/19 19:58:04  >>  DeviceConnected
+2562/08/19 19:58:04  >>  AllDevicesConnected
+2562/08/19 19:58:04  >>  Authenticate
+2562/08/19 19:58:04  >>  AuthNotify
+2562/08/19 19:58:04  >>  AuthProject
+2562/08/19 19:58:05  >>  AuthNotify
+2562/08/19 19:58:05  >>  Projected
+2562/08/19 19:58:05  >>  AuthNotify
+2562/08/19 19:58:05  >>  Authenticated
+2562/08/19 19:58:05  >>  ApplySettings
+2562/08/19 19:58:05  >>  Connected
+2562/08/19 19:58:05  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:58:09  >>  Trying to disconnect a connection
+2562/08/19 19:58:10  >>  Successfully diconnected live connection
+2562/08/19 19:58:13  >>  OpenPort
+2562/08/19 19:58:13  >>  OpenPort
+2562/08/19 19:58:13  >>  PortOpened
+2562/08/19 19:58:13  >>  PortOpened
+2562/08/19 19:58:13  >>  ConnectDevice
+2562/08/19 19:58:13  >>  ConnectDevice
+2562/08/19 19:58:13  >>  DeviceConnected
+2562/08/19 19:58:13  >>  DeviceConnected
+2562/08/19 19:58:13  >>  AllDevicesConnected
+2562/08/19 19:58:13  >>  AllDevicesConnected
+2562/08/19 19:58:13  >>  Authenticate
+2562/08/19 19:58:13  >>  Authenticate
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  AuthProject
+2562/08/19 19:58:13  >>  AuthProject
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  Projected
+2562/08/19 19:58:13  >>  Projected
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  AuthNotify
+2562/08/19 19:58:13  >>  Authenticated
+2562/08/19 19:58:13  >>  Authenticated
+2562/08/19 19:58:13  >>  ApplySettings
+2562/08/19 19:58:13  >>  ApplySettings
+2562/08/19 19:58:14  >>  Connected
+2562/08/19 19:58:14  >>  Connected
+2562/08/19 19:58:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:58:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/19 19:58:17  >>  Trying to disconnect a connection
+2562/08/19 19:58:19  >>  Successfully diconnected live connection
+2562/08/20 09:18:57  >>  SurfOpenly Application Initialized
+2562/08/20 09:19:16  >>  The caller does not have the required permission to perform the action requested.
+2562/08/20 09:22:28  >>  SurfOpenly Application Initialized
+2562/08/20 09:22:33  >>  OpenPort
+2562/08/20 09:22:33  >>  PortOpened
+2562/08/20 09:22:33  >>  ConnectDevice
+2562/08/20 09:22:33  >>  DeviceConnected
+2562/08/20 09:22:33  >>  AllDevicesConnected
+2562/08/20 09:22:33  >>  Authenticate
+2562/08/20 09:22:33  >>  AuthNotify
+2562/08/20 09:22:33  >>  AuthProject
+2562/08/20 09:22:34  >>  AuthNotify
+2562/08/20 09:22:34  >>  Projected
+2562/08/20 09:22:34  >>  AuthNotify
+2562/08/20 09:22:34  >>  Authenticated
+2562/08/20 09:22:34  >>  ApplySettings
+2562/08/20 09:22:34  >>  Connected
+2562/08/20 09:22:34  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:22:42  >>  Trying to disconnect a connection
+2562/08/20 09:22:44  >>  Successfully diconnected live connection
+2562/08/20 09:22:48  >>  OpenPort
+2562/08/20 09:22:48  >>  OpenPort
+2562/08/20 09:22:48  >>  PortOpened
+2562/08/20 09:22:48  >>  PortOpened
+2562/08/20 09:22:48  >>  ConnectDevice
+2562/08/20 09:22:48  >>  ConnectDevice
+2562/08/20 09:22:48  >>  DeviceConnected
+2562/08/20 09:22:48  >>  DeviceConnected
+2562/08/20 09:22:48  >>  AllDevicesConnected
+2562/08/20 09:22:48  >>  AllDevicesConnected
+2562/08/20 09:22:48  >>  Authenticate
+2562/08/20 09:22:48  >>  Authenticate
+2562/08/20 09:22:48  >>  AuthNotify
+2562/08/20 09:22:48  >>  AuthNotify
+2562/08/20 09:22:48  >>  AuthProject
+2562/08/20 09:22:48  >>  AuthProject
+2562/08/20 09:22:49  >>  AuthNotify
+2562/08/20 09:22:49  >>  AuthNotify
+2562/08/20 09:22:49  >>  Projected
+2562/08/20 09:22:49  >>  Projected
+2562/08/20 09:22:49  >>  AuthNotify
+2562/08/20 09:22:49  >>  AuthNotify
+2562/08/20 09:22:49  >>  Authenticated
+2562/08/20 09:22:49  >>  Authenticated
+2562/08/20 09:22:49  >>  ApplySettings
+2562/08/20 09:22:49  >>  ApplySettings
+2562/08/20 09:22:49  >>  Connected
+2562/08/20 09:22:49  >>  Connected
+2562/08/20 09:22:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:22:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:23:14  >>  Trying to disconnect a connection
+2562/08/20 09:23:16  >>  Successfully diconnected live connection
+2562/08/20 09:23:19  >>  OpenPort
+2562/08/20 09:23:19  >>  OpenPort
+2562/08/20 09:23:19  >>  OpenPort
+2562/08/20 09:23:19  >>  PortOpened
+2562/08/20 09:23:19  >>  PortOpened
+2562/08/20 09:23:19  >>  PortOpened
+2562/08/20 09:23:19  >>  ConnectDevice
+2562/08/20 09:23:19  >>  ConnectDevice
+2562/08/20 09:23:19  >>  ConnectDevice
+2562/08/20 09:23:20  >>  DeviceConnected
+2562/08/20 09:23:20  >>  DeviceConnected
+2562/08/20 09:23:20  >>  DeviceConnected
+2562/08/20 09:23:20  >>  AllDevicesConnected
+2562/08/20 09:23:20  >>  AllDevicesConnected
+2562/08/20 09:23:20  >>  AllDevicesConnected
+2562/08/20 09:23:20  >>  Authenticate
+2562/08/20 09:23:20  >>  Authenticate
+2562/08/20 09:23:20  >>  Authenticate
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthProject
+2562/08/20 09:23:20  >>  AuthProject
+2562/08/20 09:23:20  >>  AuthProject
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  Projected
+2562/08/20 09:23:20  >>  Projected
+2562/08/20 09:23:20  >>  Projected
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  AuthNotify
+2562/08/20 09:23:20  >>  Authenticated
+2562/08/20 09:23:20  >>  Authenticated
+2562/08/20 09:23:20  >>  Authenticated
+2562/08/20 09:23:20  >>  ApplySettings
+2562/08/20 09:23:20  >>  ApplySettings
+2562/08/20 09:23:20  >>  ApplySettings
+2562/08/20 09:23:20  >>  Connected
+2562/08/20 09:23:20  >>  Connected
+2562/08/20 09:23:20  >>  Connected
+2562/08/20 09:23:20  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:23:20  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:23:20  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:23:25  >>  Trying to disconnect a connection
+2562/08/20 09:23:26  >>  Successfully diconnected live connection
+2562/08/20 09:24:41  >>  SurfOpenly Application Initialized
+2562/08/20 09:24:44  >>  OpenPort
+2562/08/20 09:24:44  >>  PortOpened
+2562/08/20 09:24:44  >>  ConnectDevice
+2562/08/20 09:24:44  >>  DeviceConnected
+2562/08/20 09:24:44  >>  AllDevicesConnected
+2562/08/20 09:24:44  >>  Authenticate
+2562/08/20 09:24:44  >>  AuthNotify
+2562/08/20 09:24:44  >>  AuthProject
+2562/08/20 09:24:44  >>  AuthNotify
+2562/08/20 09:24:44  >>  Projected
+2562/08/20 09:24:44  >>  AuthNotify
+2562/08/20 09:24:44  >>  Authenticated
+2562/08/20 09:24:44  >>  ApplySettings
+2562/08/20 09:24:44  >>  Connected
+2562/08/20 09:24:44  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:24:48  >>  Trying to disconnect a connection
+2562/08/20 09:24:51  >>  Successfully diconnected live connection
+2562/08/20 09:24:54  >>  OpenPort
+2562/08/20 09:24:54  >>  OpenPort
+2562/08/20 09:24:54  >>  PortOpened
+2562/08/20 09:24:54  >>  PortOpened
+2562/08/20 09:24:54  >>  ConnectDevice
+2562/08/20 09:24:55  >>  ConnectDevice
+2562/08/20 09:24:55  >>  DeviceConnected
+2562/08/20 09:24:55  >>  DeviceConnected
+2562/08/20 09:24:55  >>  AllDevicesConnected
+2562/08/20 09:24:55  >>  AllDevicesConnected
+2562/08/20 09:24:55  >>  Authenticate
+2562/08/20 09:24:55  >>  Authenticate
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  AuthProject
+2562/08/20 09:24:55  >>  AuthProject
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  Projected
+2562/08/20 09:24:55  >>  Projected
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  AuthNotify
+2562/08/20 09:24:55  >>  Authenticated
+2562/08/20 09:24:55  >>  Authenticated
+2562/08/20 09:24:55  >>  ApplySettings
+2562/08/20 09:24:55  >>  ApplySettings
+2562/08/20 09:24:55  >>  Connected
+2562/08/20 09:24:55  >>  Connected
+2562/08/20 09:24:55  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:24:55  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:25:04  >>  Trying to disconnect a connection
+2562/08/20 09:25:06  >>  Successfully diconnected live connection
+2562/08/20 09:25:49  >>  OpenPort
+2562/08/20 09:25:49  >>  OpenPort
+2562/08/20 09:25:49  >>  OpenPort
+2562/08/20 09:25:49  >>  PortOpened
+2562/08/20 09:25:49  >>  PortOpened
+2562/08/20 09:25:49  >>  PortOpened
+2562/08/20 09:25:49  >>  ConnectDevice
+2562/08/20 09:25:49  >>  ConnectDevice
+2562/08/20 09:25:49  >>  ConnectDevice
+2562/08/20 09:25:49  >>  DeviceConnected
+2562/08/20 09:25:49  >>  DeviceConnected
+2562/08/20 09:25:49  >>  DeviceConnected
+2562/08/20 09:25:49  >>  AllDevicesConnected
+2562/08/20 09:25:49  >>  AllDevicesConnected
+2562/08/20 09:25:49  >>  AllDevicesConnected
+2562/08/20 09:25:49  >>  Authenticate
+2562/08/20 09:25:49  >>  Authenticate
+2562/08/20 09:25:49  >>  Authenticate
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  AuthProject
+2562/08/20 09:25:49  >>  AuthProject
+2562/08/20 09:25:49  >>  AuthProject
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:49  >>  Projected
+2562/08/20 09:25:49  >>  Projected
+2562/08/20 09:25:49  >>  Projected
+2562/08/20 09:25:49  >>  AuthNotify
+2562/08/20 09:25:50  >>  AuthNotify
+2562/08/20 09:25:50  >>  AuthNotify
+2562/08/20 09:25:50  >>  Authenticated
+2562/08/20 09:25:50  >>  Authenticated
+2562/08/20 09:25:50  >>  Authenticated
+2562/08/20 09:25:50  >>  ApplySettings
+2562/08/20 09:25:50  >>  ApplySettings
+2562/08/20 09:25:50  >>  ApplySettings
+2562/08/20 09:25:50  >>  Connected
+2562/08/20 09:25:50  >>  Connected
+2562/08/20 09:25:50  >>  Connected
+2562/08/20 09:25:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:25:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:25:50  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:25:56  >>  Trying to disconnect a connection
+2562/08/20 09:25:57  >>  Successfully diconnected live connection
+2562/08/20 09:26:00  >>  OpenPort
+2562/08/20 09:26:00  >>  OpenPort
+2562/08/20 09:26:00  >>  OpenPort
+2562/08/20 09:26:00  >>  OpenPort
+2562/08/20 09:26:00  >>  PortOpened
+2562/08/20 09:26:00  >>  PortOpened
+2562/08/20 09:26:00  >>  PortOpened
+2562/08/20 09:26:00  >>  PortOpened
+2562/08/20 09:26:00  >>  ConnectDevice
+2562/08/20 09:26:00  >>  ConnectDevice
+2562/08/20 09:26:00  >>  ConnectDevice
+2562/08/20 09:26:00  >>  ConnectDevice
+2562/08/20 09:26:00  >>  DeviceConnected
+2562/08/20 09:26:00  >>  DeviceConnected
+2562/08/20 09:26:00  >>  DeviceConnected
+2562/08/20 09:26:00  >>  DeviceConnected
+2562/08/20 09:26:00  >>  AllDevicesConnected
+2562/08/20 09:26:00  >>  AllDevicesConnected
+2562/08/20 09:26:00  >>  AllDevicesConnected
+2562/08/20 09:26:01  >>  AllDevicesConnected
+2562/08/20 09:26:01  >>  Authenticate
+2562/08/20 09:26:01  >>  Authenticate
+2562/08/20 09:26:01  >>  Authenticate
+2562/08/20 09:26:01  >>  Authenticate
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthProject
+2562/08/20 09:26:01  >>  AuthProject
+2562/08/20 09:26:01  >>  AuthProject
+2562/08/20 09:26:01  >>  AuthProject
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  Projected
+2562/08/20 09:26:01  >>  Projected
+2562/08/20 09:26:01  >>  Projected
+2562/08/20 09:26:01  >>  Projected
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  AuthNotify
+2562/08/20 09:26:01  >>  Authenticated
+2562/08/20 09:26:01  >>  Authenticated
+2562/08/20 09:26:01  >>  Authenticated
+2562/08/20 09:26:01  >>  Authenticated
+2562/08/20 09:26:01  >>  ApplySettings
+2562/08/20 09:26:01  >>  ApplySettings
+2562/08/20 09:26:01  >>  ApplySettings
+2562/08/20 09:26:01  >>  ApplySettings
+2562/08/20 09:26:01  >>  Connected
+2562/08/20 09:26:01  >>  Connected
+2562/08/20 09:26:01  >>  Connected
+2562/08/20 09:26:01  >>  Connected
+2562/08/20 09:26:01  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:26:01  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:26:01  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:26:01  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:26:06  >>  Cannot delete a connection while it is connected.
+2562/08/20 09:26:10  >>  Cannot delete a connection while it is connected.
+2562/08/20 09:26:14  >>  Trying to disconnect a connection
+2562/08/20 09:26:15  >>  Successfully diconnected live connection
+2562/08/20 09:31:32  >>  SurfOpenly Application Initialized
+2562/08/20 09:31:36  >>  OpenPort
+2562/08/20 09:31:36  >>  PortOpened
+2562/08/20 09:31:36  >>  ConnectDevice
+2562/08/20 09:31:36  >>  DeviceConnected
+2562/08/20 09:31:36  >>  AllDevicesConnected
+2562/08/20 09:31:36  >>  Authenticate
+2562/08/20 09:31:36  >>  AuthNotify
+2562/08/20 09:31:36  >>  AuthProject
+2562/08/20 09:31:37  >>  AuthNotify
+2562/08/20 09:31:37  >>  Projected
+2562/08/20 09:31:37  >>  AuthNotify
+2562/08/20 09:31:37  >>  Authenticated
+2562/08/20 09:31:37  >>  ApplySettings
+2562/08/20 09:31:37  >>  Connected
+2562/08/20 09:31:37  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:31:40  >>  Cannot delete a connection while it is connected.
+2562/08/20 09:31:44  >>  Cannot delete a connection while it is connected.
+2562/08/20 09:31:47  >>  Trying to disconnect a connection
+2562/08/20 09:31:49  >>  Successfully diconnected live connection
+2562/08/20 09:33:40  >>  SurfOpenly Application Initialized
+2562/08/20 09:33:48  >>  OpenPort
+2562/08/20 09:33:48  >>  PortOpened
+2562/08/20 09:33:48  >>  ConnectDevice
+2562/08/20 09:33:48  >>  DeviceConnected
+2562/08/20 09:33:48  >>  AllDevicesConnected
+2562/08/20 09:33:48  >>  Authenticate
+2562/08/20 09:33:48  >>  AuthNotify
+2562/08/20 09:33:48  >>  AuthProject
+2562/08/20 09:33:48  >>  AuthNotify
+2562/08/20 09:33:48  >>  Projected
+2562/08/20 09:33:48  >>  AuthNotify
+2562/08/20 09:33:48  >>  Authenticated
+2562/08/20 09:33:48  >>  ApplySettings
+2562/08/20 09:33:48  >>  Connected
+2562/08/20 09:33:48  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:34:20  >>  Cannot delete a connection while it is connected.
+2562/08/20 09:35:23  >>  SurfOpenly Application Initialized
+2562/08/20 09:35:29  >>  OpenPort
+2562/08/20 09:35:29  >>  PortOpened
+2562/08/20 09:35:29  >>  ConnectDevice
+2562/08/20 09:35:29  >>  DeviceConnected
+2562/08/20 09:35:29  >>  AllDevicesConnected
+2562/08/20 09:35:29  >>  Authenticate
+2562/08/20 09:35:29  >>  AuthNotify
+2562/08/20 09:35:29  >>  AuthProject
+2562/08/20 09:35:29  >>  AuthNotify
+2562/08/20 09:35:29  >>  Projected
+2562/08/20 09:35:29  >>  AuthNotify
+2562/08/20 09:35:29  >>  Authenticated
+2562/08/20 09:35:29  >>  ApplySettings
+2562/08/20 09:35:30  >>  Connected
+2562/08/20 09:35:30  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:36:13  >>  Trying to disconnect a connection
+2562/08/20 09:36:15  >>  Successfully diconnected live connection
+2562/08/20 09:52:56  >>  SurfOpenly Application Initialized
+2562/08/20 09:53:01  >>  OpenPort
+2562/08/20 09:53:01  >>  PortOpened
+2562/08/20 09:53:01  >>  ConnectDevice
+2562/08/20 09:53:01  >>  DeviceConnected
+2562/08/20 09:53:01  >>  AllDevicesConnected
+2562/08/20 09:53:01  >>  Authenticate
+2562/08/20 09:53:01  >>  AuthNotify
+2562/08/20 09:53:01  >>  AuthProject
+2562/08/20 09:53:02  >>  AuthNotify
+2562/08/20 09:53:02  >>  Projected
+2562/08/20 09:53:02  >>  AuthNotify
+2562/08/20 09:53:02  >>  Authenticated
+2562/08/20 09:53:02  >>  ApplySettings
+2562/08/20 09:53:02  >>  Connected
+2562/08/20 09:53:02  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 09:53:20  >>  Trying to disconnect a connection
+2562/08/20 09:53:24  >>  Successfully diconnected live connection
+2562/08/20 09:53:36  >>  OpenPort
+2562/08/20 09:53:36  >>  OpenPort
+2562/08/20 09:53:36  >>  PortOpened
+2562/08/20 09:53:36  >>  PortOpened
+2562/08/20 09:53:36  >>  ConnectDevice
+2562/08/20 09:53:36  >>  ConnectDevice
+2562/08/20 09:53:36  >>  DeviceConnected
+2562/08/20 09:53:36  >>  DeviceConnected
+2562/08/20 09:53:36  >>  AllDevicesConnected
+2562/08/20 09:53:36  >>  AllDevicesConnected
+2562/08/20 09:53:36  >>  Authenticate
+2562/08/20 09:53:36  >>  Authenticate
+2562/08/20 09:53:36  >>  AuthNotify
+2562/08/20 09:53:36  >>  AuthNotify
+2562/08/20 09:53:36  >>  AuthNotify
+2562/08/20 09:53:36  >>  AuthNotify
+2562/08/20 09:53:42  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 09:53:45  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 09:56:02  >>  SurfOpenly Application Initialized
+2562/08/20 09:56:09  >>  OpenPort
+2562/08/20 09:56:09  >>  PortOpened
+2562/08/20 09:56:09  >>  ConnectDevice
+2562/08/20 09:56:09  >>  DeviceConnected
+2562/08/20 09:56:09  >>  AllDevicesConnected
+2562/08/20 09:56:09  >>  Authenticate
+2562/08/20 09:56:09  >>  AuthNotify
+2562/08/20 09:56:09  >>  AuthNotify
+2562/08/20 09:56:11  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 09:56:47  >>  SurfOpenly Application Initialized
+2562/08/20 09:56:49  >>  OpenPort
+2562/08/20 09:56:49  >>  PortOpened
+2562/08/20 09:56:49  >>  ConnectDevice
+2562/08/20 09:56:49  >>  DeviceConnected
+2562/08/20 09:56:49  >>  AllDevicesConnected
+2562/08/20 09:56:49  >>  Authenticate
+2562/08/20 09:56:49  >>  AuthNotify
+2562/08/20 09:56:49  >>  AuthNotify
+2562/08/20 09:56:51  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 09:59:48  >>  SurfOpenly Application Initialized
+2562/08/20 09:59:51  >>  OpenPort
+2562/08/20 09:59:51  >>  PortOpened
+2562/08/20 09:59:51  >>  ConnectDevice
+2562/08/20 09:59:51  >>  DeviceConnected
+2562/08/20 09:59:51  >>  AllDevicesConnected
+2562/08/20 09:59:51  >>  Authenticate
+2562/08/20 09:59:51  >>  AuthNotify
+2562/08/20 09:59:51  >>  AuthNotify
+2562/08/20 09:59:53  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 10:00:21  >>  SurfOpenly Application Initialized
+2562/08/20 10:00:23  >>  OpenPort
+2562/08/20 10:00:23  >>  PortOpened
+2562/08/20 10:00:23  >>  ConnectDevice
+2562/08/20 10:00:23  >>  DeviceConnected
+2562/08/20 10:00:23  >>  AllDevicesConnected
+2562/08/20 10:00:23  >>  Authenticate
+2562/08/20 10:00:23  >>  AuthNotify
+2562/08/20 10:00:23  >>  AuthNotify
+2562/08/20 10:00:25  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 10:00:37  >>  OpenPort
+2562/08/20 10:00:37  >>  OpenPort
+2562/08/20 10:00:37  >>  PortOpened
+2562/08/20 10:00:37  >>  PortOpened
+2562/08/20 10:00:38  >>  ConnectDevice
+2562/08/20 10:00:38  >>  ConnectDevice
+2562/08/20 10:00:38  >>  DeviceConnected
+2562/08/20 10:00:38  >>  DeviceConnected
+2562/08/20 10:00:38  >>  AllDevicesConnected
+2562/08/20 10:00:38  >>  AllDevicesConnected
+2562/08/20 10:00:38  >>  Authenticate
+2562/08/20 10:00:38  >>  Authenticate
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  AuthProject
+2562/08/20 10:00:38  >>  AuthProject
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  Projected
+2562/08/20 10:00:38  >>  Projected
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  AuthNotify
+2562/08/20 10:00:38  >>  Authenticated
+2562/08/20 10:00:38  >>  Authenticated
+2562/08/20 10:00:38  >>  ApplySettings
+2562/08/20 10:00:38  >>  ApplySettings
+2562/08/20 10:00:38  >>  Connected
+2562/08/20 10:00:38  >>  Connected
+2562/08/20 10:00:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:00:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:00:49  >>  Trying to disconnect a connection
+2562/08/20 10:00:51  >>  Successfully diconnected live connection
+2562/08/20 10:00:57  >>  OpenPort
+2562/08/20 10:00:57  >>  OpenPort
+2562/08/20 10:00:57  >>  OpenPort
+2562/08/20 10:00:57  >>  PortOpened
+2562/08/20 10:00:57  >>  PortOpened
+2562/08/20 10:00:57  >>  PortOpened
+2562/08/20 10:00:57  >>  ConnectDevice
+2562/08/20 10:00:57  >>  ConnectDevice
+2562/08/20 10:00:57  >>  ConnectDevice
+2562/08/20 10:00:57  >>  DeviceConnected
+2562/08/20 10:00:57  >>  DeviceConnected
+2562/08/20 10:00:57  >>  DeviceConnected
+2562/08/20 10:00:57  >>  AllDevicesConnected
+2562/08/20 10:00:57  >>  AllDevicesConnected
+2562/08/20 10:00:57  >>  AllDevicesConnected
+2562/08/20 10:00:57  >>  Authenticate
+2562/08/20 10:00:57  >>  Authenticate
+2562/08/20 10:00:57  >>  Authenticate
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthProject
+2562/08/20 10:00:57  >>  AuthProject
+2562/08/20 10:00:57  >>  AuthProject
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  Projected
+2562/08/20 10:00:57  >>  Projected
+2562/08/20 10:00:57  >>  Projected
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  AuthNotify
+2562/08/20 10:00:57  >>  Authenticated
+2562/08/20 10:00:57  >>  Authenticated
+2562/08/20 10:00:57  >>  Authenticated
+2562/08/20 10:00:57  >>  ApplySettings
+2562/08/20 10:00:57  >>  ApplySettings
+2562/08/20 10:00:57  >>  ApplySettings
+2562/08/20 10:00:58  >>  Connected
+2562/08/20 10:00:58  >>  Connected
+2562/08/20 10:00:58  >>  Connected
+2562/08/20 10:00:58  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:00:58  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:00:58  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:01:09  >>  Trying to disconnect a connection
+2562/08/20 10:01:11  >>  Successfully diconnected live connection
+2562/08/20 10:01:19  >>  SurfOpenly Application Initialized
+2562/08/20 10:01:23  >>  OpenPort
+2562/08/20 10:01:23  >>  PortOpened
+2562/08/20 10:01:23  >>  ConnectDevice
+2562/08/20 10:01:23  >>  DeviceConnected
+2562/08/20 10:01:23  >>  AllDevicesConnected
+2562/08/20 10:01:23  >>  Authenticate
+2562/08/20 10:01:23  >>  AuthNotify
+2562/08/20 10:01:23  >>  AuthProject
+2562/08/20 10:01:23  >>  AuthNotify
+2562/08/20 10:01:23  >>  Projected
+2562/08/20 10:01:23  >>  AuthNotify
+2562/08/20 10:01:24  >>  Authenticated
+2562/08/20 10:01:24  >>  ApplySettings
+2562/08/20 10:01:24  >>  Connected
+2562/08/20 10:01:24  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:01:34  >>  Trying to disconnect a connection
+2562/08/20 10:01:36  >>  Successfully diconnected live connection
+2562/08/20 10:01:38  >>  OpenPort
+2562/08/20 10:01:38  >>  OpenPort
+2562/08/20 10:01:38  >>  PortOpened
+2562/08/20 10:01:38  >>  PortOpened
+2562/08/20 10:01:38  >>  ConnectDevice
+2562/08/20 10:01:38  >>  ConnectDevice
+2562/08/20 10:01:38  >>  DeviceConnected
+2562/08/20 10:01:38  >>  DeviceConnected
+2562/08/20 10:01:38  >>  AllDevicesConnected
+2562/08/20 10:01:38  >>  AllDevicesConnected
+2562/08/20 10:01:38  >>  Authenticate
+2562/08/20 10:01:38  >>  Authenticate
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  AuthProject
+2562/08/20 10:01:38  >>  AuthProject
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  Projected
+2562/08/20 10:01:38  >>  Projected
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  AuthNotify
+2562/08/20 10:01:38  >>  Authenticated
+2562/08/20 10:01:38  >>  Authenticated
+2562/08/20 10:01:38  >>  ApplySettings
+2562/08/20 10:01:38  >>  ApplySettings
+2562/08/20 10:01:38  >>  Connected
+2562/08/20 10:01:38  >>  Connected
+2562/08/20 10:01:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:01:38  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:01:40  >>  Trying to disconnect a connection
+2562/08/20 10:01:41  >>  Successfully diconnected live connection
+2562/08/20 10:06:52  >>  SurfOpenly Application Initialized
+2562/08/20 10:07:02  >>  OpenPort
+2562/08/20 10:07:02  >>  PortOpened
+2562/08/20 10:07:02  >>  ConnectDevice
+2562/08/20 10:07:02  >>  DeviceConnected
+2562/08/20 10:07:02  >>  AllDevicesConnected
+2562/08/20 10:07:02  >>  Authenticate
+2562/08/20 10:07:02  >>  AuthNotify
+2562/08/20 10:07:02  >>  AuthNotify
+2562/08/20 10:07:04  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/20 10:07:09  >>  OpenPort
+2562/08/20 10:07:09  >>  OpenPort
+2562/08/20 10:07:09  >>  PortOpened
+2562/08/20 10:07:09  >>  PortOpened
+2562/08/20 10:07:09  >>  ConnectDevice
+2562/08/20 10:07:09  >>  ConnectDevice
+2562/08/20 10:07:09  >>  DeviceConnected
+2562/08/20 10:07:09  >>  DeviceConnected
+2562/08/20 10:07:09  >>  AllDevicesConnected
+2562/08/20 10:07:09  >>  AllDevicesConnected
+2562/08/20 10:07:09  >>  Authenticate
+2562/08/20 10:07:09  >>  Authenticate
+2562/08/20 10:07:09  >>  AuthNotify
+2562/08/20 10:07:09  >>  AuthNotify
+2562/08/20 10:07:09  >>  AuthProject
+2562/08/20 10:07:09  >>  AuthProject
+2562/08/20 10:07:10  >>  AuthNotify
+2562/08/20 10:07:10  >>  AuthNotify
+2562/08/20 10:07:10  >>  Projected
+2562/08/20 10:07:10  >>  Projected
+2562/08/20 10:07:10  >>  AuthNotify
+2562/08/20 10:07:10  >>  AuthNotify
+2562/08/20 10:07:10  >>  Authenticated
+2562/08/20 10:07:10  >>  Authenticated
+2562/08/20 10:07:10  >>  ApplySettings
+2562/08/20 10:07:10  >>  ApplySettings
+2562/08/20 10:07:10  >>  Connected
+2562/08/20 10:07:10  >>  Connected
+2562/08/20 10:07:10  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:07:10  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 10:07:19  >>  Trying to disconnect a connection
+2562/08/20 10:07:20  >>  Successfully diconnected live connection
+2562/08/20 11:38:46  >>  SurfOpenly Application Initialized
+2562/08/20 11:39:21  >>  OpenPort
+2562/08/20 11:39:21  >>  PortOpened
+2562/08/20 11:39:21  >>  ConnectDevice
+2562/08/20 11:39:21  >>  DeviceConnected
+2562/08/20 11:39:21  >>  AllDevicesConnected
+2562/08/20 11:39:21  >>  Authenticate
+2562/08/20 11:39:21  >>  AuthNotify
+2562/08/20 11:39:21  >>  AuthProject
+2562/08/20 11:39:22  >>  AuthNotify
+2562/08/20 11:39:22  >>  Projected
+2562/08/20 11:39:22  >>  AuthNotify
+2562/08/20 11:39:22  >>  Authenticated
+2562/08/20 11:39:22  >>  ApplySettings
+2562/08/20 11:39:22  >>  Connected
+2562/08/20 11:39:22  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 11:39:27  >>  Trying to disconnect a connection
+2562/08/20 11:39:31  >>  Successfully diconnected live connection
+2562/08/20 12:01:04  >>  SurfOpenly Application Initialized
+2562/08/20 12:01:13  >>  OpenPort
+2562/08/20 12:01:13  >>  PortOpened
+2562/08/20 12:01:13  >>  ConnectDevice
+2562/08/20 12:01:13  >>  DeviceConnected
+2562/08/20 12:01:13  >>  AllDevicesConnected
+2562/08/20 12:01:13  >>  Authenticate
+2562/08/20 12:01:14  >>  AuthNotify
+2562/08/20 12:01:14  >>  AuthProject
+2562/08/20 12:01:14  >>  AuthNotify
+2562/08/20 12:01:14  >>  Projected
+2562/08/20 12:01:14  >>  AuthNotify
+2562/08/20 12:01:14  >>  Authenticated
+2562/08/20 12:01:14  >>  ApplySettings
+2562/08/20 12:01:14  >>  Connected
+2562/08/20 12:01:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 12:01:20  >>  Trying to disconnect a connection
+2562/08/20 12:01:21  >>  Successfully diconnected live connection
+2562/08/20 12:03:15  >>  SurfOpenly Application Initialized
+2562/08/20 12:06:19  >>  OpenPort
+2562/08/20 12:06:19  >>  PortOpened
+2562/08/20 12:06:19  >>  ConnectDevice
+2562/08/20 12:06:19  >>  DeviceConnected
+2562/08/20 12:06:19  >>  AllDevicesConnected
+2562/08/20 12:06:19  >>  Authenticate
+2562/08/20 12:06:19  >>  AuthNotify
+2562/08/20 12:06:19  >>  AuthProject
+2562/08/20 12:06:20  >>  AuthNotify
+2562/08/20 12:06:20  >>  Projected
+2562/08/20 12:06:20  >>  AuthNotify
+2562/08/20 12:06:20  >>  Authenticated
+2562/08/20 12:06:20  >>  ApplySettings
+2562/08/20 12:06:20  >>  Connected
+2562/08/20 12:06:20  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 12:06:22  >>  Trying to disconnect a connection
+2562/08/20 12:06:24  >>  Successfully diconnected live connection
+2562/08/20 12:07:16  >>  OpenPort
+2562/08/20 12:08:21  >>  OpenPort
+2562/08/20 12:08:27  >>  PortOpened
+2562/08/20 12:08:27  >>  PortOpened
+2562/08/20 12:08:27  >>  ConnectDevice
+2562/08/20 12:08:27  >>  ConnectDevice
+2562/08/20 12:08:27  >>  DeviceConnected
+2562/08/20 12:08:27  >>  DeviceConnected
+2562/08/20 12:08:27  >>  AllDevicesConnected
+2562/08/20 12:08:27  >>  AllDevicesConnected
+2562/08/20 12:08:27  >>  Authenticate
+2562/08/20 12:08:27  >>  Authenticate
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  AuthProject
+2562/08/20 12:08:27  >>  AuthProject
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  Projected
+2562/08/20 12:08:27  >>  Projected
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  AuthNotify
+2562/08/20 12:08:27  >>  Authenticated
+2562/08/20 12:08:27  >>  Authenticated
+2562/08/20 12:08:27  >>  ApplySettings
+2562/08/20 12:08:27  >>  ApplySettings
+2562/08/20 12:08:27  >>  Connected
+2562/08/20 12:08:27  >>  Connected
+2562/08/20 12:08:27  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 12:08:27  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 12:08:37  >>  Trying to disconnect a connection
+2562/08/20 12:08:39  >>  Successfully diconnected live connection
+2562/08/20 12:10:25  >>  SurfOpenly Application Initialized
+2562/08/20 12:10:27  >>  Cannot delete a connection while it is connected.
+2562/08/20 12:10:57  >>  SurfOpenly Application Initialized
+2562/08/20 12:10:58  >>  Cannot delete a connection while it is connected.
+2562/08/20 12:12:04  >>  SurfOpenly Application Initialized
+2562/08/20 12:12:06  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:04:05  >>  SurfOpenly Application Initialized
+2562/08/20 14:04:18  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:04:38  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:05:47  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:05:54  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:06:20  >>  SurfOpenly Application Initialized
+2562/08/20 14:06:26  >>  Cannot delete a connection while it is connected.
+2562/08/20 14:08:39  >>  SurfOpenly Application Initialized
+2562/08/20 14:09:20  >>  OpenPort
+2562/08/20 14:09:20  >>  PortOpened
+2562/08/20 14:09:20  >>  ConnectDevice
+2562/08/20 14:09:20  >>  DeviceConnected
+2562/08/20 14:09:20  >>  AllDevicesConnected
+2562/08/20 14:09:20  >>  Authenticate
+2562/08/20 14:09:20  >>  AuthNotify
+2562/08/20 14:09:20  >>  AuthProject
+2562/08/20 14:09:20  >>  AuthNotify
+2562/08/20 14:09:20  >>  Projected
+2562/08/20 14:09:20  >>  AuthNotify
+2562/08/20 14:09:20  >>  Authenticated
+2562/08/20 14:09:20  >>  ApplySettings
+2562/08/20 14:09:20  >>  Connected
+2562/08/20 14:09:20  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:09:26  >>  Trying to disconnect a connection
+2562/08/20 14:09:27  >>  Successfully diconnected live connection
+2562/08/20 14:11:24  >>  OpenPort
+2562/08/20 14:11:24  >>  OpenPort
+2562/08/20 14:11:24  >>  PortOpened
+2562/08/20 14:11:24  >>  PortOpened
+2562/08/20 14:11:25  >>  ConnectDevice
+2562/08/20 14:11:25  >>  ConnectDevice
+2562/08/20 14:11:25  >>  DeviceConnected
+2562/08/20 14:11:25  >>  DeviceConnected
+2562/08/20 14:11:25  >>  AllDevicesConnected
+2562/08/20 14:11:25  >>  AllDevicesConnected
+2562/08/20 14:11:25  >>  Authenticate
+2562/08/20 14:11:25  >>  Authenticate
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  AuthProject
+2562/08/20 14:11:25  >>  AuthProject
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  Projected
+2562/08/20 14:11:25  >>  Projected
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  AuthNotify
+2562/08/20 14:11:25  >>  Authenticated
+2562/08/20 14:11:25  >>  Authenticated
+2562/08/20 14:11:25  >>  ApplySettings
+2562/08/20 14:11:25  >>  ApplySettings
+2562/08/20 14:11:25  >>  Connected
+2562/08/20 14:11:25  >>  Connected
+2562/08/20 14:11:25  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:11:26  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:11:53  >>  Trying to disconnect a connection
+2562/08/20 14:11:56  >>  Successfully diconnected live connection
+2562/08/20 14:12:11  >>  OpenPort
+2562/08/20 14:12:11  >>  OpenPort
+2562/08/20 14:12:11  >>  OpenPort
+2562/08/20 14:12:11  >>  PortOpened
+2562/08/20 14:12:11  >>  PortOpened
+2562/08/20 14:12:11  >>  PortOpened
+2562/08/20 14:12:11  >>  ConnectDevice
+2562/08/20 14:12:11  >>  ConnectDevice
+2562/08/20 14:12:11  >>  ConnectDevice
+2562/08/20 14:12:11  >>  DeviceConnected
+2562/08/20 14:12:11  >>  DeviceConnected
+2562/08/20 14:12:11  >>  DeviceConnected
+2562/08/20 14:12:11  >>  AllDevicesConnected
+2562/08/20 14:12:11  >>  AllDevicesConnected
+2562/08/20 14:12:11  >>  AllDevicesConnected
+2562/08/20 14:12:11  >>  Authenticate
+2562/08/20 14:12:11  >>  Authenticate
+2562/08/20 14:12:11  >>  Authenticate
+2562/08/20 14:12:11  >>  AuthNotify
+2562/08/20 14:12:11  >>  AuthNotify
+2562/08/20 14:12:11  >>  AuthNotify
+2562/08/20 14:12:11  >>  AuthProject
+2562/08/20 14:12:12  >>  AuthProject
+2562/08/20 14:12:12  >>  AuthProject
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  Projected
+2562/08/20 14:12:12  >>  Projected
+2562/08/20 14:12:12  >>  Projected
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  AuthNotify
+2562/08/20 14:12:12  >>  Authenticated
+2562/08/20 14:12:12  >>  Authenticated
+2562/08/20 14:12:12  >>  Authenticated
+2562/08/20 14:12:12  >>  ApplySettings
+2562/08/20 14:12:12  >>  ApplySettings
+2562/08/20 14:12:12  >>  ApplySettings
+2562/08/20 14:12:12  >>  Connected
+2562/08/20 14:12:12  >>  Connected
+2562/08/20 14:12:12  >>  Connected
+2562/08/20 14:12:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:12:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:12:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:12:19  >>  Trying to disconnect a connection
+2562/08/20 14:12:21  >>  Successfully diconnected live connection
+2562/08/20 14:25:49  >>  SurfOpenly Application Initialized
+2562/08/20 14:25:58  >>  OpenPort
+2562/08/20 14:25:58  >>  PortOpened
+2562/08/20 14:25:58  >>  ConnectDevice
+2562/08/20 14:25:58  >>  DeviceConnected
+2562/08/20 14:25:58  >>  AllDevicesConnected
+2562/08/20 14:25:58  >>  Authenticate
+2562/08/20 14:25:58  >>  AuthNotify
+2562/08/20 14:25:58  >>  AuthProject
+2562/08/20 14:25:59  >>  AuthNotify
+2562/08/20 14:25:59  >>  Projected
+2562/08/20 14:25:59  >>  AuthNotify
+2562/08/20 14:25:59  >>  Authenticated
+2562/08/20 14:25:59  >>  ApplySettings
+2562/08/20 14:25:59  >>  Connected
+2562/08/20 14:25:59  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:26:02  >>  Trying to disconnect a connection
+2562/08/20 14:26:04  >>  Successfully diconnected live connection
+2562/08/20 14:26:40  >>  OpenPort
+2562/08/20 14:26:40  >>  OpenPort
+2562/08/20 14:26:40  >>  PortOpened
+2562/08/20 14:26:40  >>  PortOpened
+2562/08/20 14:26:40  >>  ConnectDevice
+2562/08/20 14:26:40  >>  ConnectDevice
+2562/08/20 14:26:40  >>  DeviceConnected
+2562/08/20 14:26:40  >>  DeviceConnected
+2562/08/20 14:26:40  >>  AllDevicesConnected
+2562/08/20 14:26:40  >>  AllDevicesConnected
+2562/08/20 14:26:40  >>  Authenticate
+2562/08/20 14:26:40  >>  Authenticate
+2562/08/20 14:26:40  >>  AuthNotify
+2562/08/20 14:26:41  >>  AuthNotify
+2562/08/20 14:26:41  >>  AuthProject
+2562/08/20 14:26:41  >>  AuthProject
+2562/08/20 14:26:41  >>  AuthNotify
+2562/08/20 14:26:41  >>  AuthNotify
+2562/08/20 14:26:41  >>  Projected
+2562/08/20 14:26:41  >>  Projected
+2562/08/20 14:26:41  >>  AuthNotify
+2562/08/20 14:26:41  >>  AuthNotify
+2562/08/20 14:26:41  >>  Authenticated
+2562/08/20 14:26:41  >>  Authenticated
+2562/08/20 14:26:41  >>  ApplySettings
+2562/08/20 14:26:41  >>  ApplySettings
+2562/08/20 14:26:41  >>  Connected
+2562/08/20 14:26:41  >>  Connected
+2562/08/20 14:26:41  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:26:41  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:26:42  >>  Trying to disconnect a connection
+2562/08/20 14:26:44  >>  Successfully diconnected live connection
+2562/08/20 14:28:12  >>  SurfOpenly Application Closing
+2562/08/20 14:30:00  >>  SurfOpenly Application Initialized
+2562/08/20 14:30:43  >>  OpenPort
+2562/08/20 14:30:43  >>  PortOpened
+2562/08/20 14:30:44  >>  ConnectDevice
+2562/08/20 14:30:44  >>  DeviceConnected
+2562/08/20 14:30:44  >>  AllDevicesConnected
+2562/08/20 14:30:44  >>  Authenticate
+2562/08/20 14:30:44  >>  AuthNotify
+2562/08/20 14:30:44  >>  AuthProject
+2562/08/20 14:30:44  >>  AuthNotify
+2562/08/20 14:30:44  >>  Projected
+2562/08/20 14:30:44  >>  AuthNotify
+2562/08/20 14:30:44  >>  Authenticated
+2562/08/20 14:30:44  >>  ApplySettings
+2562/08/20 14:30:44  >>  Connected
+2562/08/20 14:30:44  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 14:30:46  >>  Trying to disconnect a connection
+2562/08/20 14:30:47  >>  Successfully diconnected live connection
+2562/08/20 14:30:49  >>  SurfOpenly Application Closing
+2562/08/20 14:37:15  >>  SurfOpenly Application Initialized
+2562/08/20 14:37:24  >>  SurfOpenly Application Closing
+2562/08/20 14:54:16  >>  SurfOpenly Application Initialized
+2562/08/20 14:55:38  >>  The system could not find the phone book entry for this connection.
+2562/08/20 14:57:05  >>  SurfOpenly Application Initialized
+2562/08/20 14:57:07  >>  The system could not find the phone book entry for this connection.
+2562/08/20 14:57:11  >>  The system could not find the phone book entry for this connection.
+2562/08/20 14:57:31  >>  SurfOpenly Application Initialized
+2562/08/20 14:57:39  >>  The system could not find the phone book entry for this connection.
+2562/08/20 14:58:02  >>  SurfOpenly Application Initialized
+2562/08/20 14:58:46  >>  SurfOpenly Application Initialized
+2562/08/20 16:08:42  >>  SurfOpenly Application Initialized
+2562/08/20 16:09:06  >>  OpenPort
+2562/08/20 16:09:06  >>  PortOpened
+2562/08/20 16:09:06  >>  ConnectDevice
+2562/08/20 16:09:06  >>  DeviceConnected
+2562/08/20 16:09:06  >>  AllDevicesConnected
+2562/08/20 16:09:06  >>  Authenticate
+2562/08/20 16:09:06  >>  AuthNotify
+2562/08/20 16:09:06  >>  AuthProject
+2562/08/20 16:09:06  >>  AuthNotify
+2562/08/20 16:09:07  >>  Projected
+2562/08/20 16:09:07  >>  AuthNotify
+2562/08/20 16:09:07  >>  Authenticated
+2562/08/20 16:09:07  >>  ApplySettings
+2562/08/20 16:09:07  >>  Connected
+2562/08/20 16:09:07  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:09:14  >>  Trying to disconnect a connection
+2562/08/20 16:09:15  >>  Successfully diconnected live connection
+2562/08/20 16:10:18  >>  SurfOpenly Application Initialized
+2562/08/20 16:10:25  >>  The given key was not present in the dictionary.
+2562/08/20 16:10:37  >>  The given key was not present in the dictionary.
+2562/08/20 16:10:54  >>  The given key was not present in the dictionary.
+2562/08/20 16:11:41  >>  SurfOpenly Application Initialized
+2562/08/20 16:11:45  >>  The given key was not present in the dictionary.
+2562/08/20 16:11:57  >>  The given key was not present in the dictionary.
+2562/08/20 16:15:16  >>  SurfOpenly Application Initialized
+2562/08/20 16:15:43  >>  The given key was not present in the dictionary.
+2562/08/20 16:16:10  >>  SurfOpenly Application Initialized
+2562/08/20 16:17:54  >>  SurfOpenly Application Initialized
+2562/08/20 16:17:58  >>  The given key was not present in the dictionary.
+2562/08/20 16:18:22  >>  The given key was not present in the dictionary.
+2562/08/20 16:18:39  >>  SurfOpenly Application Initialized
+2562/08/20 16:18:44  >>  The given key was not present in the dictionary.
+2562/08/20 16:21:38  >>  SurfOpenly Application Initialized
+2562/08/20 16:21:40  >>  The given key was not present in the dictionary.
+2562/08/20 16:21:45  >>  SurfOpenly Application Closing
+2562/08/20 16:24:53  >>  SurfOpenly Application Initialized
+2562/08/20 16:25:14  >>  OpenPort
+2562/08/20 16:25:14  >>  PortOpened
+2562/08/20 16:25:15  >>  ConnectDevice
+2562/08/20 16:25:15  >>  DeviceConnected
+2562/08/20 16:25:15  >>  AllDevicesConnected
+2562/08/20 16:25:15  >>  Authenticate
+2562/08/20 16:25:15  >>  AuthNotify
+2562/08/20 16:25:15  >>  AuthProject
+2562/08/20 16:25:15  >>  AuthNotify
+2562/08/20 16:25:15  >>  Projected
+2562/08/20 16:25:15  >>  AuthNotify
+2562/08/20 16:25:15  >>  Authenticated
+2562/08/20 16:25:15  >>  ApplySettings
+2562/08/20 16:25:15  >>  Connected
+2562/08/20 16:25:15  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:25:29  >>  Trying to disconnect a connection
+2562/08/20 16:25:32  >>  Successfully diconnected live connection
+2562/08/20 16:25:43  >>  OpenPort
+2562/08/20 16:25:43  >>  OpenPort
+2562/08/20 16:25:43  >>  PortOpened
+2562/08/20 16:25:43  >>  PortOpened
+2562/08/20 16:25:43  >>  ConnectDevice
+2562/08/20 16:25:43  >>  ConnectDevice
+2562/08/20 16:25:43  >>  DeviceConnected
+2562/08/20 16:25:43  >>  DeviceConnected
+2562/08/20 16:25:43  >>  AllDevicesConnected
+2562/08/20 16:25:43  >>  AllDevicesConnected
+2562/08/20 16:25:43  >>  Authenticate
+2562/08/20 16:25:43  >>  Authenticate
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  AuthProject
+2562/08/20 16:25:43  >>  AuthProject
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  Projected
+2562/08/20 16:25:43  >>  Projected
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  AuthNotify
+2562/08/20 16:25:43  >>  Authenticated
+2562/08/20 16:25:43  >>  Authenticated
+2562/08/20 16:25:43  >>  ApplySettings
+2562/08/20 16:25:43  >>  ApplySettings
+2562/08/20 16:25:43  >>  Connected
+2562/08/20 16:25:43  >>  Connected
+2562/08/20 16:25:43  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:25:44  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:25:49  >>  Trying to disconnect a connection
+2562/08/20 16:25:50  >>  Successfully diconnected live connection
+2562/08/20 16:26:07  >>  SurfOpenly Application Initialized
+2562/08/20 16:27:51  >>  OpenPort
+2562/08/20 16:27:51  >>  PortOpened
+2562/08/20 16:27:51  >>  ConnectDevice
+2562/08/20 16:27:51  >>  DeviceConnected
+2562/08/20 16:27:51  >>  AllDevicesConnected
+2562/08/20 16:27:51  >>  Authenticate
+2562/08/20 16:27:51  >>  AuthNotify
+2562/08/20 16:27:51  >>  AuthProject
+2562/08/20 16:27:52  >>  AuthNotify
+2562/08/20 16:27:52  >>  Projected
+2562/08/20 16:27:52  >>  AuthNotify
+2562/08/20 16:27:52  >>  Authenticated
+2562/08/20 16:27:52  >>  ApplySettings
+2562/08/20 16:27:52  >>  Connected
+2562/08/20 16:27:52  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:27:53  >>  Trying to disconnect a connection
+2562/08/20 16:27:55  >>  Successfully diconnected live connection
+2562/08/20 16:28:02  >>  SurfOpenly Application Closing
+2562/08/20 16:28:16  >>  SurfOpenly Application Initialized
+2562/08/20 16:28:34  >>  OpenPort
+2562/08/20 16:28:34  >>  PortOpened
+2562/08/20 16:28:34  >>  ConnectDevice
+2562/08/20 16:28:34  >>  DeviceConnected
+2562/08/20 16:28:34  >>  AllDevicesConnected
+2562/08/20 16:28:34  >>  Authenticate
+2562/08/20 16:28:34  >>  AuthNotify
+2562/08/20 16:28:34  >>  AuthProject
+2562/08/20 16:28:34  >>  AuthNotify
+2562/08/20 16:28:34  >>  Projected
+2562/08/20 16:28:34  >>  AuthNotify
+2562/08/20 16:28:34  >>  Authenticated
+2562/08/20 16:28:34  >>  ApplySettings
+2562/08/20 16:28:34  >>  Connected
+2562/08/20 16:28:34  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:35:51  >>  Trying to disconnect a connection
+2562/08/20 16:35:53  >>  Successfully diconnected live connection
+2562/08/20 16:36:17  >>  OpenPort
+2562/08/20 16:36:17  >>  OpenPort
+2562/08/20 16:36:17  >>  PortOpened
+2562/08/20 16:36:17  >>  PortOpened
+2562/08/20 16:36:17  >>  ConnectDevice
+2562/08/20 16:36:17  >>  ConnectDevice
+2562/08/20 16:36:17  >>  DeviceConnected
+2562/08/20 16:36:17  >>  DeviceConnected
+2562/08/20 16:36:17  >>  AllDevicesConnected
+2562/08/20 16:36:17  >>  AllDevicesConnected
+2562/08/20 16:36:17  >>  Authenticate
+2562/08/20 16:36:17  >>  Authenticate
+2562/08/20 16:36:17  >>  AuthNotify
+2562/08/20 16:36:17  >>  AuthNotify
+2562/08/20 16:36:17  >>  AuthProject
+2562/08/20 16:36:17  >>  AuthProject
+2562/08/20 16:36:17  >>  AuthNotify
+2562/08/20 16:36:17  >>  AuthNotify
+2562/08/20 16:36:17  >>  Projected
+2562/08/20 16:36:18  >>  Projected
+2562/08/20 16:36:18  >>  AuthNotify
+2562/08/20 16:36:18  >>  AuthNotify
+2562/08/20 16:36:18  >>  Authenticated
+2562/08/20 16:36:18  >>  Authenticated
+2562/08/20 16:36:18  >>  ApplySettings
+2562/08/20 16:36:18  >>  ApplySettings
+2562/08/20 16:36:18  >>  Connected
+2562/08/20 16:36:18  >>  Connected
+2562/08/20 16:36:18  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:36:18  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:36:26  >>  Trying to disconnect a connection
+2562/08/20 16:36:29  >>  Successfully diconnected live connection
+2562/08/20 16:37:11  >>  OpenPort
+2562/08/20 16:37:11  >>  OpenPort
+2562/08/20 16:37:12  >>  OpenPort
+2562/08/20 16:37:12  >>  PortOpened
+2562/08/20 16:37:12  >>  PortOpened
+2562/08/20 16:37:12  >>  PortOpened
+2562/08/20 16:37:12  >>  ConnectDevice
+2562/08/20 16:37:12  >>  ConnectDevice
+2562/08/20 16:37:12  >>  ConnectDevice
+2562/08/20 16:37:12  >>  DeviceConnected
+2562/08/20 16:37:12  >>  DeviceConnected
+2562/08/20 16:37:12  >>  DeviceConnected
+2562/08/20 16:37:12  >>  AllDevicesConnected
+2562/08/20 16:37:12  >>  AllDevicesConnected
+2562/08/20 16:37:12  >>  AllDevicesConnected
+2562/08/20 16:37:12  >>  Authenticate
+2562/08/20 16:37:12  >>  Authenticate
+2562/08/20 16:37:12  >>  Authenticate
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthProject
+2562/08/20 16:37:12  >>  AuthProject
+2562/08/20 16:37:12  >>  AuthProject
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  Projected
+2562/08/20 16:37:12  >>  Projected
+2562/08/20 16:37:12  >>  Projected
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  AuthNotify
+2562/08/20 16:37:12  >>  Authenticated
+2562/08/20 16:37:12  >>  Authenticated
+2562/08/20 16:37:12  >>  Authenticated
+2562/08/20 16:37:12  >>  ApplySettings
+2562/08/20 16:37:12  >>  ApplySettings
+2562/08/20 16:37:12  >>  ApplySettings
+2562/08/20 16:37:12  >>  Connected
+2562/08/20 16:37:12  >>  Connected
+2562/08/20 16:37:12  >>  Connected
+2562/08/20 16:37:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:37:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:37:12  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 16:37:16  >>  Trying to disconnect a connection
+2562/08/20 16:37:18  >>  Successfully diconnected live connection
+2562/08/20 23:44:51  >>  SurfOpenly Application Initialized
+2562/08/20 23:46:36  >>  SurfOpenly Application Initialized
+2562/08/20 23:47:36  >>  The caller does not have the required permission to perform the action requested.
+2562/08/20 23:49:18  >>  SurfOpenly Application Initialized
+2562/08/20 23:50:13  >>  OpenPort
+2562/08/20 23:50:13  >>  PortOpened
+2562/08/20 23:50:14  >>  ConnectDevice
+2562/08/20 23:50:14  >>  DeviceConnected
+2562/08/20 23:50:14  >>  AllDevicesConnected
+2562/08/20 23:50:14  >>  Authenticate
+2562/08/20 23:50:14  >>  AuthNotify
+2562/08/20 23:50:14  >>  AuthProject
+2562/08/20 23:50:14  >>  AuthNotify
+2562/08/20 23:50:14  >>  Projected
+2562/08/20 23:50:14  >>  AuthNotify
+2562/08/20 23:50:14  >>  Authenticated
+2562/08/20 23:50:14  >>  ApplySettings
+2562/08/20 23:50:14  >>  Connected
+2562/08/20 23:50:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/20 23:53:27  >>  Trying to disconnect a connection
+2562/08/20 23:53:30  >>  Successfully diconnected live connection
+2562/08/20 23:53:43  >>  SurfOpenly Application Initialized
+2562/08/21 09:54:38  >>  SurfOpenly Application Initialized
+2562/08/21 09:54:45  >>  OpenPort
+2562/08/21 09:54:45  >>  PortOpened
+2562/08/21 09:54:45  >>  ConnectDevice
+2562/08/21 09:54:45  >>  DeviceConnected
+2562/08/21 09:54:45  >>  AllDevicesConnected
+2562/08/21 09:54:45  >>  Authenticate
+2562/08/21 09:54:45  >>  AuthNotify
+2562/08/21 09:54:45  >>  AuthProject
+2562/08/21 09:54:46  >>  AuthNotify
+2562/08/21 09:54:46  >>  Projected
+2562/08/21 09:54:46  >>  AuthNotify
+2562/08/21 09:54:46  >>  Authenticated
+2562/08/21 09:54:46  >>  ApplySettings
+2562/08/21 09:54:46  >>  Connected
+2562/08/21 09:54:46  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 09:55:23  >>  Trying to disconnect a connection
+2562/08/21 09:55:24  >>  Successfully diconnected live connection
+2562/08/21 09:55:33  >>  SurfOpenly Application Initialized
+2562/08/21 09:55:34  >>  OpenPort
+2562/08/21 09:55:34  >>  PortOpened
+2562/08/21 09:55:34  >>  ConnectDevice
+2562/08/21 09:55:34  >>  DeviceConnected
+2562/08/21 09:55:34  >>  AllDevicesConnected
+2562/08/21 09:55:34  >>  Authenticate
+2562/08/21 09:55:34  >>  AuthNotify
+2562/08/21 09:55:34  >>  AuthProject
+2562/08/21 09:55:34  >>  AuthNotify
+2562/08/21 09:55:34  >>  Projected
+2562/08/21 09:55:34  >>  AuthNotify
+2562/08/21 09:55:34  >>  Authenticated
+2562/08/21 09:55:34  >>  ApplySettings
+2562/08/21 09:55:34  >>  Connected
+2562/08/21 09:55:35  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 09:55:45  >>  Trying to disconnect a connection
+2562/08/21 09:55:46  >>  Successfully diconnected live connection
+2562/08/21 09:56:07  >>  OpenPort
+2562/08/21 09:56:07  >>  OpenPort
+2562/08/21 09:56:07  >>  PortOpened
+2562/08/21 09:56:07  >>  PortOpened
+2562/08/21 09:56:07  >>  ConnectDevice
+2562/08/21 09:56:07  >>  ConnectDevice
+2562/08/21 09:56:07  >>  DeviceConnected
+2562/08/21 09:56:07  >>  DeviceConnected
+2562/08/21 09:56:07  >>  AllDevicesConnected
+2562/08/21 09:56:07  >>  AllDevicesConnected
+2562/08/21 09:56:07  >>  Authenticate
+2562/08/21 09:56:07  >>  Authenticate
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  AuthProject
+2562/08/21 09:56:07  >>  AuthProject
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  Projected
+2562/08/21 09:56:07  >>  Projected
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  AuthNotify
+2562/08/21 09:56:07  >>  Authenticated
+2562/08/21 09:56:07  >>  Authenticated
+2562/08/21 09:56:07  >>  ApplySettings
+2562/08/21 09:56:07  >>  ApplySettings
+2562/08/21 09:56:07  >>  Connected
+2562/08/21 09:56:07  >>  Connected
+2562/08/21 09:56:07  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 09:56:07  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 09:56:12  >>  Trying to disconnect a connection
+2562/08/21 09:56:15  >>  Successfully diconnected live connection
+2562/08/21 09:59:38  >>  SurfOpenly Application Initialized
+2562/08/21 10:00:04  >>  The entry is not associated with a phone book.
+2562/08/21 10:01:15  >>  The entry is not associated with a phone book.
+2562/08/21 10:02:49  >>  The entry is not associated with a phone book.
+2562/08/21 10:06:01  >>  SurfOpenly Application Initialized
+2562/08/21 10:06:44  >>  The entry is not associated with a phone book.
+2562/08/21 10:07:22  >>  SurfOpenly Application Initialized
+2562/08/21 10:07:39  >>  The entry is not associated with a phone book.
+2562/08/21 10:07:56  >>  SurfOpenly Application Initialized
+2562/08/21 10:08:14  >>  The entry is not associated with a phone book.
+2562/08/21 10:08:34  >>  The entry is not associated with a phone book.
+2562/08/21 10:11:28  >>  SurfOpenly Application Initialized
+2562/08/21 10:11:42  >>  OpenPort
+2562/08/21 10:11:42  >>  PortOpened
+2562/08/21 10:11:42  >>  ConnectDevice
+2562/08/21 10:12:14  >>  The entry is not associated with a phone book.
+2562/08/21 10:12:53  >>  SurfOpenly Application Initialized
+2562/08/21 10:13:26  >>  Cannot delete a connection while it is connected.
+2562/08/21 10:14:07  >>  OpenPort
+2562/08/21 10:14:07  >>  OpenPort
+2562/08/21 10:14:07  >>  PortOpened
+2562/08/21 10:14:07  >>  PortOpened
+2562/08/21 10:14:07  >>  ConnectDevice
+2562/08/21 10:14:07  >>  ConnectDevice
+2562/08/21 10:14:07  >>  DeviceConnected
+2562/08/21 10:14:07  >>  DeviceConnected
+2562/08/21 10:14:07  >>  AllDevicesConnected
+2562/08/21 10:14:08  >>  AllDevicesConnected
+2562/08/21 10:14:08  >>  Authenticate
+2562/08/21 10:14:08  >>  Authenticate
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  AuthProject
+2562/08/21 10:14:08  >>  AuthProject
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  Projected
+2562/08/21 10:14:08  >>  Projected
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  AuthNotify
+2562/08/21 10:14:08  >>  Authenticated
+2562/08/21 10:14:08  >>  Authenticated
+2562/08/21 10:14:08  >>  ApplySettings
+2562/08/21 10:14:08  >>  ApplySettings
+2562/08/21 10:14:08  >>  Connected
+2562/08/21 10:14:08  >>  Connected
+2562/08/21 10:14:08  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 10:14:08  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 10:15:22  >>  Trying to disconnect a connection
+2562/08/21 10:15:23  >>  Successfully diconnected live connection
+2562/08/21 10:16:04  >>  SurfOpenly Application Initialized
+2562/08/21 10:16:23  >>  The entry is not associated with a phone book.
+2562/08/21 10:19:52  >>  SurfOpenly Application Initialized
+2562/08/21 10:20:04  >>  OpenPort
+2562/08/21 10:20:04  >>  PortOpened
+2562/08/21 10:20:04  >>  ConnectDevice
+2562/08/21 10:20:04  >>  DeviceConnected
+2562/08/21 10:20:04  >>  AllDevicesConnected
+2562/08/21 10:20:04  >>  Authenticate
+2562/08/21 10:20:04  >>  AuthNotify
+2562/08/21 10:20:04  >>  AuthProject
+2562/08/21 10:20:05  >>  AuthNotify
+2562/08/21 10:20:05  >>  Projected
+2562/08/21 10:20:05  >>  AuthNotify
+2562/08/21 10:20:05  >>  Authenticated
+2562/08/21 10:20:05  >>  ApplySettings
+2562/08/21 10:20:05  >>  Connected
+2562/08/21 10:20:05  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 10:20:15  >>  Trying to disconnect a connection
+2562/08/21 10:20:17  >>  Successfully diconnected live connection
+2562/08/21 10:23:46  >>  SurfOpenly Application Initialized
+2562/08/21 10:23:57  >>  OpenPort
+2562/08/21 10:23:57  >>  PortOpened
+2562/08/21 10:23:57  >>  ConnectDevice
+2562/08/21 10:23:57  >>  DeviceConnected
+2562/08/21 10:23:57  >>  AllDevicesConnected
+2562/08/21 10:23:57  >>  Authenticate
+2562/08/21 10:23:57  >>  AuthNotify
+2562/08/21 10:23:57  >>  AuthNotify
+2562/08/21 10:24:06  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:42:34  >>  SurfOpenly Application Initialized
+2562/08/21 10:42:42  >>  OpenPort
+2562/08/21 10:42:42  >>  PortOpened
+2562/08/21 10:42:42  >>  ConnectDevice
+2562/08/21 10:42:42  >>  DeviceConnected
+2562/08/21 10:42:43  >>  AllDevicesConnected
+2562/08/21 10:42:43  >>  Authenticate
+2562/08/21 10:42:43  >>  AuthNotify
+2562/08/21 10:42:43  >>  AuthProject
+2562/08/21 10:42:43  >>  AuthNotify
+2562/08/21 10:42:43  >>  Projected
+2562/08/21 10:42:43  >>  AuthNotify
+2562/08/21 10:42:43  >>  Authenticated
+2562/08/21 10:42:43  >>  ApplySettings
+2562/08/21 10:42:43  >>  Connected
+2562/08/21 10:42:43  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 10:42:49  >>  Trying to disconnect a connection
+2562/08/21 10:42:50  >>  Successfully diconnected live connection
+2562/08/21 10:43:04  >>  OpenPort
+2562/08/21 10:43:04  >>  OpenPort
+2562/08/21 10:43:04  >>  PortOpened
+2562/08/21 10:43:04  >>  PortOpened
+2562/08/21 10:43:04  >>  ConnectDevice
+2562/08/21 10:43:04  >>  ConnectDevice
+2562/08/21 10:43:04  >>  DeviceConnected
+2562/08/21 10:43:04  >>  DeviceConnected
+2562/08/21 10:43:04  >>  AllDevicesConnected
+2562/08/21 10:43:04  >>  AllDevicesConnected
+2562/08/21 10:43:04  >>  Authenticate
+2562/08/21 10:43:04  >>  Authenticate
+2562/08/21 10:43:04  >>  AuthNotify
+2562/08/21 10:43:04  >>  AuthNotify
+2562/08/21 10:43:04  >>  AuthNotify
+2562/08/21 10:43:04  >>  AuthNotify
+2562/08/21 10:43:11  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:43:13  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:43:18  >>  OpenPort
+2562/08/21 10:43:18  >>  OpenPort
+2562/08/21 10:43:18  >>  OpenPort
+2562/08/21 10:43:18  >>  PortOpened
+2562/08/21 10:43:18  >>  PortOpened
+2562/08/21 10:43:18  >>  PortOpened
+2562/08/21 10:43:18  >>  ConnectDevice
+2562/08/21 10:43:18  >>  ConnectDevice
+2562/08/21 10:43:18  >>  ConnectDevice
+2562/08/21 10:43:18  >>  DeviceConnected
+2562/08/21 10:43:18  >>  DeviceConnected
+2562/08/21 10:43:18  >>  DeviceConnected
+2562/08/21 10:43:18  >>  AllDevicesConnected
+2562/08/21 10:43:18  >>  AllDevicesConnected
+2562/08/21 10:43:18  >>  AllDevicesConnected
+2562/08/21 10:43:18  >>  Authenticate
+2562/08/21 10:43:18  >>  Authenticate
+2562/08/21 10:43:18  >>  Authenticate
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:18  >>  AuthNotify
+2562/08/21 10:43:37  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:43:37  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:43:38  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2562/08/21 10:47:12  >>  SurfOpenly Application Initialized
+2562/08/21 10:48:44  >>  SurfOpenly Application Initialized
+2562/08/21 10:49:03  >>  OpenPort
+2562/08/21 10:49:03  >>  PortOpened
+2562/08/21 10:49:03  >>  ConnectDevice
+2562/08/21 10:49:03  >>  DeviceConnected
+2562/08/21 10:49:03  >>  AllDevicesConnected
+2562/08/21 10:49:03  >>  Authenticate
+2562/08/21 10:49:03  >>  AuthNotify
+2562/08/21 10:49:03  >>  AuthProject
+2562/08/21 10:49:03  >>  AuthNotify
+2562/08/21 10:49:03  >>  Projected
+2562/08/21 10:49:03  >>  AuthNotify
+2562/08/21 10:49:03  >>  Authenticated
+2562/08/21 10:49:03  >>  ApplySettings
+2562/08/21 10:49:03  >>  Connected
+2562/08/21 10:49:03  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 10:49:10  >>  Trying to disconnect a connection
+2562/08/21 10:49:12  >>  Successfully diconnected live connection
+2562/08/21 10:49:27  >>  OpenPort
+2562/08/21 10:49:27  >>  OpenPort
+2562/08/21 10:49:27  >>  PortOpened
+2562/08/21 10:49:27  >>  PortOpened
+2562/08/21 10:49:27  >>  ConnectDevice
+2562/08/21 10:49:27  >>  ConnectDevice
+2562/08/21 10:49:41  >>  Cannot delete a connection while it is connected.
+2562/08/21 10:49:52  >>  Cannot delete a connection while it is connected.
+2562/08/21 10:50:06  >>  ConnectDevice
+2562/08/21 10:50:06  >>  ConnectDevice
+2562/08/21 10:50:06  >>  ConnectDevice
+2562/08/21 10:50:06  >>  ConnectDevice
+2562/08/21 10:50:22  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/08/21 10:50:23  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/08/21 10:50:23  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/08/21 10:50:24  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/08/21 10:50:28  >>  OpenPort
+2562/08/21 10:50:28  >>  OpenPort
+2562/08/21 10:50:28  >>  OpenPort
+2562/08/21 10:50:28  >>  OpenPort
+2562/08/21 10:50:28  >>  OpenPort
+2562/08/21 10:50:28  >>  PortOpened
+2562/08/21 10:50:28  >>  PortOpened
+2562/08/21 10:50:28  >>  PortOpened
+2562/08/21 10:50:28  >>  PortOpened
+2562/08/21 10:50:28  >>  PortOpened
+2562/08/21 10:50:28  >>  ConnectDevice
+2562/08/21 10:50:28  >>  ConnectDevice
+2562/08/21 10:50:28  >>  ConnectDevice
+2562/08/21 10:50:28  >>  ConnectDevice
+2562/08/21 10:50:28  >>  ConnectDevice
+2562/08/21 10:51:33  >>  ConnectDevice
+2562/08/21 10:51:33  >>  ConnectDevice
+2562/08/21 10:51:33  >>  ConnectDevice
+2562/08/21 10:51:33  >>  ConnectDevice
+2562/08/21 10:51:33  >>  ConnectDevice
+2562/08/21 10:51:50  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2562/08/21 10:51:51  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2562/08/21 10:51:51  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2562/08/21 10:51:52  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2562/08/21 10:51:53  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  OpenPort
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  PortOpened
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:52:40  >>  ConnectDevice
+2562/08/21 10:53:08  >>  SurfOpenly Application Initialized
+2562/08/21 10:53:18  >>  OpenPort
+2562/08/21 10:53:18  >>  PortOpened
+2562/08/21 10:53:18  >>  ConnectDevice
+2562/08/21 10:53:31  >>  ConnectDevice
+2562/08/21 10:56:53  >>  SurfOpenly Application Initialized
+2562/08/21 11:07:06  >>  SurfOpenly Application Initialized
+2562/08/21 11:07:16  >>  OpenPort
+2562/08/21 11:07:16  >>  PortOpened
+2562/08/21 11:07:16  >>  ConnectDevice
+2562/08/21 11:07:39  >>  ConnectDevice
+2562/08/21 11:07:47  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/08/21 11:07:56  >>  OpenPort
+2562/08/21 11:07:56  >>  OpenPort
+2562/08/21 11:07:56  >>  PortOpened
+2562/08/21 11:07:56  >>  PortOpened
+2562/08/21 11:07:56  >>  ConnectDevice
+2562/08/21 11:07:56  >>  ConnectDevice
+2562/08/21 11:10:04  >>  SurfOpenly Application Initialized
+2562/08/21 11:10:08  >>  OpenPort
+2562/08/21 11:10:08  >>  PortOpened
+2562/08/21 11:10:08  >>  ConnectDevice
+2562/08/21 11:18:55  >>  SurfOpenly Application Initialized
+2562/08/21 11:19:00  >>  OpenPort
+2562/08/21 11:19:00  >>  PortOpened
+2562/08/21 11:19:00  >>  ConnectDevice
+2562/08/21 11:19:00  >>  DeviceConnected
+2562/08/21 11:19:00  >>  AllDevicesConnected
+2562/08/21 11:19:00  >>  Authenticate
+2562/08/21 11:19:00  >>  AuthNotify
+2562/08/21 11:19:00  >>  AuthProject
+2562/08/21 11:19:00  >>  AuthNotify
+2562/08/21 11:19:00  >>  Projected
+2562/08/21 11:19:01  >>  AuthNotify
+2562/08/21 11:19:01  >>  Authenticated
+2562/08/21 11:19:01  >>  ApplySettings
+2562/08/21 11:19:01  >>  Connected
+2562/08/21 11:19:01  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test2) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 11:19:10  >>  Trying to disconnect a connection
+2562/08/21 11:19:12  >>  Successfully diconnected live connection
+2562/08/21 11:19:18  >>  OpenPort
+2562/08/21 11:19:18  >>  OpenPort
+2562/08/21 11:19:18  >>  PortOpened
+2562/08/21 11:19:18  >>  PortOpened
+2562/08/21 11:19:18  >>  ConnectDevice
+2562/08/21 11:19:18  >>  ConnectDevice
+2562/08/21 11:19:19  >>  DeviceConnected
+2562/08/21 11:19:19  >>  DeviceConnected
+2562/08/21 11:19:19  >>  AllDevicesConnected
+2562/08/21 11:19:19  >>  AllDevicesConnected
+2562/08/21 11:19:19  >>  Authenticate
+2562/08/21 11:19:19  >>  Authenticate
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  AuthProject
+2562/08/21 11:19:19  >>  AuthProject
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  Projected
+2562/08/21 11:19:19  >>  Projected
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  AuthNotify
+2562/08/21 11:19:19  >>  Authenticated
+2562/08/21 11:19:19  >>  Authenticated
+2562/08/21 11:19:19  >>  ApplySettings
+2562/08/21 11:19:19  >>  ApplySettings
+2562/08/21 11:19:19  >>  Connected
+2562/08/21 11:19:19  >>  Connected
+2562/08/21 11:19:19  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:19:19  >>  Connection Established to a L2TP Server: (192.168.100.254) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:19:29  >>  Trying to disconnect a connection
+2562/08/21 11:19:31  >>  Successfully diconnected live connection
+2562/08/21 11:20:33  >>  OpenPort
+2562/08/21 11:20:33  >>  OpenPort
+2562/08/21 11:20:33  >>  OpenPort
+2562/08/21 11:20:33  >>  PortOpened
+2562/08/21 11:20:33  >>  PortOpened
+2562/08/21 11:20:33  >>  PortOpened
+2562/08/21 11:20:33  >>  ConnectDevice
+2562/08/21 11:20:33  >>  ConnectDevice
+2562/08/21 11:20:33  >>  ConnectDevice
+2562/08/21 11:20:33  >>  DeviceConnected
+2562/08/21 11:20:33  >>  DeviceConnected
+2562/08/21 11:20:33  >>  DeviceConnected
+2562/08/21 11:20:33  >>  AllDevicesConnected
+2562/08/21 11:20:33  >>  AllDevicesConnected
+2562/08/21 11:20:33  >>  AllDevicesConnected
+2562/08/21 11:20:33  >>  Authenticate
+2562/08/21 11:20:33  >>  Authenticate
+2562/08/21 11:20:33  >>  Authenticate
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  AuthProject
+2562/08/21 11:20:33  >>  AuthProject
+2562/08/21 11:20:33  >>  AuthProject
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:33  >>  Projected
+2562/08/21 11:20:33  >>  Projected
+2562/08/21 11:20:33  >>  Projected
+2562/08/21 11:20:33  >>  AuthNotify
+2562/08/21 11:20:34  >>  AuthNotify
+2562/08/21 11:20:34  >>  AuthNotify
+2562/08/21 11:20:34  >>  Authenticated
+2562/08/21 11:20:34  >>  Authenticated
+2562/08/21 11:20:34  >>  Authenticated
+2562/08/21 11:20:34  >>  ApplySettings
+2562/08/21 11:20:34  >>  ApplySettings
+2562/08/21 11:20:34  >>  ApplySettings
+2562/08/21 11:20:34  >>  Connected
+2562/08/21 11:20:34  >>  Connected
+2562/08/21 11:20:34  >>  Connected
+2562/08/21 11:20:34  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 11:20:34  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 11:20:34  >>  Connection Established to a PPTP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/21 11:20:41  >>  Trying to disconnect a connection
+2562/08/21 11:20:42  >>  Successfully diconnected live connection
+2562/08/21 11:21:01  >>  OpenPort
+2562/08/21 11:21:01  >>  OpenPort
+2562/08/21 11:21:01  >>  OpenPort
+2562/08/21 11:21:01  >>  OpenPort
+2562/08/21 11:21:01  >>  PortOpened
+2562/08/21 11:21:01  >>  PortOpened
+2562/08/21 11:21:01  >>  PortOpened
+2562/08/21 11:21:01  >>  PortOpened
+2562/08/21 11:21:01  >>  ConnectDevice
+2562/08/21 11:21:01  >>  ConnectDevice
+2562/08/21 11:21:01  >>  ConnectDevice
+2562/08/21 11:21:01  >>  ConnectDevice
+2562/08/21 11:21:02  >>  DeviceConnected
+2562/08/21 11:21:02  >>  DeviceConnected
+2562/08/21 11:21:02  >>  DeviceConnected
+2562/08/21 11:21:02  >>  DeviceConnected
+2562/08/21 11:21:02  >>  AllDevicesConnected
+2562/08/21 11:21:02  >>  AllDevicesConnected
+2562/08/21 11:21:02  >>  AllDevicesConnected
+2562/08/21 11:21:02  >>  AllDevicesConnected
+2562/08/21 11:21:02  >>  Authenticate
+2562/08/21 11:21:02  >>  Authenticate
+2562/08/21 11:21:02  >>  Authenticate
+2562/08/21 11:21:02  >>  Authenticate
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthProject
+2562/08/21 11:21:02  >>  AuthProject
+2562/08/21 11:21:02  >>  AuthProject
+2562/08/21 11:21:02  >>  AuthProject
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  Projected
+2562/08/21 11:21:02  >>  Projected
+2562/08/21 11:21:02  >>  Projected
+2562/08/21 11:21:02  >>  Projected
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  AuthNotify
+2562/08/21 11:21:02  >>  Authenticated
+2562/08/21 11:21:02  >>  Authenticated
+2562/08/21 11:21:02  >>  Authenticated
+2562/08/21 11:21:03  >>  Authenticated
+2562/08/21 11:21:03  >>  ApplySettings
+2562/08/21 11:21:03  >>  ApplySettings
+2562/08/21 11:21:03  >>  ApplySettings
+2562/08/21 11:21:03  >>  ApplySettings
+2562/08/21 11:21:03  >>  Connected
+2562/08/21 11:21:03  >>  Connected
+2562/08/21 11:21:03  >>  Connected
+2562/08/21 11:21:03  >>  Connected
+2562/08/21 11:21:03  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:21:03  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:21:03  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:21:03  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:21:08  >>  Trying to disconnect a connection
+2562/08/21 11:21:09  >>  Successfully diconnected live connection
+2562/08/21 11:29:41  >>  SurfOpenly Application Initialized
+2562/08/21 11:29:52  >>  OpenPort
+2562/08/21 11:29:52  >>  PortOpened
+2562/08/21 11:29:53  >>  ConnectDevice
+2562/08/21 11:29:53  >>  DeviceConnected
+2562/08/21 11:29:53  >>  AllDevicesConnected
+2562/08/21 11:29:53  >>  Authenticate
+2562/08/21 11:29:53  >>  AuthNotify
+2562/08/21 11:29:53  >>  AuthProject
+2562/08/21 11:29:53  >>  AuthNotify
+2562/08/21 11:29:53  >>  Projected
+2562/08/21 11:29:53  >>  AuthNotify
+2562/08/21 11:29:53  >>  Authenticated
+2562/08/21 11:29:53  >>  ApplySettings
+2562/08/21 11:29:54  >>  Connected
+2562/08/21 11:29:54  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:30:00  >>  Trying to disconnect a connection
+2562/08/21 11:30:02  >>  Successfully diconnected live connection
+2562/08/21 11:56:54  >>  SurfOpenly Application Initialized
+2562/08/21 11:57:01  >>  OpenPort
+2562/08/21 11:57:01  >>  PortOpened
+2562/08/21 11:57:01  >>  ConnectDevice
+2562/08/21 11:57:02  >>  DeviceConnected
+2562/08/21 11:57:02  >>  AllDevicesConnected
+2562/08/21 11:57:02  >>  Authenticate
+2562/08/21 11:57:02  >>  AuthNotify
+2562/08/21 11:57:02  >>  AuthProject
+2562/08/21 11:57:02  >>  AuthNotify
+2562/08/21 11:57:02  >>  Projected
+2562/08/21 11:57:02  >>  AuthNotify
+2562/08/21 11:57:02  >>  Authenticated
+2562/08/21 11:57:02  >>  ApplySettings
+2562/08/21 11:57:02  >>  Connected
+2562/08/21 11:57:02  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:57:08  >>  Trying to disconnect a connection
+2562/08/21 11:57:09  >>  Successfully diconnected live connection
+2562/08/21 11:59:10  >>  SurfOpenly Application Initialized
+2562/08/21 11:59:15  >>  OpenPort
+2562/08/21 11:59:15  >>  PortOpened
+2562/08/21 11:59:16  >>  ConnectDevice
+2562/08/21 11:59:16  >>  DeviceConnected
+2562/08/21 11:59:16  >>  AllDevicesConnected
+2562/08/21 11:59:16  >>  Authenticate
+2562/08/21 11:59:16  >>  AuthNotify
+2562/08/21 11:59:16  >>  AuthProject
+2562/08/21 11:59:16  >>  AuthNotify
+2562/08/21 11:59:16  >>  Projected
+2562/08/21 11:59:16  >>  AuthNotify
+2562/08/21 11:59:16  >>  Authenticated
+2562/08/21 11:59:17  >>  ApplySettings
+2562/08/21 11:59:17  >>  Connected
+2562/08/21 11:59:17  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 11:59:23  >>  Trying to disconnect a connection
+2562/08/21 11:59:24  >>  Successfully diconnected live connection
+2562/08/21 12:00:11  >>  SurfOpenly Application Initialized
+2562/08/21 12:00:17  >>  OpenPort
+2562/08/21 12:00:17  >>  PortOpened
+2562/08/21 12:00:17  >>  ConnectDevice
+2562/08/21 12:00:18  >>  DeviceConnected
+2562/08/21 12:00:18  >>  AllDevicesConnected
+2562/08/21 12:00:18  >>  Authenticate
+2562/08/21 12:00:18  >>  AuthNotify
+2562/08/21 12:00:18  >>  AuthProject
+2562/08/21 12:00:18  >>  AuthNotify
+2562/08/21 12:00:18  >>  Projected
+2562/08/21 12:00:18  >>  AuthNotify
+2562/08/21 12:00:18  >>  Authenticated
+2562/08/21 12:00:18  >>  ApplySettings
+2562/08/21 12:00:18  >>  Connected
+2562/08/21 12:00:18  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:00:22  >>  Trying to disconnect a connection
+2562/08/21 12:00:24  >>  Successfully diconnected live connection
+2562/08/21 12:01:01  >>  SurfOpenly Application Initialized
+2562/08/21 12:01:12  >>  OpenPort
+2562/08/21 12:01:12  >>  PortOpened
+2562/08/21 12:01:12  >>  ConnectDevice
+2562/08/21 12:01:12  >>  DeviceConnected
+2562/08/21 12:01:12  >>  AllDevicesConnected
+2562/08/21 12:01:12  >>  Authenticate
+2562/08/21 12:01:12  >>  AuthNotify
+2562/08/21 12:01:12  >>  AuthProject
+2562/08/21 12:01:12  >>  AuthNotify
+2562/08/21 12:01:12  >>  Projected
+2562/08/21 12:01:12  >>  AuthNotify
+2562/08/21 12:01:13  >>  Authenticated
+2562/08/21 12:01:13  >>  ApplySettings
+2562/08/21 12:01:13  >>  Connected
+2562/08/21 12:01:13  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:01:19  >>  Trying to disconnect a connection
+2562/08/21 12:01:21  >>  Successfully diconnected live connection
+2562/08/21 12:01:29  >>  OpenPort
+2562/08/21 12:01:29  >>  OpenPort
+2562/08/21 12:01:29  >>  PortOpened
+2562/08/21 12:01:29  >>  PortOpened
+2562/08/21 12:01:30  >>  ConnectDevice
+2562/08/21 12:01:30  >>  ConnectDevice
+2562/08/21 12:01:30  >>  DeviceConnected
+2562/08/21 12:01:30  >>  DeviceConnected
+2562/08/21 12:01:30  >>  AllDevicesConnected
+2562/08/21 12:01:30  >>  AllDevicesConnected
+2562/08/21 12:01:30  >>  Authenticate
+2562/08/21 12:01:30  >>  Authenticate
+2562/08/21 12:01:30  >>  AuthNotify
+2562/08/21 12:01:30  >>  AuthNotify
+2562/08/21 12:01:30  >>  AuthProject
+2562/08/21 12:01:30  >>  AuthProject
+2562/08/21 12:01:31  >>  AuthNotify
+2562/08/21 12:01:31  >>  AuthNotify
+2562/08/21 12:01:31  >>  Projected
+2562/08/21 12:01:31  >>  Projected
+2562/08/21 12:01:31  >>  AuthNotify
+2562/08/21 12:01:31  >>  AuthNotify
+2562/08/21 12:01:31  >>  Authenticated
+2562/08/21 12:01:31  >>  Authenticated
+2562/08/21 12:01:31  >>  ApplySettings
+2562/08/21 12:01:31  >>  ApplySettings
+2562/08/21 12:01:31  >>  Connected
+2562/08/21 12:01:31  >>  Connected
+2562/08/21 12:01:31  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:01:31  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:01:37  >>  Trying to disconnect a connection
+2562/08/21 12:01:38  >>  Successfully diconnected live connection
+2562/08/21 12:01:44  >>  OpenPort
+2562/08/21 12:01:44  >>  OpenPort
+2562/08/21 12:01:44  >>  OpenPort
+2562/08/21 12:01:44  >>  PortOpened
+2562/08/21 12:01:44  >>  PortOpened
+2562/08/21 12:01:44  >>  PortOpened
+2562/08/21 12:01:44  >>  ConnectDevice
+2562/08/21 12:01:44  >>  ConnectDevice
+2562/08/21 12:01:44  >>  ConnectDevice
+2562/08/21 12:01:45  >>  DeviceConnected
+2562/08/21 12:01:45  >>  DeviceConnected
+2562/08/21 12:01:45  >>  DeviceConnected
+2562/08/21 12:01:45  >>  AllDevicesConnected
+2562/08/21 12:01:45  >>  AllDevicesConnected
+2562/08/21 12:01:45  >>  AllDevicesConnected
+2562/08/21 12:01:45  >>  Authenticate
+2562/08/21 12:01:45  >>  Authenticate
+2562/08/21 12:01:45  >>  Authenticate
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthProject
+2562/08/21 12:01:45  >>  AuthProject
+2562/08/21 12:01:45  >>  AuthProject
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  Projected
+2562/08/21 12:01:45  >>  Projected
+2562/08/21 12:01:45  >>  Projected
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  AuthNotify
+2562/08/21 12:01:45  >>  Authenticated
+2562/08/21 12:01:45  >>  Authenticated
+2562/08/21 12:01:45  >>  Authenticated
+2562/08/21 12:01:45  >>  ApplySettings
+2562/08/21 12:01:45  >>  ApplySettings
+2562/08/21 12:01:45  >>  ApplySettings
+2562/08/21 12:01:45  >>  Connected
+2562/08/21 12:01:45  >>  Connected
+2562/08/21 12:01:45  >>  Connected
+2562/08/21 12:01:45  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:01:45  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:01:45  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:02:48  >>  Connection  interrupted and disconnected externally
+2562/08/21 12:02:48  >>  Connection  interrupted and disconnected externally
+2562/08/21 12:02:48  >>  Connection  interrupted and disconnected externally
+2562/08/21 12:03:07  >>  Trying to disconnect a connection
+2562/08/21 12:03:07  >>  Successfully diconnected live connection
+2562/08/21 12:06:32  >>  SurfOpenly Application Initialized
+2562/08/21 12:06:36  >>  OpenPort
+2562/08/21 12:06:36  >>  PortOpened
+2562/08/21 12:06:37  >>  ConnectDevice
+2562/08/21 12:06:37  >>  DeviceConnected
+2562/08/21 12:06:37  >>  AllDevicesConnected
+2562/08/21 12:06:37  >>  Authenticate
+2562/08/21 12:06:37  >>  AuthNotify
+2562/08/21 12:06:37  >>  AuthProject
+2562/08/21 12:06:37  >>  AuthNotify
+2562/08/21 12:06:37  >>  Projected
+2562/08/21 12:06:37  >>  AuthNotify
+2562/08/21 12:06:37  >>  Authenticated
+2562/08/21 12:06:37  >>  ApplySettings
+2562/08/21 12:06:38  >>  Connected
+2562/08/21 12:06:38  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:06:42  >>  Trying to disconnect a connection
+2562/08/21 12:06:44  >>  Successfully diconnected live connection
+2562/08/21 12:37:20  >>  SurfOpenly Application Initialized
+2562/08/21 12:37:26  >>  SurfOpenly Application Closing
+2562/08/21 12:37:39  >>  SurfOpenly Application Initialized
+2562/08/21 12:37:46  >>  OpenPort
+2562/08/21 12:37:46  >>  PortOpened
+2562/08/21 12:37:46  >>  ConnectDevice
+2562/08/21 12:37:47  >>  DeviceConnected
+2562/08/21 12:37:47  >>  AllDevicesConnected
+2562/08/21 12:37:47  >>  Authenticate
+2562/08/21 12:37:47  >>  AuthNotify
+2562/08/21 12:37:47  >>  AuthProject
+2562/08/21 12:37:47  >>  AuthNotify
+2562/08/21 12:37:47  >>  Projected
+2562/08/21 12:37:47  >>  AuthNotify
+2562/08/21 12:37:47  >>  Authenticated
+2562/08/21 12:37:47  >>  ApplySettings
+2562/08/21 12:37:47  >>  Connected
+2562/08/21 12:37:47  >>  Connection Established to a L2TP Server: (6f53068cc1a5.sn.mynetname.net) with Username: (CW) and Password: (1234567890) and Pre-Shared Key: (1234567890)
+2562/08/21 12:38:10  >>  Trying to disconnect a connection
+2562/08/21 12:38:12  >>  Successfully diconnected live connection
+2562/08/21 12:38:19  >>  SurfOpenly Application Closing
+2562/08/21 12:40:12  >>  SurfOpenly Application Initialized
+2562/08/21 12:40:15  >>  SurfOpenly Application Closing
+2562/08/21 12:41:34  >>  SurfOpenly Application Initialized
+2562/08/21 12:41:39  >>  SurfOpenly Application Closing
+2562/08/31 18:17:26  >>  SurfOpenly Application Initialized
+2562/08/31 18:18:10  >>  OpenPort
+2562/08/31 18:18:10  >>  PortOpened
+2562/08/31 18:18:10  >>  ConnectDevice
+2562/08/31 18:18:10  >>  DeviceConnected
+2562/08/31 18:18:10  >>  AllDevicesConnected
+2562/08/31 18:18:10  >>  Authenticate
+2562/08/31 18:18:10  >>  AuthNotify
+2562/08/31 18:18:10  >>  AuthProject
+2562/08/31 18:18:10  >>  AuthNotify
+2562/08/31 18:18:10  >>  Projected
+2562/08/31 18:18:10  >>  AuthNotify
+2562/08/31 18:18:10  >>  Authenticated
+2562/08/31 18:18:10  >>  ApplySettings
+2562/08/31 18:18:10  >>  Connected
+2562/08/31 18:18:11  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 18:18:14  >>  Trying to disconnect a connection
+2562/08/31 18:18:16  >>  Successfully diconnected live connection
+2562/08/31 18:18:22  >>  SurfOpenly Application Closing
+2562/08/31 18:42:34  >>  SurfOpenly Application Initialized
+2562/08/31 18:42:37  >>  OpenPort
+2562/08/31 18:42:37  >>  PortOpened
+2562/08/31 18:42:37  >>  ConnectDevice
+2562/08/31 18:42:37  >>  DeviceConnected
+2562/08/31 18:42:37  >>  AllDevicesConnected
+2562/08/31 18:42:37  >>  Authenticate
+2562/08/31 18:42:37  >>  AuthNotify
+2562/08/31 18:42:37  >>  AuthProject
+2562/08/31 18:42:37  >>  AuthNotify
+2562/08/31 18:42:37  >>  Projected
+2562/08/31 18:42:37  >>  AuthNotify
+2562/08/31 18:42:37  >>  Authenticated
+2562/08/31 18:42:37  >>  ApplySettings
+2562/08/31 18:42:37  >>  Connected
+2562/08/31 18:42:37  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 18:46:22  >>  SurfOpenly Application Initialized
+2562/08/31 18:46:25  >>  OpenPort
+2562/08/31 18:46:25  >>  PortOpened
+2562/08/31 18:46:25  >>  ConnectDevice
+2562/08/31 18:46:26  >>  DeviceConnected
+2562/08/31 18:46:26  >>  AllDevicesConnected
+2562/08/31 18:46:26  >>  Authenticate
+2562/08/31 18:46:26  >>  AuthNotify
+2562/08/31 18:46:26  >>  AuthProject
+2562/08/31 18:46:26  >>  AuthNotify
+2562/08/31 18:46:26  >>  Projected
+2562/08/31 18:46:26  >>  AuthNotify
+2562/08/31 18:46:26  >>  Authenticated
+2562/08/31 18:46:26  >>  ApplySettings
+2562/08/31 18:46:26  >>  Connected
+2562/08/31 18:46:26  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 19:17:21  >>  SurfOpenly Application Initialized
+2562/08/31 19:17:26  >>  OpenPort
+2562/08/31 19:17:26  >>  PortOpened
+2562/08/31 19:17:26  >>  ConnectDevice
+2562/08/31 19:17:26  >>  DeviceConnected
+2562/08/31 19:17:26  >>  AllDevicesConnected
+2562/08/31 19:17:26  >>  Authenticate
+2562/08/31 19:17:26  >>  AuthNotify
+2562/08/31 19:17:26  >>  AuthProject
+2562/08/31 19:17:27  >>  AuthNotify
+2562/08/31 19:17:27  >>  Projected
+2562/08/31 19:17:27  >>  AuthNotify
+2562/08/31 19:17:27  >>  Authenticated
+2562/08/31 19:17:27  >>  ApplySettings
+2562/08/31 19:17:27  >>  Connected
+2562/08/31 19:17:27  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 19:21:43  >>  SurfOpenly Application Initialized
+2562/08/31 19:21:45  >>  OpenPort
+2562/08/31 19:21:45  >>  PortOpened
+2562/08/31 19:21:45  >>  ConnectDevice
+2562/08/31 19:21:45  >>  DeviceConnected
+2562/08/31 19:21:45  >>  AllDevicesConnected
+2562/08/31 19:21:45  >>  Authenticate
+2562/08/31 19:21:45  >>  AuthNotify
+2562/08/31 19:21:45  >>  AuthProject
+2562/08/31 19:21:46  >>  AuthNotify
+2562/08/31 19:21:46  >>  Projected
+2562/08/31 19:21:46  >>  AuthNotify
+2562/08/31 19:21:46  >>  Authenticated
+2562/08/31 19:21:46  >>  ApplySettings
+2562/08/31 19:21:46  >>  Connected
+2562/08/31 19:21:46  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 19:21:51  >>  Connection  interrupted and disconnected externally
+2562/08/31 19:22:13  >>  Trying to disconnect a connection
+2562/08/31 19:22:13  >>  Successfully diconnected live connection
+2562/08/31 19:24:04  >>  SurfOpenly Application Initialized
+2562/08/31 19:24:07  >>  OpenPort
+2562/08/31 19:24:07  >>  PortOpened
+2562/08/31 19:24:07  >>  ConnectDevice
+2562/08/31 19:24:07  >>  DeviceConnected
+2562/08/31 19:24:07  >>  AllDevicesConnected
+2562/08/31 19:24:07  >>  Authenticate
+2562/08/31 19:24:07  >>  AuthNotify
+2562/08/31 19:24:07  >>  AuthProject
+2562/08/31 19:24:07  >>  AuthNotify
+2562/08/31 19:24:07  >>  Projected
+2562/08/31 19:24:07  >>  AuthNotify
+2562/08/31 19:24:07  >>  Authenticated
+2562/08/31 19:24:07  >>  ApplySettings
+2562/08/31 19:24:08  >>  Connected
+2562/08/31 19:24:08  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/08/31 19:24:12  >>  Connection  interrupted and disconnected externally
+2562/08/31 19:24:16  >>  Trying to disconnect a connection
+2562/08/31 19:24:16  >>  Successfully diconnected live connection
+2562/08/31 19:24:18  >>  SurfOpenly Application Closing
+2562/09/06 19:08:04  >>  SurfOpenly Application Initialized
+2562/09/06 19:08:22  >>  SurfOpenly Application Closing
+2562/09/06 19:16:07  >>  SurfOpenly Application Initialized
+2562/09/06 19:16:15  >>  OpenPort
+2562/09/06 19:16:15  >>  PortOpened
+2562/09/06 19:16:15  >>  ConnectDevice
+2562/09/06 19:16:15  >>  DeviceConnected
+2562/09/06 19:16:15  >>  AllDevicesConnected
+2562/09/06 19:16:15  >>  Authenticate
+2562/09/06 19:16:15  >>  AuthNotify
+2562/09/06 19:16:15  >>  AuthProject
+2562/09/06 19:16:15  >>  AuthNotify
+2562/09/06 19:16:15  >>  Projected
+2562/09/06 19:16:15  >>  AuthNotify
+2562/09/06 19:16:15  >>  Authenticated
+2562/09/06 19:16:15  >>  ApplySettings
+2562/09/06 19:16:15  >>  Connected
+2562/09/06 19:16:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/06 19:19:15  >>  Trying to disconnect a connection
+2562/09/06 19:19:17  >>  Successfully diconnected live connection
+2562/09/06 19:42:08  >>  SurfOpenly Application Closing
+2562/09/21 14:11:15  >>  SurfOpenly Application Initialized
+2562/09/21 14:11:29  >>  OpenPort
+2562/09/21 14:11:29  >>  PortOpened
+2562/09/21 14:11:29  >>  ConnectDevice
+2562/09/21 14:11:29  >>  DeviceConnected
+2562/09/21 14:11:29  >>  AllDevicesConnected
+2562/09/21 14:11:29  >>  Authenticate
+2562/09/21 14:11:29  >>  AuthNotify
+2562/09/21 14:11:29  >>  AuthProject
+2562/09/21 14:11:30  >>  AuthNotify
+2562/09/21 14:11:30  >>  Projected
+2562/09/21 14:11:30  >>  AuthNotify
+2562/09/21 14:11:30  >>  Authenticated
+2562/09/21 14:11:30  >>  ApplySettings
+2562/09/21 14:11:30  >>  Connected
+2562/09/21 14:11:30  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:11:47  >>  Connection  interrupted and disconnected externally
+2562/09/21 14:12:40  >>  Trying to disconnect a connection
+2562/09/21 14:12:40  >>  Successfully diconnected live connection
+2562/09/21 14:12:46  >>  SurfOpenly Application Closing
+2562/09/21 14:18:00  >>  SurfOpenly Application Initialized
+2562/09/21 14:18:34  >>  OpenPort
+2562/09/21 14:18:34  >>  PortOpened
+2562/09/21 14:18:34  >>  ConnectDevice
+2562/09/21 14:18:34  >>  DeviceConnected
+2562/09/21 14:18:34  >>  AllDevicesConnected
+2562/09/21 14:18:34  >>  Authenticate
+2562/09/21 14:18:34  >>  AuthNotify
+2562/09/21 14:18:34  >>  AuthProject
+2562/09/21 14:18:34  >>  AuthNotify
+2562/09/21 14:18:34  >>  Projected
+2562/09/21 14:18:34  >>  AuthNotify
+2562/09/21 14:18:34  >>  Authenticated
+2562/09/21 14:18:34  >>  ApplySettings
+2562/09/21 14:18:34  >>  Connected
+2562/09/21 14:18:34  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:18:44  >>  Connection  interrupted and disconnected externally
+2562/09/21 14:23:29  >>  Trying to disconnect a connection
+2562/09/21 14:23:29  >>  Successfully diconnected live connection
+2562/09/21 14:23:32  >>  SurfOpenly Application Closing
+2562/09/21 14:23:47  >>  SurfOpenly Application Initialized
+2562/09/21 14:24:15  >>  OpenPort
+2562/09/21 14:24:15  >>  PortOpened
+2562/09/21 14:24:15  >>  ConnectDevice
+2562/09/21 14:24:15  >>  DeviceConnected
+2562/09/21 14:24:15  >>  AllDevicesConnected
+2562/09/21 14:24:15  >>  Authenticate
+2562/09/21 14:24:15  >>  AuthNotify
+2562/09/21 14:24:15  >>  AuthProject
+2562/09/21 14:24:15  >>  AuthNotify
+2562/09/21 14:24:15  >>  Projected
+2562/09/21 14:24:15  >>  AuthNotify
+2562/09/21 14:24:15  >>  Authenticated
+2562/09/21 14:24:15  >>  ApplySettings
+2562/09/21 14:24:15  >>  Connected
+2562/09/21 14:24:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:24:20  >>  Connection  interrupted and disconnected externally
+2562/09/21 14:25:43  >>  Trying to disconnect a connection
+2562/09/21 14:25:43  >>  Successfully diconnected live connection
+2562/09/21 14:25:48  >>  SurfOpenly Application Closing
+2562/09/21 14:26:21  >>  SurfOpenly Application Initialized
+2562/09/21 14:26:31  >>  OpenPort
+2562/09/21 14:26:31  >>  PortOpened
+2562/09/21 14:26:31  >>  ConnectDevice
+2562/09/21 14:26:31  >>  DeviceConnected
+2562/09/21 14:26:31  >>  AllDevicesConnected
+2562/09/21 14:26:31  >>  Authenticate
+2562/09/21 14:26:31  >>  AuthNotify
+2562/09/21 14:26:31  >>  AuthProject
+2562/09/21 14:26:31  >>  AuthNotify
+2562/09/21 14:26:31  >>  Projected
+2562/09/21 14:26:31  >>  AuthNotify
+2562/09/21 14:26:31  >>  Authenticated
+2562/09/21 14:26:31  >>  ApplySettings
+2562/09/21 14:26:31  >>  Connected
+2562/09/21 14:26:31  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:26:36  >>  Connection  interrupted and disconnected externally
+2562/09/21 14:27:41  >>  OpenPort
+2562/09/21 14:27:41  >>  OpenPort
+2562/09/21 14:27:41  >>  PortOpened
+2562/09/21 14:27:41  >>  PortOpened
+2562/09/21 14:27:41  >>  ConnectDevice
+2562/09/21 14:27:41  >>  ConnectDevice
+2562/09/21 14:27:41  >>  DeviceConnected
+2562/09/21 14:27:41  >>  DeviceConnected
+2562/09/21 14:27:41  >>  AllDevicesConnected
+2562/09/21 14:27:41  >>  AllDevicesConnected
+2562/09/21 14:27:41  >>  Authenticate
+2562/09/21 14:27:41  >>  Authenticate
+2562/09/21 14:27:41  >>  AuthNotify
+2562/09/21 14:27:41  >>  AuthNotify
+2562/09/21 14:27:41  >>  AuthProject
+2562/09/21 14:27:42  >>  AuthProject
+2562/09/21 14:27:42  >>  AuthNotify
+2562/09/21 14:27:42  >>  AuthNotify
+2562/09/21 14:27:42  >>  Projected
+2562/09/21 14:27:42  >>  Projected
+2562/09/21 14:27:42  >>  AuthNotify
+2562/09/21 14:27:42  >>  AuthNotify
+2562/09/21 14:27:42  >>  Authenticated
+2562/09/21 14:27:42  >>  Authenticated
+2562/09/21 14:27:42  >>  ApplySettings
+2562/09/21 14:27:42  >>  ApplySettings
+2562/09/21 14:27:42  >>  Connected
+2562/09/21 14:27:42  >>  Connected
+2562/09/21 14:27:42  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:27:42  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/21 14:27:54  >>  Trying to disconnect a connection
+2562/09/21 14:27:55  >>  Successfully diconnected live connection
+2562/09/21 14:28:01  >>  SurfOpenly Application Closing
+2562/09/21 15:32:45  >>  SurfOpenly Application Initialized
+2562/09/21 15:32:50  >>  SurfOpenly Application Closing
+2562/09/21 15:35:08  >>  SurfOpenly Application Initialized
+2562/09/21 15:35:18  >>  SurfOpenly Application Closing
+2562/09/24 12:20:18  >>  SurfOpenly Application Initialized
+2562/09/24 12:20:23  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2562/09/24 12:20:36  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2562/09/24 12:27:09  >>  SurfOpenly Application Initialized
+2562/09/24 12:27:19  >>  OpenPort
+2562/09/24 12:27:19  >>  PortOpened
+2562/09/24 12:27:19  >>  PortOpened
+2562/09/24 12:27:40  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/09/24 12:27:52  >>  OpenPort
+2562/09/24 12:27:52  >>  OpenPort
+2562/09/24 12:27:52  >>  PortOpened
+2562/09/24 12:27:52  >>  PortOpened
+2562/09/24 12:27:52  >>  ConnectDevice
+2562/09/24 12:27:52  >>  ConnectDevice
+2562/09/24 12:27:57  >>  Cannot delete a connection while it is connected.
+2562/09/24 12:28:10  >>  Cannot delete a connection while it is connected.
+2562/09/24 12:28:13  >>  ConnectDevice
+2562/09/24 12:28:13  >>  ConnectDevice
+2562/09/24 12:28:13  >>  ConnectDevice
+2562/09/24 12:28:13  >>  ConnectDevice
+2562/09/24 12:28:16  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2562/09/24 12:28:17  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2562/09/24 12:28:17  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2562/09/24 12:28:18  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2562/09/24 12:28:21  >>  SurfOpenly Application Closing
+2562/09/24 12:28:25  >>  SurfOpenly Application Initialized
+2562/09/24 12:28:29  >>  OpenPort
+2562/09/24 12:28:29  >>  PortOpened
+2562/09/24 12:28:29  >>  ConnectDevice
+2562/09/24 12:28:50  >>  ConnectDevice
+2562/09/24 12:28:57  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2562/09/24 12:29:03  >>  OpenPort
+2562/09/24 12:29:03  >>  OpenPort
+2562/09/24 12:29:03  >>  PortOpened
+2562/09/24 12:29:03  >>  PortOpened
+2562/09/24 12:29:03  >>  ConnectDevice
+2562/09/24 12:29:03  >>  ConnectDevice
+2562/09/24 12:29:03  >>  DeviceConnected
+2562/09/24 12:29:03  >>  DeviceConnected
+2562/09/24 12:29:03  >>  AllDevicesConnected
+2562/09/24 12:29:03  >>  AllDevicesConnected
+2562/09/24 12:29:03  >>  Authenticate
+2562/09/24 12:29:03  >>  Authenticate
+2562/09/24 12:29:03  >>  AuthNotify
+2562/09/24 12:29:03  >>  AuthNotify
+2562/09/24 12:29:05  >>  AuthProject
+2562/09/24 12:29:05  >>  AuthProject
+2562/09/24 12:29:05  >>  AuthNotify
+2562/09/24 12:29:05  >>  AuthNotify
+2562/09/24 12:29:05  >>  Projected
+2562/09/24 12:29:05  >>  Projected
+2562/09/24 12:29:05  >>  AuthNotify
+2562/09/24 12:29:05  >>  AuthNotify
+2562/09/24 12:29:05  >>  Authenticated
+2562/09/24 12:29:05  >>  Authenticated
+2562/09/24 12:29:05  >>  ApplySettings
+2562/09/24 12:29:05  >>  ApplySettings
+2562/09/24 12:29:05  >>  Connected
+2562/09/24 12:29:05  >>  Connected
+2562/09/24 12:29:05  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/24 12:29:05  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2562/09/24 12:29:08  >>  Trying to disconnect a connection
+2562/09/24 12:29:11  >>  Successfully diconnected live connection
+2562/09/24 12:31:26  >>  SurfOpenly Application Initialized
+2562/09/24 12:31:31  >>  OpenPort
+2562/09/24 12:31:31  >>  PortOpened
+2562/09/24 12:31:31  >>  PortOpened
+2562/09/24 12:31:41  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2562/09/24 12:32:58  >>  SurfOpenly Application Initialized
+2562/09/24 12:33:00  >>  OpenPort
+2562/09/24 12:33:00  >>  PortOpened
+2562/09/24 12:33:00  >>  PortOpened
+2562/09/24 12:33:01  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2019/09/25 10:43:58  >>  SurfOpenly Application Initialized
+2019/09/25 10:44:03  >>  OpenPort
+2019/09/25 10:44:03  >>  PortOpened
+2019/09/25 10:44:03  >>  ConnectDevice
+2019/09/25 10:44:03  >>  DeviceConnected
+2019/09/25 10:44:03  >>  AllDevicesConnected
+2019/09/25 10:44:03  >>  Authenticate
+2019/09/25 10:44:03  >>  AuthNotify
+2019/09/25 10:44:03  >>  AuthProject
+2019/09/25 10:44:03  >>  AuthNotify
+2019/09/25 10:44:03  >>  Projected
+2019/09/25 10:44:03  >>  AuthNotify
+2019/09/25 10:44:03  >>  Authenticated
+2019/09/25 10:44:03  >>  ApplySettings
+2019/09/25 10:44:04  >>  Connected
+2019/09/25 10:44:04  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/25 11:40:01  >>  Connection  interrupted and disconnected externally
+2019/09/25 11:41:00  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/25 11:41:22  >>  Trying to disconnect a connection
+2019/09/25 11:41:22  >>  Successfully diconnected live connection
+2019/09/25 11:42:01  >>  SurfOpenly Application Closing
+2019/09/27 15:59:24  >>  SurfOpenly Application Initialized
+2019/09/27 15:59:41  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:00:10  >>  OpenPort
+2019/09/27 16:00:10  >>  PortOpened
+2019/09/27 16:00:10  >>  ConnectDevice
+2019/09/27 16:00:10  >>  DeviceConnected
+2019/09/27 16:00:10  >>  AllDevicesConnected
+2019/09/27 16:00:10  >>  Authenticate
+2019/09/27 16:00:10  >>  AuthNotify
+2019/09/27 16:00:10  >>  AuthProject
+2019/09/27 16:00:10  >>  AuthNotify
+2019/09/27 16:00:10  >>  Projected
+2019/09/27 16:00:10  >>  AuthNotify
+2019/09/27 16:00:10  >>  Authenticated
+2019/09/27 16:00:10  >>  ApplySettings
+2019/09/27 16:00:10  >>  Connected
+2019/09/27 16:00:10  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:00:25  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:01:12  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:02:13  >>  OpenPort
+2019/09/27 16:02:13  >>  OpenPort
+2019/09/27 16:02:13  >>  PortOpened
+2019/09/27 16:02:13  >>  PortOpened
+2019/09/27 16:02:13  >>  ConnectDevice
+2019/09/27 16:02:13  >>  ConnectDevice
+2019/09/27 16:02:13  >>  DeviceConnected
+2019/09/27 16:02:13  >>  DeviceConnected
+2019/09/27 16:02:13  >>  AllDevicesConnected
+2019/09/27 16:02:13  >>  AllDevicesConnected
+2019/09/27 16:02:13  >>  Authenticate
+2019/09/27 16:02:13  >>  Authenticate
+2019/09/27 16:02:13  >>  AuthNotify
+2019/09/27 16:02:13  >>  AuthNotify
+2019/09/27 16:02:13  >>  AuthProject
+2019/09/27 16:02:14  >>  AuthProject
+2019/09/27 16:02:14  >>  AuthNotify
+2019/09/27 16:02:14  >>  AuthNotify
+2019/09/27 16:02:14  >>  Projected
+2019/09/27 16:02:14  >>  Projected
+2019/09/27 16:02:14  >>  AuthNotify
+2019/09/27 16:02:14  >>  AuthNotify
+2019/09/27 16:02:14  >>  Authenticated
+2019/09/27 16:02:14  >>  Authenticated
+2019/09/27 16:02:14  >>  ApplySettings
+2019/09/27 16:02:14  >>  ApplySettings
+2019/09/27 16:02:14  >>  Connected
+2019/09/27 16:02:14  >>  Connected
+2019/09/27 16:02:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:02:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:02:23  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:02:27  >>  SurfOpenly Application Closing
+2019/09/27 16:02:32  >>  SurfOpenly Application Initialized
+2019/09/27 16:02:32  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:03:38  >>  SurfOpenly Application Initialized
+2019/09/27 16:03:47  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:04:14  >>  SurfOpenly Application Initialized
+2019/09/27 16:04:17  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:04:53  >>  SurfOpenly Application Initialized
+2019/09/27 16:04:55  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:06:22  >>  SurfOpenly Application Initialized
+2019/09/27 16:06:24  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:13:29  >>  SurfOpenly Application Initialized
+2019/09/27 16:13:34  >>  OpenPort
+2019/09/27 16:13:34  >>  PortOpened
+2019/09/27 16:13:34  >>  ConnectDevice
+2019/09/27 16:13:34  >>  DeviceConnected
+2019/09/27 16:13:34  >>  AllDevicesConnected
+2019/09/27 16:13:35  >>  Authenticate
+2019/09/27 16:13:35  >>  AuthNotify
+2019/09/27 16:13:35  >>  AuthProject
+2019/09/27 16:13:35  >>  AuthNotify
+2019/09/27 16:13:35  >>  Projected
+2019/09/27 16:13:35  >>  AuthNotify
+2019/09/27 16:13:35  >>  Authenticated
+2019/09/27 16:13:35  >>  ApplySettings
+2019/09/27 16:13:35  >>  Connected
+2019/09/27 16:13:41  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:13:50  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:13:51  >>  Successfully disconnected live connection
+2019/09/27 16:13:51  >>  SurfOpenly Application Closing
+2019/09/27 16:13:57  >>  SurfOpenly Application Initialized
+2019/09/27 16:13:59  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:16:41  >>  OpenPort
+2019/09/27 16:16:41  >>  PortOpened
+2019/09/27 16:16:41  >>  ConnectDevice
+2019/09/27 16:16:41  >>  DeviceConnected
+2019/09/27 16:16:41  >>  AllDevicesConnected
+2019/09/27 16:16:41  >>  Authenticate
+2019/09/27 16:16:41  >>  AuthNotify
+2019/09/27 16:16:42  >>  AuthProject
+2019/09/27 16:16:42  >>  AuthNotify
+2019/09/27 16:16:42  >>  Projected
+2019/09/27 16:16:42  >>  AuthNotify
+2019/09/27 16:16:42  >>  Authenticated
+2019/09/27 16:16:42  >>  ApplySettings
+2019/09/27 16:16:42  >>  Connected
+2019/09/27 16:16:42  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:16:51  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:55:38  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2019/09/27 16:56:47  >>  OpenPort
+2019/09/27 16:56:47  >>  OpenPort
+2019/09/27 16:56:47  >>  PortOpened
+2019/09/27 16:56:47  >>  PortOpened
+2019/09/27 16:56:47  >>  ConnectDevice
+2019/09/27 16:56:47  >>  ConnectDevice
+2019/09/27 16:56:47  >>  DeviceConnected
+2019/09/27 16:56:47  >>  DeviceConnected
+2019/09/27 16:56:47  >>  AllDevicesConnected
+2019/09/27 16:56:47  >>  AllDevicesConnected
+2019/09/27 16:56:47  >>  Authenticate
+2019/09/27 16:56:47  >>  Authenticate
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  AuthProject
+2019/09/27 16:56:47  >>  AuthProject
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  Projected
+2019/09/27 16:56:47  >>  Projected
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  AuthNotify
+2019/09/27 16:56:47  >>  Authenticated
+2019/09/27 16:56:47  >>  Authenticated
+2019/09/27 16:56:47  >>  ApplySettings
+2019/09/27 16:56:47  >>  ApplySettings
+2019/09/27 16:56:47  >>  Connected
+2019/09/27 16:56:47  >>  Connected
+2019/09/27 16:56:47  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:56:47  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/09/27 16:56:56  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:56:56  >>  Connection  interrupted and disconnected externally
+2019/09/27 16:56:57  >>  Successfully disconnected live connection
+2019/09/27 16:56:57  >>  SurfOpenly Application Closing
+2019/10/09 10:45:03  >>  SurfOpenly Application Initialized
+2019/10/09 10:45:04  >>  OpenPort
+2019/10/09 10:45:04  >>  PortOpened
+2019/10/09 10:45:04  >>  ConnectDevice
+2019/10/09 10:45:04  >>  DeviceConnected
+2019/10/09 10:45:04  >>  AllDevicesConnected
+2019/10/09 10:45:04  >>  Authenticate
+2019/10/09 10:45:04  >>  AuthNotify
+2019/10/09 10:45:04  >>  AuthProject
+2019/10/09 10:45:04  >>  AuthNotify
+2019/10/09 10:45:04  >>  Projected
+2019/10/09 10:45:04  >>  AuthNotify
+2019/10/09 10:45:04  >>  Authenticated
+2019/10/09 10:45:04  >>  ApplySettings
+2019/10/09 10:45:04  >>  Connected
+2019/10/09 10:45:04  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (bx1) and Password: (1234567890) and Pre-Shared Key: (None)
+2019/10/09 10:45:08  >>  Trying to disconnect a connection
+2019/10/09 10:45:09  >>  Successfully diconnected live connection
+2019/10/09 10:45:42  >>  OpenPort
+2019/10/09 10:45:42  >>  OpenPort
+2019/10/09 10:45:42  >>  PortOpened
+2019/10/09 10:45:42  >>  PortOpened
+2019/10/09 10:45:42  >>  ConnectDevice
+2019/10/09 10:45:42  >>  ConnectDevice
+2019/10/09 10:45:42  >>  DeviceConnected
+2019/10/09 10:45:42  >>  DeviceConnected
+2019/10/09 10:45:42  >>  AllDevicesConnected
+2019/10/09 10:45:42  >>  AllDevicesConnected
+2019/10/09 10:45:42  >>  Authenticate
+2019/10/09 10:45:42  >>  Authenticate
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:42  >>  AuthProject
+2019/10/09 10:45:42  >>  AuthProject
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:42  >>  Projected
+2019/10/09 10:45:42  >>  Projected
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:42  >>  AuthNotify
+2019/10/09 10:45:43  >>  Authenticated
+2019/10/09 10:45:43  >>  Authenticated
+2019/10/09 10:45:43  >>  ApplySettings
+2019/10/09 10:45:43  >>  ApplySettings
+2019/10/09 10:45:43  >>  Connected
+2019/10/09 10:45:43  >>  Connected
+2019/10/09 10:45:43  >>  Connection Established to a PPTP Server: (vps.icafetik.com) with Username: (blavip) and Password: (28461) and Pre-Shared Key: (None)
+2019/10/09 10:45:43  >>  Connection Established to a PPTP Server: (vps.icafetik.com) with Username: (blavip) and Password: (28461) and Pre-Shared Key: (None)
+2019/10/09 10:48:53  >>  Trying to disconnect a connection
+2019/10/09 10:48:54  >>  Successfully diconnected live connection
+2019/10/09 10:49:31  >>  SurfOpenly Application Closing
+2019/10/09 10:57:49  >>  SurfOpenly Application Initialized
+2019/10/09 10:58:12  >>  SurfOpenly Application Initialized
+2019/10/09 10:58:15  >>  SurfOpenly Application Closing
+2019/10/09 10:58:52  >>  SurfOpenly Application Closing
+2019/10/09 11:02:20  >>  SurfOpenly Application Initialized
+2019/10/09 11:02:23  >>  SurfOpenly Application Closing
+2019/10/09 11:06:25  >>  SurfOpenly Application Initialized
+2019/10/09 11:06:38  >>  SurfOpenly Application Closing
+2019/10/09 11:07:50  >>  SurfOpenly Application Initialized
+2019/10/09 11:07:53  >>  SurfOpenly Application Closing
+2019/10/09 11:24:20  >>  SurfOpenly Application Initialized
+2019/10/09 11:24:23  >>  OpenPort
+2019/10/09 11:24:23  >>  PortOpened
+2019/10/09 11:24:24  >>  ConnectDevice
+2019/10/09 11:24:24  >>  DeviceConnected
+2019/10/09 11:24:24  >>  AllDevicesConnected
+2019/10/09 11:24:24  >>  Authenticate
+2019/10/09 11:24:24  >>  AuthNotify
+2019/10/09 11:24:24  >>  AuthProject
+2019/10/09 11:24:24  >>  AuthNotify
+2019/10/09 11:24:24  >>  Projected
+2019/10/09 11:24:24  >>  AuthNotify
+2019/10/09 11:24:24  >>  Authenticated
+2019/10/09 11:24:24  >>  ApplySettings
+2019/10/09 11:24:24  >>  Connected
+2019/10/09 11:24:24  >>  Connection Established to a PPTP Server: (vps.icafetik.com) with Username: (blavip) and Password: (28461) and Pre-Shared Key: (None)
+2019/10/09 11:31:03  >>  Connection  interrupted and disconnected externally
+2019/10/09 11:31:04  >>  Successfully disconnected live connection
+2019/10/09 11:31:04  >>  SurfOpenly Application Closing
+2019/10/09 11:32:00  >>  SurfOpenly Application Initialized
+2019/10/09 11:32:02  >>  SurfOpenly Application Closing
+2019/10/09 11:37:06  >>  SurfOpenly Application Initialized
+2019/10/09 11:37:15  >>  SurfOpenly Application Closing
+2019/10/09 11:38:10  >>  SurfOpenly Application Initialized
+2019/10/09 11:38:18  >>  SurfOpenly Application Closing
+2019/10/09 11:38:41  >>  SurfOpenly Application Initialized
+2019/10/09 11:38:47  >>  SurfOpenly Application Closing
+2019/10/09 11:55:23  >>  SurfOpenly Application Initialized
+2019/10/09 11:55:34  >>  SurfOpenly Application Closing
+2563/04/04 12:13:23  >>  SurfOpenly Application Initialized
+2563/04/04 12:16:20  >>  SurfOpenly Application Closing
+2563/04/04 13:56:03  >>  SurfOpenly Application Initialized
+2563/04/04 13:57:08  >>  OpenPort
+2563/04/04 13:57:08  >>  PortOpened
+2563/04/04 13:57:08  >>  ConnectDevice
+2563/04/04 13:57:35  >>  Cannot delete a connection while it is connected.
+2563/04/04 13:57:51  >>  Cannot delete a connection while it is connected.
+2563/04/04 13:58:13  >>  ConnectDevice
+2563/04/04 13:58:13  >>  ConnectDevice
+2563/04/04 13:58:13  >>  ConnectDevice
+2563/04/04 13:58:14  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2563/04/04 13:58:14  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2563/04/04 13:58:14  >>  DotRas.RasDialException: The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer.
+2563/04/04 13:58:15  >>  OpenPort
+2563/04/04 13:58:15  >>  OpenPort
+2563/04/04 13:58:15  >>  OpenPort
+2563/04/04 13:58:15  >>  OpenPort
+2563/04/04 13:58:15  >>  PortOpened
+2563/04/04 13:58:15  >>  PortOpened
+2563/04/04 13:58:15  >>  PortOpened
+2563/04/04 13:58:15  >>  PortOpened
+2563/04/04 13:58:15  >>  ConnectDevice
+2563/04/04 13:58:15  >>  ConnectDevice
+2563/04/04 13:58:15  >>  ConnectDevice
+2563/04/04 13:58:15  >>  ConnectDevice
+2563/04/04 13:58:15  >>  DeviceConnected
+2563/04/04 13:58:15  >>  DeviceConnected
+2563/04/04 13:58:15  >>  DeviceConnected
+2563/04/04 13:58:15  >>  DeviceConnected
+2563/04/04 13:58:15  >>  AllDevicesConnected
+2563/04/04 13:58:15  >>  AllDevicesConnected
+2563/04/04 13:58:15  >>  AllDevicesConnected
+2563/04/04 13:58:15  >>  AllDevicesConnected
+2563/04/04 13:58:15  >>  Authenticate
+2563/04/04 13:58:16  >>  Authenticate
+2563/04/04 13:58:16  >>  Authenticate
+2563/04/04 13:58:16  >>  Authenticate
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:16  >>  AuthNotify
+2563/04/04 13:58:17  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 13:58:17  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 13:58:17  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 13:58:17  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 14:13:33  >>  SurfOpenly Application Initialized
+2563/04/04 14:15:43  >>  OpenPort
+2563/04/04 14:15:43  >>  PortOpened
+2563/04/04 14:15:43  >>  ConnectDevice
+2563/04/04 14:15:43  >>  DeviceConnected
+2563/04/04 14:15:43  >>  AllDevicesConnected
+2563/04/04 14:15:43  >>  Authenticate
+2563/04/04 14:15:43  >>  AuthNotify
+2563/04/04 14:15:43  >>  AuthNotify
+2563/04/04 14:15:44  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 14:16:00  >>  OpenPort
+2563/04/04 14:16:00  >>  OpenPort
+2563/04/04 14:16:00  >>  PortOpened
+2563/04/04 14:16:00  >>  PortOpened
+2563/04/04 14:16:00  >>  ConnectDevice
+2563/04/04 14:16:00  >>  ConnectDevice
+2563/04/04 14:16:00  >>  DeviceConnected
+2563/04/04 14:16:00  >>  DeviceConnected
+2563/04/04 14:16:00  >>  AllDevicesConnected
+2563/04/04 14:16:00  >>  AllDevicesConnected
+2563/04/04 14:16:00  >>  Authenticate
+2563/04/04 14:16:00  >>  Authenticate
+2563/04/04 14:16:00  >>  AuthNotify
+2563/04/04 14:16:01  >>  AuthNotify
+2563/04/04 14:16:01  >>  AuthNotify
+2563/04/04 14:16:01  >>  AuthNotify
+2563/04/04 14:16:02  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 14:16:02  >>  DotRas.RasDialException: The connection was closed by the remote computer.
+2563/04/04 14:26:17  >>  Connection  interrupted and disconnected externally
+2563/04/04 14:26:28  >>  OpenPort
+2563/04/04 14:26:28  >>  OpenPort
+2563/04/04 14:26:28  >>  OpenPort
+2563/04/04 14:26:28  >>  PortOpened
+2563/04/04 14:26:28  >>  PortOpened
+2563/04/04 14:26:28  >>  PortOpened
+2563/04/04 14:26:28  >>  ConnectDevice
+2563/04/04 14:26:28  >>  ConnectDevice
+2563/04/04 14:26:28  >>  ConnectDevice
+2563/04/04 14:26:28  >>  DeviceConnected
+2563/04/04 14:26:28  >>  DeviceConnected
+2563/04/04 14:26:28  >>  DeviceConnected
+2563/04/04 14:26:28  >>  AllDevicesConnected
+2563/04/04 14:26:28  >>  AllDevicesConnected
+2563/04/04 14:26:28  >>  AllDevicesConnected
+2563/04/04 14:26:28  >>  Authenticate
+2563/04/04 14:26:28  >>  Authenticate
+2563/04/04 14:26:28  >>  Authenticate
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  AuthProject
+2563/04/04 14:26:28  >>  AuthProject
+2563/04/04 14:26:28  >>  AuthProject
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  AuthNotify
+2563/04/04 14:26:28  >>  Projected
+2563/04/04 14:26:28  >>  Projected
+2563/04/04 14:26:28  >>  Projected
+2563/04/04 14:26:29  >>  AuthNotify
+2563/04/04 14:26:29  >>  AuthNotify
+2563/04/04 14:26:29  >>  AuthNotify
+2563/04/04 14:26:29  >>  Authenticated
+2563/04/04 14:26:29  >>  Authenticated
+2563/04/04 14:26:29  >>  Authenticated
+2563/04/04 14:26:29  >>  ApplySettings
+2563/04/04 14:26:29  >>  ApplySettings
+2563/04/04 14:26:29  >>  ApplySettings
+2563/04/04 14:26:29  >>  Connected
+2563/04/04 14:26:29  >>  Connected
+2563/04/04 14:26:29  >>  Connected
+2563/04/04 14:26:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:26:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:26:29  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:27:03  >>  Trying to disconnect a connection
+2563/04/04 14:27:05  >>  Successfully diconnected live connection
+2563/04/04 14:27:48  >>  OpenPort
+2563/04/04 14:27:48  >>  OpenPort
+2563/04/04 14:27:48  >>  OpenPort
+2563/04/04 14:27:48  >>  OpenPort
+2563/04/04 14:27:48  >>  PortOpened
+2563/04/04 14:27:48  >>  PortOpened
+2563/04/04 14:27:48  >>  PortOpened
+2563/04/04 14:27:48  >>  PortOpened
+2563/04/04 14:27:48  >>  ConnectDevice
+2563/04/04 14:27:48  >>  ConnectDevice
+2563/04/04 14:27:48  >>  ConnectDevice
+2563/04/04 14:27:48  >>  ConnectDevice
+2563/04/04 14:27:48  >>  DeviceConnected
+2563/04/04 14:27:48  >>  DeviceConnected
+2563/04/04 14:27:48  >>  DeviceConnected
+2563/04/04 14:27:48  >>  DeviceConnected
+2563/04/04 14:27:48  >>  AllDevicesConnected
+2563/04/04 14:27:48  >>  AllDevicesConnected
+2563/04/04 14:27:48  >>  AllDevicesConnected
+2563/04/04 14:27:48  >>  AllDevicesConnected
+2563/04/04 14:27:48  >>  Authenticate
+2563/04/04 14:27:48  >>  Authenticate
+2563/04/04 14:27:48  >>  Authenticate
+2563/04/04 14:27:48  >>  Authenticate
+2563/04/04 14:27:48  >>  AuthNotify
+2563/04/04 14:27:48  >>  AuthNotify
+2563/04/04 14:27:48  >>  AuthNotify
+2563/04/04 14:27:48  >>  AuthNotify
+2563/04/04 14:27:48  >>  AuthProject
+2563/04/04 14:27:48  >>  AuthProject
+2563/04/04 14:27:48  >>  AuthProject
+2563/04/04 14:27:49  >>  AuthProject
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  Projected
+2563/04/04 14:27:49  >>  Projected
+2563/04/04 14:27:49  >>  Projected
+2563/04/04 14:27:49  >>  Projected
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  AuthNotify
+2563/04/04 14:27:49  >>  Authenticated
+2563/04/04 14:27:49  >>  Authenticated
+2563/04/04 14:27:49  >>  Authenticated
+2563/04/04 14:27:49  >>  Authenticated
+2563/04/04 14:27:49  >>  ApplySettings
+2563/04/04 14:27:49  >>  ApplySettings
+2563/04/04 14:27:49  >>  ApplySettings
+2563/04/04 14:27:49  >>  ApplySettings
+2563/04/04 14:27:49  >>  Connected
+2563/04/04 14:27:49  >>  Connected
+2563/04/04 14:27:49  >>  Connected
+2563/04/04 14:27:49  >>  Connected
+2563/04/04 14:27:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:27:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:27:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:27:49  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:20  >>  Connection  interrupted and disconnected externally
+2563/04/04 14:28:50  >>  OpenPort
+2563/04/04 14:28:50  >>  OpenPort
+2563/04/04 14:28:50  >>  OpenPort
+2563/04/04 14:28:50  >>  OpenPort
+2563/04/04 14:28:50  >>  OpenPort
+2563/04/04 14:28:51  >>  PortOpened
+2563/04/04 14:28:51  >>  PortOpened
+2563/04/04 14:28:51  >>  PortOpened
+2563/04/04 14:28:51  >>  PortOpened
+2563/04/04 14:28:51  >>  PortOpened
+2563/04/04 14:28:51  >>  ConnectDevice
+2563/04/04 14:28:51  >>  ConnectDevice
+2563/04/04 14:28:51  >>  ConnectDevice
+2563/04/04 14:28:51  >>  ConnectDevice
+2563/04/04 14:28:51  >>  ConnectDevice
+2563/04/04 14:28:51  >>  DeviceConnected
+2563/04/04 14:28:51  >>  DeviceConnected
+2563/04/04 14:28:51  >>  DeviceConnected
+2563/04/04 14:28:51  >>  DeviceConnected
+2563/04/04 14:28:51  >>  DeviceConnected
+2563/04/04 14:28:51  >>  AllDevicesConnected
+2563/04/04 14:28:51  >>  AllDevicesConnected
+2563/04/04 14:28:51  >>  AllDevicesConnected
+2563/04/04 14:28:51  >>  AllDevicesConnected
+2563/04/04 14:28:51  >>  AllDevicesConnected
+2563/04/04 14:28:51  >>  Authenticate
+2563/04/04 14:28:51  >>  Authenticate
+2563/04/04 14:28:51  >>  Authenticate
+2563/04/04 14:28:51  >>  Authenticate
+2563/04/04 14:28:51  >>  Authenticate
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthProject
+2563/04/04 14:28:51  >>  AuthProject
+2563/04/04 14:28:51  >>  AuthProject
+2563/04/04 14:28:51  >>  AuthProject
+2563/04/04 14:28:51  >>  AuthProject
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  AuthNotify
+2563/04/04 14:28:51  >>  Projected
+2563/04/04 14:28:51  >>  Projected
+2563/04/04 14:28:51  >>  Projected
+2563/04/04 14:28:51  >>  Projected
+2563/04/04 14:28:52  >>  Projected
+2563/04/04 14:28:52  >>  AuthNotify
+2563/04/04 14:28:52  >>  AuthNotify
+2563/04/04 14:28:52  >>  AuthNotify
+2563/04/04 14:28:52  >>  AuthNotify
+2563/04/04 14:28:52  >>  AuthNotify
+2563/04/04 14:28:52  >>  Authenticated
+2563/04/04 14:28:52  >>  Authenticated
+2563/04/04 14:28:52  >>  Authenticated
+2563/04/04 14:28:52  >>  Authenticated
+2563/04/04 14:28:52  >>  Authenticated
+2563/04/04 14:28:52  >>  ApplySettings
+2563/04/04 14:28:52  >>  ApplySettings
+2563/04/04 14:28:52  >>  ApplySettings
+2563/04/04 14:28:52  >>  ApplySettings
+2563/04/04 14:28:52  >>  ApplySettings
+2563/04/04 14:28:52  >>  Connected
+2563/04/04 14:28:52  >>  Connected
+2563/04/04 14:28:52  >>  Connected
+2563/04/04 14:28:52  >>  Connected
+2563/04/04 14:28:52  >>  Connected
+2563/04/04 14:28:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:52  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:28:56  >>  Trying to disconnect a connection
+2563/04/04 14:28:57  >>  Successfully diconnected live connection
+2563/04/04 14:31:08  >>  SurfOpenly Application Initialized
+2563/04/04 14:31:23  >>  SurfOpenly Application Initialized
+2563/04/04 14:31:27  >>  OpenPort
+2563/04/04 14:31:27  >>  PortOpened
+2563/04/04 14:31:27  >>  ConnectDevice
+2563/04/04 14:31:27  >>  DeviceConnected
+2563/04/04 14:31:27  >>  AllDevicesConnected
+2563/04/04 14:31:27  >>  Authenticate
+2563/04/04 14:31:27  >>  AuthNotify
+2563/04/04 14:31:27  >>  AuthProject
+2563/04/04 14:31:28  >>  AuthNotify
+2563/04/04 14:31:28  >>  Projected
+2563/04/04 14:31:28  >>  AuthNotify
+2563/04/04 14:31:28  >>  Authenticated
+2563/04/04 14:31:28  >>  ApplySettings
+2563/04/04 14:31:28  >>  Connected
+2563/04/04 14:31:28  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test1) and Password: (123456) and Pre-Shared Key: (None)
+2563/04/04 14:31:31  >>  Trying to disconnect a connection
+2563/04/04 14:31:34  >>  Successfully diconnected live connection
