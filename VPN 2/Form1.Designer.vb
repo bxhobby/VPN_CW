@@ -25,7 +25,12 @@ Partial Class frmVPN
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmVPN))
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
+        Me.ctxMenuSystray = New System.Windows.Forms.ContextMenuStrip(Me.components)
+        Me.ShowToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.frmVPNConnector = New VPN_2.FormSkin()
+        Me.FlatClose1 = New VPN_2.FlatClose()
         Me.lblStatus = New VPN_2.FlatLabel()
         Me.chkProgramStart = New VPN_2.FlatCheckBox()
         Me.FlatMini1 = New VPN_2.FlatMini()
@@ -45,12 +50,39 @@ Partial Class frmVPN
         Me.FlatLabel1 = New VPN_2.FlatLabel()
         Me.btnDisconnect = New VPN_2.FlatButton()
         Me.btnConnect = New VPN_2.FlatButton()
-        Me.FlatClose1 = New VPN_2.FlatClose()
+        Me.ctxMenuSystray.SuspendLayout()
         Me.frmVPNConnector.SuspendLayout()
         Me.SuspendLayout()
         '
         'Timer1
         '
+        '
+        'NotifyIcon1
+        '
+        Me.NotifyIcon1.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info
+        Me.NotifyIcon1.BalloonTipText = "CW VPN is Running in BackGround"
+        Me.NotifyIcon1.BalloonTipTitle = "CW VPN"
+        Me.NotifyIcon1.Icon = CType(resources.GetObject("NotifyIcon1.Icon"), System.Drawing.Icon)
+        Me.NotifyIcon1.Text = "CW VPN"
+        Me.NotifyIcon1.Visible = True
+        '
+        'ctxMenuSystray
+        '
+        Me.ctxMenuSystray.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ShowToolStripMenuItem, Me.ExitToolStripMenuItem})
+        Me.ctxMenuSystray.Name = "ContextMenuStrip1"
+        Me.ctxMenuSystray.Size = New System.Drawing.Size(104, 48)
+        '
+        'ShowToolStripMenuItem
+        '
+        Me.ShowToolStripMenuItem.Name = "ShowToolStripMenuItem"
+        Me.ShowToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
+        Me.ShowToolStripMenuItem.Text = "Show"
+        '
+        'ExitToolStripMenuItem
+        '
+        Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'frmVPNConnector
         '
@@ -87,6 +119,19 @@ Partial Class frmVPN
         Me.frmVPNConnector.Size = New System.Drawing.Size(514, 383)
         Me.frmVPNConnector.TabIndex = 0
         Me.frmVPNConnector.Text = "VPN CONNECT"
+        '
+        'FlatClose1
+        '
+        Me.FlatClose1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.FlatClose1.BackColor = System.Drawing.Color.White
+        Me.FlatClose1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer))
+        Me.FlatClose1.Font = New System.Drawing.Font("Marlett", 12.0!)
+        Me.FlatClose1.Location = New System.Drawing.Point(491, 3)
+        Me.FlatClose1.Name = "FlatClose1"
+        Me.FlatClose1.Size = New System.Drawing.Size(18, 18)
+        Me.FlatClose1.TabIndex = 20
+        Me.FlatClose1.Text = "FlatClose1"
+        Me.FlatClose1.TextColor = System.Drawing.Color.FromArgb(CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer))
         '
         'lblStatus
         '
@@ -345,19 +390,6 @@ Partial Class frmVPN
         Me.btnConnect.Text = "Connect"
         Me.btnConnect.TextColor = System.Drawing.Color.FromArgb(CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer))
         '
-        'FlatClose1
-        '
-        Me.FlatClose1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.FlatClose1.BackColor = System.Drawing.Color.White
-        Me.FlatClose1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer))
-        Me.FlatClose1.Font = New System.Drawing.Font("Marlett", 12.0!)
-        Me.FlatClose1.Location = New System.Drawing.Point(491, 3)
-        Me.FlatClose1.Name = "FlatClose1"
-        Me.FlatClose1.Size = New System.Drawing.Size(18, 18)
-        Me.FlatClose1.TabIndex = 20
-        Me.FlatClose1.Text = "FlatClose1"
-        Me.FlatClose1.TextColor = System.Drawing.Color.FromArgb(CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer), CType(CType(220, Byte), Integer))
-        '
         'frmVPN
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -370,6 +402,7 @@ Partial Class frmVPN
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "VPN"
         Me.TransparencyKey = System.Drawing.Color.Fuchsia
+        Me.ctxMenuSystray.ResumeLayout(False)
         Me.frmVPNConnector.ResumeLayout(False)
         Me.frmVPNConnector.PerformLayout()
         Me.ResumeLayout(False)
@@ -398,4 +431,8 @@ Partial Class frmVPN
     Friend WithEvents chkProgramStart As FlatCheckBox
     Friend WithEvents lblStatus As FlatLabel
     Friend WithEvents FlatClose1 As FlatClose
+    Friend WithEvents NotifyIcon1 As NotifyIcon
+    Friend WithEvents ctxMenuSystray As ContextMenuStrip
+    Friend WithEvents ShowToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ExitToolStripMenuItem As ToolStripMenuItem
 End Class

@@ -1,8 +1,4 @@
-﻿Imports System
-Imports System.Windows
-Imports System.Windows.Threading
-
-Imports DotRas
+﻿Imports DotRas
 Public Class frmVPN
     Dim candrag As Boolean = True 'Used in dragging the borderless form, True mean we can drag the form anywhere
     Dim phonebook As RasPhoneBook = New RasPhoneBook 'This phonebook holds the entires to connect. From details host/server, username, password, pre-shared key a phonebook entry is formed which is dialed for connection.
@@ -29,6 +25,7 @@ Public Class frmVPN
         End If
     End Sub
 
+    <Obsolete>
     Private Sub btnConnect_Click(sender As Object, e As EventArgs) Handles btnConnect.Click
         'User must fill the empty fields.
         If txtHost.Text = String.Empty Or txtUserName.Text = String.Empty Or txtPassword.Text = String.Empty Then
@@ -109,7 +106,8 @@ Public Class frmVPN
 
         Dim regKey As Microsoft.Win32.RegistryKey
         Dim KeyName As String = "CW_VPN"
-        Dim KeyValue As String = My.Application.Info.DirectoryPath + "\VPN 2.exe"
+        'Dim KeyValue As String = My.Application.Info.DirectoryPath + "\VPN 2.exe"
+        Dim exeName As String = System.IO.Path.GetFileName(My.Application.Info.ProductName)
 
         regKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Run", True)
 
@@ -117,7 +115,7 @@ Public Class frmVPN
         If OnWindowsStart Then
             Dim c = regKey.GetValue(KeyName)
             If (regKey.GetValue(KeyName) = Nothing) Then
-                regKey.SetValue(KeyName, KeyValue, Microsoft.Win32.RegistryValueKind.String)
+                regKey.SetValue(KeyName, exeName, Microsoft.Win32.RegistryValueKind.String)
             End If
         ElseIf (OnWindowsStart = False) Then
             If regKey.GetValue(KeyName) IsNot Nothing Then
@@ -128,6 +126,7 @@ Public Class frmVPN
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
         'Last time saved values of connection, with which a successful connection was established, are resotred back to fields,
         txtHost.Text = My.Settings.Host
         txtUserName.Text = My.Settings.User
@@ -327,13 +326,36 @@ Public Class frmVPN
     End Sub
 
     Private Sub FlatClose1_Click(sender As Object, e As EventArgs) Handles FlatClose1.Click
-        Dim message As String =
-        "Are you sure that you would like to close the form?"
-        Dim caption As String = "Form Closing"
-        Dim result = MessageBox.Show(message, caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question)
-        ' If the no button was pressed ...
-        If (result = DialogResult.Yes) Then
-            Application.Exit()
+        'Dim message As String =
+        '"Are you sure that you would like to close the form?"
+        'Dim caption As String = "Form Closing"
+        'Dim result = MessageBox.Show(message, caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+        '' If the no button was pressed ...
+        'If (result = DialogResult.Yes) Then
+        '    Application.Exit()
+        'End If
+
+        Me.Hide()
+        Me.WindowState = FormWindowState.Minimized
+        NotifyIcon1.ContextMenuStrip = Me.ctxMenuSystray
+        NotifyIcon1.Visible = True
+        NotifyIcon1.ShowBalloonTip(1000)
+    End Sub
+
+    Private Sub NotifyIcon1_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles NotifyIcon1.MouseDoubleClick
+        Me.Show()
+        Me.WindowState = FormWindowState.Normal
+    End Sub
+
+    Private Sub ShowToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ShowToolStripMenuItem.Click
+        Show()
+        NotifyIcon1.Visible = False
+        Me.WindowState = FormWindowState.Normal
+    End Sub
+
+    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
+        If Me.WindowState = FormWindowState.Minimized Then
+            Me.Close()
         End If
     End Sub
 End Class

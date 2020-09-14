@@ -3915,3 +3915,30 @@
 2563/09/02 19:24:57  >>  SurfOpenly Application Initialized
 2563/09/02 19:29:05  >>  SurfOpenly Application Initialized
 2563/09/02 19:29:13  >>  SurfOpenly Application Initialized
+2563/09/11 18:27:48  >>  SurfOpenly Application Initialized
+2563/09/12 11:03:25  >>  SurfOpenly Application Initialized
+2563/09/12 11:03:34  >>  OpenPort
+2563/09/12 11:03:34  >>  PortOpened
+2563/09/12 11:03:34  >>  ConnectDevice
+2563/09/12 11:03:34  >>  DeviceConnected
+2563/09/12 11:03:34  >>  AllDevicesConnected
+2563/09/12 11:03:34  >>  Authenticate
+2563/09/12 11:03:34  >>  AuthNotify
+2563/09/12 11:03:34  >>  AuthProject
+2563/09/12 11:03:34  >>  AuthNotify
+2563/09/12 11:03:34  >>  Projected
+2563/09/12 11:03:34  >>  AuthNotify
+2563/09/12 11:03:34  >>  Authenticated
+2563/09/12 11:03:34  >>  ApplySettings
+2563/09/12 11:03:34  >>  Connected
+2563/09/12 11:03:34  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/09/12 11:03:54  >>  Trying to disconnect a connection
+2563/09/12 11:03:55  >>  Successfully diconnected live connection
+2563/09/12 11:04:18  >>  OpenPort
+2563/09/12 11:06:28  >>  SurfOpenly Application Initialized
+2563/09/12 11:06:34  >>  Cannot delete a connection while it is connected.
+2563/09/14 15:58:59  >>  SurfOpenly Application Initialized
+2563/09/14 17:25:14  >>  SurfOpenly Application Initialized
+2563/09/14 17:37:15  >>  SurfOpenly Application Initialized
+2563/09/14 17:39:05  >>  SurfOpenly Application Initialized
+2563/09/14 17:40:40  >>  SurfOpenly Application Initialized
