@@ -1,4 +1,5 @@
 ﻿Imports DotRas
+
 Public Class frmVPN
     Dim candrag As Boolean = True 'Used in dragging the borderless form, True mean we can drag the form anywhere
     Dim phonebook As RasPhoneBook = New RasPhoneBook 'This phonebook holds the entires to connect. From details host/server, username, password, pre-shared key a phonebook entry is formed which is dialed for connection.
@@ -25,7 +26,7 @@ Public Class frmVPN
         End If
     End Sub
 
-    <Obsolete>
+
     Private Sub btnConnect_Click(sender As Object, e As EventArgs) Handles btnConnect.Click
         'User must fill the empty fields.
         If txtHost.Text = String.Empty Or txtUserName.Text = String.Empty Or txtPassword.Text = String.Empty Then

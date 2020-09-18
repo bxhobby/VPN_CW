@@ -1,5 +1,6 @@
 ﻿Imports System.Drawing.Drawing2D, System.ComponentModel, System.Windows.Forms
 
+
 Module Helpers
 
 #Region " Variables"
@@ -1638,10 +1639,14 @@ End Class
             TB.Copy()
             e.SuppressKeyPress = True
         End If
+        If e.Control AndAlso e.KeyCode = Keys.V Then
+            TB.Paste()
+            e.SuppressKeyPress = True
+        End If
     End Sub
     Private Sub OnBaseKeyPress(ByVal s As Object, ByVal e As KeyPressEventArgs)
         If Not (Asc(e.KeyChar) = 8) Then
-            Dim allowedChars As String = "abcdefghijklmnopqrstuvwxyz0123456789."
+            Dim allowedChars As String = "abcdefghijklmnopqrstuvwxyz0123456789.@:/"
             If Not allowedChars.Contains(e.KeyChar.ToString.ToLower) Then
                 e.KeyChar = ChrW(0)
                 e.Handled = True
@@ -1683,6 +1688,8 @@ End Class
             _TextColor = value
         End Set
     End Property
+
+    Public Property State As MouseState
 
 #End Region
 

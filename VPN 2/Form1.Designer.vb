@@ -81,7 +81,7 @@ Partial Class frmVPN
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'frmVPNConnector
@@ -226,7 +226,7 @@ Partial Class frmVPN
         '
         Me.txtPassword.BackColor = System.Drawing.Color.Transparent
         Me.txtPassword.Location = New System.Drawing.Point(275, 139)
-        Me.txtPassword.MaxLength = 32767
+        Me.txtPassword.MaxLength = 1000
         Me.txtPassword.Multiline = False
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.ReadOnly = False
@@ -240,7 +240,7 @@ Partial Class frmVPN
         '
         Me.txtUserName.BackColor = System.Drawing.Color.Transparent
         Me.txtUserName.Location = New System.Drawing.Point(33, 139)
-        Me.txtUserName.MaxLength = 32767
+        Me.txtUserName.MaxLength = 1000
         Me.txtUserName.Multiline = False
         Me.txtUserName.Name = "txtUserName"
         Me.txtUserName.ReadOnly = False
@@ -254,7 +254,7 @@ Partial Class frmVPN
         '
         Me.txtPresharedKey.BackColor = System.Drawing.Color.Transparent
         Me.txtPresharedKey.Location = New System.Drawing.Point(275, 78)
-        Me.txtPresharedKey.MaxLength = 32767
+        Me.txtPresharedKey.MaxLength = 1000
         Me.txtPresharedKey.Multiline = False
         Me.txtPresharedKey.Name = "txtPresharedKey"
         Me.txtPresharedKey.ReadOnly = False
@@ -268,7 +268,7 @@ Partial Class frmVPN
         '
         Me.txtHost.BackColor = System.Drawing.Color.Transparent
         Me.txtHost.Location = New System.Drawing.Point(33, 78)
-        Me.txtHost.MaxLength = 32767
+        Me.txtHost.MaxLength = 1000
         Me.txtHost.Multiline = False
         Me.txtHost.Name = "txtHost"
         Me.txtHost.ReadOnly = False
