@@ -13,6 +13,12 @@ Public Class frmVPN
     Dim tempPSKEY As String 'It holds the pre-shared key, used to write log file.
     Dim intDisconnected As Boolean = False 'If false then indicates that connection is disconnected by exteral factors like internet connection lost.
     Dim status_con As Boolean = False
+    Dim regKey As Microsoft.Win32.RegistryKey
+    Dim KeyName As String = "CW_VPN"
+    Dim KeyPath As String = My.Application.Info.DirectoryPath
+    Dim exeName As String = Path.GetFileName(Application.ExecutablePath)
+
+
 
     '// การนับเวลา
     Private TimeCounter As Integer
@@ -107,14 +113,9 @@ Public Class frmVPN
             'MsgBox("Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.", MsgBoxStyle.Critical, "Connection Error")
         End If
 
-        Dim regKey As Microsoft.Win32.RegistryKey
-        Dim KeyName As String = "CW_VPN"
-        Dim KeyPath As String = My.Application.Info.DirectoryPath
-        Dim exeName As String = Path.GetFileName(Application.ExecutablePath)
 
+        Dim OnWindowsStart As Boolean = chkStartup.Checked
         regKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Run", True)
-
-        Dim OnWindowsStart As Boolean = My.Settings.Startup
         If OnWindowsStart Then
             If (regKey.GetValue(KeyName) = Nothing) Then
                 regKey.SetValue(KeyName, KeyPath + "\" + exeName, Microsoft.Win32.RegistryValueKind.String)
@@ -129,6 +130,10 @@ Public Class frmVPN
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+        ' check aleady program on start
+        If (System.Diagnostics.Process.GetProcessesByName(System.IO.Path.GetFileNameWithoutExtension(System.Reflection.Assembly.GetEntryAssembly().Location)).Count() > 1) Then
+            System.Diagnostics.Process.GetCurrentProcess().Kill()
+        End If
 
         'Last time saved values of connection, with which a successful connection was established, are resotred back to fields,
         txtHost.Text = My.Settings.Host
@@ -361,4 +366,6 @@ Public Class frmVPN
             Me.Close()
         End If
     End Sub
+
+
 End Class

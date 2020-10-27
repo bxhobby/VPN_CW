@@ -29,27 +29,27 @@ Partial Class frmVPN
         Me.ctxMenuSystray = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.ShowToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.frmVPNConnector = New VPN_2.FormSkin()
-        Me.FlatClose1 = New VPN_2.FlatClose()
-        Me.lblStatus = New VPN_2.FlatLabel()
-        Me.chkProgramStart = New VPN_2.FlatCheckBox()
-        Me.FlatMini1 = New VPN_2.FlatMini()
-        Me.chkStartup = New VPN_2.FlatCheckBox()
-        Me.cmbTimer = New VPN_2.FlatComboBox()
-        Me.cmbProtocal = New VPN_2.FlatComboBox()
-        Me.txtPassword = New VPN_2.FlatTextBox()
-        Me.txtUserName = New VPN_2.FlatTextBox()
-        Me.txtPresharedKey = New VPN_2.FlatTextBox()
-        Me.txtHost = New VPN_2.FlatTextBox()
-        Me.lblCounterTimer = New VPN_2.FlatLabel()
-        Me.FlatLabel6 = New VPN_2.FlatLabel()
-        Me.FlatLabel5 = New VPN_2.FlatLabel()
-        Me.FlatLabel4 = New VPN_2.FlatLabel()
-        Me.FlatLabel3 = New VPN_2.FlatLabel()
-        Me.FlatLabel2 = New VPN_2.FlatLabel()
-        Me.FlatLabel1 = New VPN_2.FlatLabel()
-        Me.btnDisconnect = New VPN_2.FlatButton()
-        Me.btnConnect = New VPN_2.FlatButton()
+        Me.frmVPNConnector = New CwVpn.FormSkin()
+        Me.FlatClose1 = New CwVpn.FlatClose()
+        Me.lblStatus = New CwVpn.FlatLabel()
+        Me.chkProgramStart = New CwVpn.FlatCheckBox()
+        Me.FlatMini1 = New CwVpn.FlatMini()
+        Me.chkStartup = New CwVpn.FlatCheckBox()
+        Me.cmbTimer = New CwVpn.FlatComboBox()
+        Me.cmbProtocal = New CwVpn.FlatComboBox()
+        Me.txtPassword = New CwVpn.FlatTextBox()
+        Me.txtUserName = New CwVpn.FlatTextBox()
+        Me.txtPresharedKey = New CwVpn.FlatTextBox()
+        Me.txtHost = New CwVpn.FlatTextBox()
+        Me.lblCounterTimer = New CwVpn.FlatLabel()
+        Me.FlatLabel6 = New CwVpn.FlatLabel()
+        Me.FlatLabel5 = New CwVpn.FlatLabel()
+        Me.FlatLabel4 = New CwVpn.FlatLabel()
+        Me.FlatLabel3 = New CwVpn.FlatLabel()
+        Me.FlatLabel2 = New CwVpn.FlatLabel()
+        Me.FlatLabel1 = New CwVpn.FlatLabel()
+        Me.btnDisconnect = New CwVpn.FlatButton()
+        Me.btnConnect = New CwVpn.FlatButton()
         Me.ctxMenuSystray.SuspendLayout()
         Me.frmVPNConnector.SuspendLayout()
         Me.SuspendLayout()
@@ -155,9 +155,9 @@ Partial Class frmVPN
         Me.chkProgramStart.Font = New System.Drawing.Font("Segoe UI", 10.0!)
         Me.chkProgramStart.Location = New System.Drawing.Point(33, 273)
         Me.chkProgramStart.Name = "chkProgramStart"
-        Me.chkProgramStart.Options = VPN_2.FlatCheckBox._Options.Style1
+        Me.chkProgramStart.Options = CwVpn.FlatCheckBox._Options.Style1
         Me.chkProgramStart.Size = New System.Drawing.Size(165, 22)
-        Me.chkProgramStart.TabIndex = 18
+        Me.chkProgramStart.TabIndex = 4
         Me.chkProgramStart.Text = "Run On Program Startup"
         '
         'FlatMini1
@@ -183,9 +183,9 @@ Partial Class frmVPN
         Me.chkStartup.Font = New System.Drawing.Font("Segoe UI", 10.0!)
         Me.chkStartup.Location = New System.Drawing.Point(33, 245)
         Me.chkStartup.Name = "chkStartup"
-        Me.chkStartup.Options = VPN_2.FlatCheckBox._Options.Style1
+        Me.chkStartup.Options = CwVpn.FlatCheckBox._Options.Style1
         Me.chkStartup.Size = New System.Drawing.Size(174, 22)
-        Me.chkStartup.TabIndex = 15
+        Me.chkStartup.TabIndex = 3
         Me.chkStartup.Text = "Run On Windows Startup"
         '
         'cmbTimer
@@ -220,7 +220,7 @@ Partial Class frmVPN
         Me.cmbProtocal.Location = New System.Drawing.Point(33, 202)
         Me.cmbProtocal.Name = "cmbProtocal"
         Me.cmbProtocal.Size = New System.Drawing.Size(121, 24)
-        Me.cmbProtocal.TabIndex = 13
+        Me.cmbProtocal.TabIndex = 3
         '
         'txtPassword
         '
@@ -231,7 +231,8 @@ Partial Class frmVPN
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.ReadOnly = False
         Me.txtPassword.Size = New System.Drawing.Size(210, 29)
-        Me.txtPassword.TabIndex = 12
+        Me.txtPassword.State = CwVpn.MouseState.None
+        Me.txtPassword.TabIndex = 2
         Me.txtPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
         Me.txtPassword.TextColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.txtPassword.UseSystemPasswordChar = True
@@ -245,7 +246,8 @@ Partial Class frmVPN
         Me.txtUserName.Name = "txtUserName"
         Me.txtUserName.ReadOnly = False
         Me.txtUserName.Size = New System.Drawing.Size(210, 29)
-        Me.txtUserName.TabIndex = 11
+        Me.txtUserName.State = CwVpn.MouseState.None
+        Me.txtUserName.TabIndex = 1
         Me.txtUserName.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
         Me.txtUserName.TextColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.txtUserName.UseSystemPasswordChar = False
@@ -259,6 +261,7 @@ Partial Class frmVPN
         Me.txtPresharedKey.Name = "txtPresharedKey"
         Me.txtPresharedKey.ReadOnly = False
         Me.txtPresharedKey.Size = New System.Drawing.Size(210, 29)
+        Me.txtPresharedKey.State = CwVpn.MouseState.None
         Me.txtPresharedKey.TabIndex = 10
         Me.txtPresharedKey.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
         Me.txtPresharedKey.TextColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -273,7 +276,8 @@ Partial Class frmVPN
         Me.txtHost.Name = "txtHost"
         Me.txtHost.ReadOnly = False
         Me.txtHost.Size = New System.Drawing.Size(210, 29)
-        Me.txtHost.TabIndex = 9
+        Me.txtHost.State = CwVpn.MouseState.None
+        Me.txtHost.TabIndex = 0
         Me.txtHost.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
         Me.txtHost.TextColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.txtHost.UseSystemPasswordChar = False
@@ -372,7 +376,7 @@ Partial Class frmVPN
         Me.btnDisconnect.Name = "btnDisconnect"
         Me.btnDisconnect.Rounded = False
         Me.btnDisconnect.Size = New System.Drawing.Size(106, 32)
-        Me.btnDisconnect.TabIndex = 1
+        Me.btnDisconnect.TabIndex = 6
         Me.btnDisconnect.Text = "Disconnect"
         Me.btnDisconnect.TextColor = System.Drawing.Color.FromArgb(CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer))
         '
@@ -386,7 +390,7 @@ Partial Class frmVPN
         Me.btnConnect.Name = "btnConnect"
         Me.btnConnect.Rounded = False
         Me.btnConnect.Size = New System.Drawing.Size(106, 32)
-        Me.btnConnect.TabIndex = 0
+        Me.btnConnect.TabIndex = 5
         Me.btnConnect.Text = "Connect"
         Me.btnConnect.TextColor = System.Drawing.Color.FromArgb(CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer))
         '

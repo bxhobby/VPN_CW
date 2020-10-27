@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VPN 2", "VPN 2\VPN 2.vbproj", "{5BCA3498-C6F3-4D4D-A7AA-8897641A3807}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CwVpn", "VPN 2\CwVpn.vbproj", "{5BCA3498-C6F3-4D4D-A7AA-8897641A3807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6668ACE2-1D06-42D7-B698-12D3E5EF90CD}
 	EndGlobalSection
 EndGlobal

@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.VPN_2.frmVPN
+            Me.MainForm = Global.CwVpn.frmVPN
         End Sub
     End Class
 End Namespace
