@@ -1,4 +1,6 @@
 ﻿Imports DotRas
+Imports System.IO
+
 
 Public Class frmVPN
     Dim candrag As Boolean = True 'Used in dragging the borderless form, True mean we can drag the form anywhere
@@ -107,16 +109,15 @@ Public Class frmVPN
 
         Dim regKey As Microsoft.Win32.RegistryKey
         Dim KeyName As String = "CW_VPN"
-        'Dim KeyValue As String = My.Application.Info.DirectoryPath + "\VPN 2.exe"
-        Dim exeName As String = System.IO.Path.GetFileName(My.Application.Info.ProductName)
+        Dim KeyPath As String = My.Application.Info.DirectoryPath
+        Dim exeName As String = Path.GetFileName(Application.ExecutablePath)
 
         regKey = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Run", True)
 
         Dim OnWindowsStart As Boolean = My.Settings.Startup
         If OnWindowsStart Then
-            Dim c = regKey.GetValue(KeyName)
             If (regKey.GetValue(KeyName) = Nothing) Then
-                regKey.SetValue(KeyName, exeName, Microsoft.Win32.RegistryValueKind.String)
+                regKey.SetValue(KeyName, KeyPath + "\" + exeName, Microsoft.Win32.RegistryValueKind.String)
             End If
         ElseIf (OnWindowsStart = False) Then
             If regKey.GetValue(KeyName) IsNot Nothing Then
@@ -127,6 +128,7 @@ Public Class frmVPN
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
 
         'Last time saved values of connection, with which a successful connection was established, are resotred back to fields,
         txtHost.Text = My.Settings.Host

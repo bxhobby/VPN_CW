@@ -16,3 +16,373 @@
 2563/09/18 10:20:10  >>  SurfOpenly Application Initialized
 2563/09/18 10:21:07  >>  SurfOpenly Application Initialized
 2563/09/18 10:42:44  >>  SurfOpenly Application Initialized
+2563/10/22 15:50:00  >>  SurfOpenly Application Initialized
+2563/10/22 15:52:15  >>  SurfOpenly Application Initialized
+2563/10/27 10:30:02  >>  SurfOpenly Application Initialized
+2563/10/27 10:30:19  >>  OpenPort
+2563/10/27 10:31:38  >>  PortOpened
+2563/10/27 10:32:19  >>  ConnectDevice
+2563/10/27 10:34:40  >>  DeviceConnected
+2563/10/27 10:34:45  >>  AllDevicesConnected
+2563/10/27 10:34:45  >>  Authenticate
+2563/10/27 10:34:48  >>  AuthNotify
+2563/10/27 10:34:48  >>  AuthProject
+2563/10/27 10:34:48  >>  AuthNotify
+2563/10/27 10:34:48  >>  Projected
+2563/10/27 10:34:48  >>  AuthNotify
+2563/10/27 10:34:48  >>  Authenticated
+2563/10/27 10:34:48  >>  ApplySettings
+2563/10/27 10:34:48  >>  Connected
+2563/10/27 10:34:48  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:36:58  >>  SurfOpenly Application Initialized
+2563/10/27 10:36:59  >>  Cannot delete a connection while it is connected.
+2563/10/27 10:38:20  >>  Cannot delete a connection while it is connected.
+2563/10/27 10:39:02  >>  Connection  interrupted and disconnected externally
+2563/10/27 10:42:06  >>  SurfOpenly Application Initialized
+2563/10/27 10:42:40  >>  OpenPort
+2563/10/27 10:42:40  >>  PortOpened
+2563/10/27 10:42:40  >>  ConnectDevice
+2563/10/27 10:42:40  >>  DeviceConnected
+2563/10/27 10:42:40  >>  AllDevicesConnected
+2563/10/27 10:42:40  >>  Authenticate
+2563/10/27 10:42:40  >>  AuthNotify
+2563/10/27 10:42:40  >>  AuthProject
+2563/10/27 10:42:40  >>  AuthNotify
+2563/10/27 10:42:40  >>  Projected
+2563/10/27 10:42:40  >>  AuthNotify
+2563/10/27 10:42:40  >>  Authenticated
+2563/10/27 10:42:40  >>  ApplySettings
+2563/10/27 10:42:40  >>  Connected
+2563/10/27 10:42:40  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:42:43  >>  Trying to disconnect a connection
+2563/10/27 10:42:44  >>  Successfully diconnected live connection
+2563/10/27 10:42:54  >>  OpenPort
+2563/10/27 10:42:56  >>  OpenPort
+2563/10/27 10:43:00  >>  PortOpened
+2563/10/27 10:43:00  >>  PortOpened
+2563/10/27 10:43:00  >>  ConnectDevice
+2563/10/27 10:43:00  >>  ConnectDevice
+2563/10/27 10:43:00  >>  DeviceConnected
+2563/10/27 10:43:00  >>  DeviceConnected
+2563/10/27 10:43:00  >>  AllDevicesConnected
+2563/10/27 10:43:00  >>  AllDevicesConnected
+2563/10/27 10:43:00  >>  Authenticate
+2563/10/27 10:43:00  >>  Authenticate
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  AuthProject
+2563/10/27 10:43:00  >>  AuthProject
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  Projected
+2563/10/27 10:43:00  >>  Projected
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  AuthNotify
+2563/10/27 10:43:00  >>  Authenticated
+2563/10/27 10:43:00  >>  Authenticated
+2563/10/27 10:43:00  >>  ApplySettings
+2563/10/27 10:43:00  >>  ApplySettings
+2563/10/27 10:43:00  >>  Connected
+2563/10/27 10:43:00  >>  Connected
+2563/10/27 10:43:00  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:43:00  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:43:43  >>  Trying to disconnect a connection
+2563/10/27 10:43:44  >>  Successfully diconnected live connection
+2563/10/27 10:47:11  >>  OpenPort
+2563/10/27 10:47:32  >>  OpenPort
+2563/10/27 10:47:41  >>  OpenPort
+2563/10/27 10:57:39  >>  SurfOpenly Application Initialized
+2563/10/27 10:57:40  >>  Cannot delete a connection while it is connected.
+2563/10/27 10:57:51  >>  Cannot delete a connection while it is connected.
+2563/10/27 10:58:23  >>  OpenPort
+2563/10/27 10:58:23  >>  OpenPort
+2563/10/27 10:58:23  >>  OpenPort
+2563/10/27 10:58:23  >>  PortOpened
+2563/10/27 10:58:23  >>  PortOpened
+2563/10/27 10:58:23  >>  PortOpened
+2563/10/27 10:58:23  >>  ConnectDevice
+2563/10/27 10:58:23  >>  ConnectDevice
+2563/10/27 10:58:23  >>  ConnectDevice
+2563/10/27 10:58:23  >>  DeviceConnected
+2563/10/27 10:58:23  >>  DeviceConnected
+2563/10/27 10:58:23  >>  DeviceConnected
+2563/10/27 10:58:23  >>  AllDevicesConnected
+2563/10/27 10:58:23  >>  AllDevicesConnected
+2563/10/27 10:58:23  >>  AllDevicesConnected
+2563/10/27 10:58:23  >>  Authenticate
+2563/10/27 10:58:23  >>  Authenticate
+2563/10/27 10:58:23  >>  Authenticate
+2563/10/27 10:58:23  >>  AuthNotify
+2563/10/27 10:58:23  >>  AuthNotify
+2563/10/27 10:58:23  >>  AuthNotify
+2563/10/27 10:58:23  >>  AuthProject
+2563/10/27 10:58:23  >>  AuthProject
+2563/10/27 10:58:24  >>  AuthProject
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  Projected
+2563/10/27 10:58:24  >>  Projected
+2563/10/27 10:58:24  >>  Projected
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  AuthNotify
+2563/10/27 10:58:24  >>  Authenticated
+2563/10/27 10:58:24  >>  Authenticated
+2563/10/27 10:58:24  >>  Authenticated
+2563/10/27 10:58:24  >>  ApplySettings
+2563/10/27 10:58:24  >>  ApplySettings
+2563/10/27 10:58:24  >>  ApplySettings
+2563/10/27 10:58:24  >>  Connected
+2563/10/27 10:58:24  >>  Connected
+2563/10/27 10:58:24  >>  Connected
+2563/10/27 10:58:24  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:58:24  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 10:58:24  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:05:19  >>  SurfOpenly Application Initialized
+2563/10/27 11:05:19  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:06:21  >>  Connection  interrupted and disconnected externally
+2563/10/27 11:06:33  >>  OpenPort
+2563/10/27 11:06:33  >>  OpenPort
+2563/10/27 11:06:33  >>  PortOpened
+2563/10/27 11:06:33  >>  PortOpened
+2563/10/27 11:06:33  >>  ConnectDevice
+2563/10/27 11:06:33  >>  ConnectDevice
+2563/10/27 11:06:33  >>  DeviceConnected
+2563/10/27 11:06:33  >>  DeviceConnected
+2563/10/27 11:06:33  >>  AllDevicesConnected
+2563/10/27 11:06:33  >>  AllDevicesConnected
+2563/10/27 11:06:33  >>  Authenticate
+2563/10/27 11:06:33  >>  Authenticate
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  AuthProject
+2563/10/27 11:06:33  >>  AuthProject
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  Projected
+2563/10/27 11:06:33  >>  Projected
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  AuthNotify
+2563/10/27 11:06:33  >>  Authenticated
+2563/10/27 11:06:33  >>  Authenticated
+2563/10/27 11:06:33  >>  ApplySettings
+2563/10/27 11:06:33  >>  ApplySettings
+2563/10/27 11:06:33  >>  Connected
+2563/10/27 11:06:33  >>  Connected
+2563/10/27 11:06:33  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:06:33  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:07:41  >>  Trying to disconnect a connection
+2563/10/27 11:07:42  >>  Successfully diconnected live connection
+2563/10/27 11:07:47  >>  OpenPort
+2563/10/27 11:07:48  >>  OpenPort
+2563/10/27 11:08:04  >>  OpenPort
+2563/10/27 11:08:09  >>  PortOpened
+2563/10/27 11:08:11  >>  PortOpened
+2563/10/27 11:08:15  >>  PortOpened
+2563/10/27 11:08:15  >>  ConnectDevice
+2563/10/27 11:08:15  >>  ConnectDevice
+2563/10/27 11:08:15  >>  ConnectDevice
+2563/10/27 11:08:15  >>  DeviceConnected
+2563/10/27 11:08:15  >>  DeviceConnected
+2563/10/27 11:08:15  >>  DeviceConnected
+2563/10/27 11:08:15  >>  AllDevicesConnected
+2563/10/27 11:08:15  >>  AllDevicesConnected
+2563/10/27 11:08:15  >>  AllDevicesConnected
+2563/10/27 11:08:15  >>  Authenticate
+2563/10/27 11:08:15  >>  Authenticate
+2563/10/27 11:08:15  >>  Authenticate
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthProject
+2563/10/27 11:08:15  >>  AuthProject
+2563/10/27 11:08:15  >>  AuthProject
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  Projected
+2563/10/27 11:08:15  >>  Projected
+2563/10/27 11:08:15  >>  Projected
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  AuthNotify
+2563/10/27 11:08:15  >>  Authenticated
+2563/10/27 11:08:15  >>  Authenticated
+2563/10/27 11:08:15  >>  Authenticated
+2563/10/27 11:08:15  >>  ApplySettings
+2563/10/27 11:08:15  >>  ApplySettings
+2563/10/27 11:08:15  >>  ApplySettings
+2563/10/27 11:08:15  >>  Connected
+2563/10/27 11:08:15  >>  Connected
+2563/10/27 11:08:15  >>  Connected
+2563/10/27 11:08:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:08:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:08:15  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:18:13  >>  SurfOpenly Application Initialized
+2563/10/27 11:18:35  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:19:27  >>  SurfOpenly Application Initialized
+2563/10/27 11:20:13  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:21:05  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:21:17  >>  Connection  interrupted and disconnected externally
+2563/10/27 11:21:28  >>  OpenPort
+2563/10/27 11:21:28  >>  OpenPort
+2563/10/27 11:21:28  >>  OpenPort
+2563/10/27 11:21:28  >>  PortOpened
+2563/10/27 11:21:28  >>  PortOpened
+2563/10/27 11:21:28  >>  PortOpened
+2563/10/27 11:21:28  >>  ConnectDevice
+2563/10/27 11:21:28  >>  ConnectDevice
+2563/10/27 11:21:28  >>  ConnectDevice
+2563/10/27 11:21:51  >>  ConnectDevice
+2563/10/27 11:21:51  >>  ConnectDevice
+2563/10/27 11:21:51  >>  ConnectDevice
+2563/10/27 11:21:52  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2563/10/27 11:21:52  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2563/10/27 11:21:52  >>  DotRas.RasDialException: Exception of type 'DotRas.RasDialException' was thrown.
+2563/10/27 11:21:56  >>  OpenPort
+2563/10/27 11:21:56  >>  OpenPort
+2563/10/27 11:21:56  >>  OpenPort
+2563/10/27 11:21:56  >>  OpenPort
+2563/10/27 11:21:56  >>  PortOpened
+2563/10/27 11:21:56  >>  PortOpened
+2563/10/27 11:21:56  >>  PortOpened
+2563/10/27 11:21:56  >>  PortOpened
+2563/10/27 11:21:56  >>  ConnectDevice
+2563/10/27 11:21:56  >>  ConnectDevice
+2563/10/27 11:21:56  >>  ConnectDevice
+2563/10/27 11:21:56  >>  ConnectDevice
+2563/10/27 11:21:56  >>  DeviceConnected
+2563/10/27 11:21:56  >>  DeviceConnected
+2563/10/27 11:21:56  >>  DeviceConnected
+2563/10/27 11:21:56  >>  DeviceConnected
+2563/10/27 11:21:56  >>  AllDevicesConnected
+2563/10/27 11:21:56  >>  AllDevicesConnected
+2563/10/27 11:21:56  >>  AllDevicesConnected
+2563/10/27 11:21:56  >>  AllDevicesConnected
+2563/10/27 11:21:56  >>  Authenticate
+2563/10/27 11:21:56  >>  Authenticate
+2563/10/27 11:21:56  >>  Authenticate
+2563/10/27 11:21:56  >>  Authenticate
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthProject
+2563/10/27 11:21:56  >>  AuthProject
+2563/10/27 11:21:56  >>  AuthProject
+2563/10/27 11:21:56  >>  AuthProject
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  Projected
+2563/10/27 11:21:56  >>  Projected
+2563/10/27 11:21:56  >>  Projected
+2563/10/27 11:21:56  >>  Projected
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  AuthNotify
+2563/10/27 11:21:56  >>  Authenticated
+2563/10/27 11:21:56  >>  Authenticated
+2563/10/27 11:21:56  >>  Authenticated
+2563/10/27 11:21:56  >>  Authenticated
+2563/10/27 11:21:56  >>  ApplySettings
+2563/10/27 11:21:56  >>  ApplySettings
+2563/10/27 11:21:56  >>  ApplySettings
+2563/10/27 11:21:56  >>  ApplySettings
+2563/10/27 11:21:56  >>  Connected
+2563/10/27 11:21:56  >>  Connected
+2563/10/27 11:21:56  >>  Connected
+2563/10/27 11:21:56  >>  Connected
+2563/10/27 11:21:56  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:21:56  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:21:56  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:21:56  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:10  >>  Trying to disconnect a connection
+2563/10/27 11:22:12  >>  Successfully diconnected live connection
+2563/10/27 11:22:14  >>  OpenPort
+2563/10/27 11:22:14  >>  OpenPort
+2563/10/27 11:22:14  >>  OpenPort
+2563/10/27 11:22:14  >>  OpenPort
+2563/10/27 11:22:14  >>  OpenPort
+2563/10/27 11:22:14  >>  PortOpened
+2563/10/27 11:22:14  >>  PortOpened
+2563/10/27 11:22:14  >>  PortOpened
+2563/10/27 11:22:14  >>  PortOpened
+2563/10/27 11:22:14  >>  PortOpened
+2563/10/27 11:22:14  >>  ConnectDevice
+2563/10/27 11:22:14  >>  ConnectDevice
+2563/10/27 11:22:14  >>  ConnectDevice
+2563/10/27 11:22:14  >>  ConnectDevice
+2563/10/27 11:22:14  >>  ConnectDevice
+2563/10/27 11:22:14  >>  DeviceConnected
+2563/10/27 11:22:14  >>  DeviceConnected
+2563/10/27 11:22:14  >>  DeviceConnected
+2563/10/27 11:22:14  >>  DeviceConnected
+2563/10/27 11:22:14  >>  DeviceConnected
+2563/10/27 11:22:14  >>  AllDevicesConnected
+2563/10/27 11:22:14  >>  AllDevicesConnected
+2563/10/27 11:22:14  >>  AllDevicesConnected
+2563/10/27 11:22:14  >>  AllDevicesConnected
+2563/10/27 11:22:14  >>  AllDevicesConnected
+2563/10/27 11:22:14  >>  Authenticate
+2563/10/27 11:22:14  >>  Authenticate
+2563/10/27 11:22:14  >>  Authenticate
+2563/10/27 11:22:14  >>  Authenticate
+2563/10/27 11:22:14  >>  Authenticate
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthProject
+2563/10/27 11:22:14  >>  AuthProject
+2563/10/27 11:22:14  >>  AuthProject
+2563/10/27 11:22:14  >>  AuthProject
+2563/10/27 11:22:14  >>  AuthProject
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  Projected
+2563/10/27 11:22:14  >>  Projected
+2563/10/27 11:22:14  >>  Projected
+2563/10/27 11:22:14  >>  Projected
+2563/10/27 11:22:14  >>  Projected
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  AuthNotify
+2563/10/27 11:22:14  >>  Authenticated
+2563/10/27 11:22:14  >>  Authenticated
+2563/10/27 11:22:14  >>  Authenticated
+2563/10/27 11:22:14  >>  Authenticated
+2563/10/27 11:22:14  >>  Authenticated
+2563/10/27 11:22:14  >>  ApplySettings
+2563/10/27 11:22:14  >>  ApplySettings
+2563/10/27 11:22:14  >>  ApplySettings
+2563/10/27 11:22:14  >>  ApplySettings
+2563/10/27 11:22:14  >>  ApplySettings
+2563/10/27 11:22:14  >>  Connected
+2563/10/27 11:22:14  >>  Connected
+2563/10/27 11:22:14  >>  Connected
+2563/10/27 11:22:14  >>  Connected
+2563/10/27 11:22:14  >>  Connected
+2563/10/27 11:22:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:14  >>  Connection Established to a PPTP Server: (192.168.100.254) with Username: (test) and Password: (1234567890) and Pre-Shared Key: (None)
+2563/10/27 11:22:36  >>  Trying to disconnect a connection
+2563/10/27 11:22:38  >>  Successfully diconnected live connection
+2563/10/27 11:31:55  >>  SurfOpenly Application Initialized
+2563/10/27 11:32:05  >>  OpenPort
+2563/10/27 11:34:49  >>  SurfOpenly Application Initialized
+2563/10/27 11:34:49  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:34:53  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:35:06  >>  Cannot delete a connection while it is connected.
+2563/10/27 11:35:19  >>  Cannot delete a connection while it is connected.
